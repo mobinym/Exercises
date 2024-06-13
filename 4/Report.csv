@@ -1,0 +1,1001 @@
+Product_Name,Customer_Name,date_time,Price_Product,Customer_email,Name_cashier,mobile_number,Transportation_fare,amount_discount,Amount_received
+Flour - Chickpea,Joseito,8/19/2023,$6.28 ,ljessope0@slate.com,Lynnelle,393-896-7782,$2.29 ,$8.73 ,$1.51 
+"Lamb - Leg, Bone In",Marielle,2/5/2023,$6.08 ,kbeyn1@amazon.de,Kerstin,526-832-7064,$1.89 ,$0.95 ,$4.94 
+Buffalo - Tenderloin,Tanya,5/12/2023,$9.02 ,mcroysdale2@berkeley.edu,Mandy,604-750-1251,$9.13 ,$0.43 ,$9.34 
+Muffins - Assorted,Hamlin,10/21/2023,$3.91 ,rhorsfield3@desdev.cn,Rogers,656-353-1535,$7.76 ,$6.04 ,$3.49 
+Alize Sunset,Whitney,11/27/2023,$2.60 ,acowin4@apache.org,Abdel,725-443-5824,$3.66 ,$0.11 ,$4.66 
+"Yogurt - Cherry, 175 Gr",Lucienne,10/9/2023,$4.15 ,psurcombe5@epa.gov,Pascale,560-942-4524,$8.56 ,$9.39 ,$9.31 
+"Chilli Paste, Sambal Oelek",Rhys,4/6/2023,$7.80 ,cguiet6@amazonaws.com,Courtney,363-677-5149,$7.90 ,$4.78 ,$2.35 
+"Turkey - Whole, Fresh",Christalle,12/18/2023,$5.33 ,cpicheford7@unicef.org,Clayson,550-891-6220,$8.08 ,$0.83 ,$0.64 
+Mikes Hard Lemonade,Ag,3/8/2023,$3.16 ,ddabels8@wired.com,Danice,540-824-8532,$5.69 ,$2.61 ,$9.15 
+Cheese - Montery Jack,Tonya,8/16/2023,$2.89 ,rfishenden9@mlb.com,Raff,242-526-5326,$3.11 ,$4.62 ,$6.40 
+Wine - Lou Black Shiraz,Wendie,10/21/2023,$1.56 ,mchoppena@livejournal.com,Marris,490-619-9547,$9.86 ,$4.61 ,$0.02 
+"Beef - Chuck, Boneless",Odelia,3/4/2023,$4.40 ,agiacovazzob@facebook.com,Augie,713-533-9372,$8.27 ,$7.72 ,$3.45 
+"Nut - Cashews, Whole, Raw",Nananne,10/7/2023,$0.75 ,ssauntonc@4shared.com,Sybil,751-181-7669,$8.16 ,$0.95 ,$4.31 
+Flour - Pastry,Wilhelmina,8/12/2023,$5.63 ,bwhalld@issuu.com,Bernardine,884-580-9225,$7.69 ,$0.79 ,$9.84 
+Wine - Barbera Alba Doc 2001,Chauncey,8/30/2023,$6.15 ,lwillbrahame@addtoany.com,Lawry,725-320-5038,$6.67 ,$1.92 ,$5.08 
+Broom - Push,Coralie,2/19/2023,$1.49 ,frawlinf@webs.com,Franny,318-190-5984,$0.20 ,$4.15 ,$1.80 
+Compound - Rum,Ethyl,9/12/2023,$8.52 ,dprivostg@msn.com,Damien,226-971-5543,$7.65 ,$4.18 ,$7.67 
+Galliano,Hazel,11/2/2023,$6.94 ,rfrenzelh@bing.com,Robenia,859-365-0016,$7.43 ,$2.27 ,$5.02 
+Wine - Riesling Dr. Pauly,Mayer,12/5/2023,$7.27 ,edelabarrei@howstuffworks.com,Emilio,468-467-5768,$2.06 ,$6.13 ,$9.27 
+Appetizer - Escargot Puff,Lyndsay,7/23/2023,$0.44 ,katkinj@oracle.com,Kerk,307-108-2980,$2.43 ,$1.97 ,$1.11 
+"Chocolate - Milk, Callets",Kelcy,5/1/2023,$6.40 ,brembrantk@seattletimes.com,Borg,647-307-8399,$3.23 ,$3.46 ,$8.33 
+Sauce - Salsa,Michaela,3/26/2023,$0.43 ,dbolstridgel@ca.gov,Domenic,326-317-2966,$5.48 ,$6.87 ,$6.07 
+Hand Towel,Sax,3/28/2023,$3.06 ,mcorderm@odnoklassniki.ru,Maure,785-269-4367,$9.71 ,$2.47 ,$3.14 
+Container - Clear 16 Oz,Isabel,10/30/2023,$6.09 ,emacnamaran@storify.com,Elihu,845-970-3441,$0.27 ,$2.89 ,$5.49 
+Pancetta,Pat,11/29/2023,$9.90 ,gstegero@jugem.jp,Garrick,902-716-5136,$2.30 ,$6.36 ,$2.97 
+Cocoa Feuilletine,Rozanne,4/9/2023,$6.10 ,jpedronip@ameblo.jp,Joby,716-972-7098,$7.40 ,$7.92 ,$0.59 
+Filter - Coffee,Arlen,7/10/2023,$7.10 ,tcaveeq@umn.edu,Tedie,340-464-9473,$8.88 ,$6.59 ,$1.98 
+Beef - Top Butt,Hillel,1/14/2023,$6.43 ,kbelsherr@github.io,Karney,820-314-6886,$6.08 ,$7.86 ,$6.32 
+"Pasta - Spaghetti, Dry",Jeddy,12/15/2023,$0.36 ,dsidwicks@bloomberg.com,Dillie,352-916-1319,$4.16 ,$0.35 ,$0.66 
+Pork - Ham Hocks - Smoked,Modestia,9/29/2023,$3.65 ,ddoryt@baidu.com,Danny,823-807-5169,$7.32 ,$5.28 ,$8.22 
+Jam - Raspberry,Ernest,5/28/2023,$9.74 ,avaseninu@joomla.org,Alyss,355-337-4192,$3.06 ,$2.11 ,$3.23 
+"Sauce - Bernaise, Mix",Leela,1/9/2023,$7.14 ,mbunneyv@creativecommons.org,Marjory,692-638-7931,$5.95 ,$3.88 ,$5.11 
+Breakfast Quesadillas,Tawnya,11/29/2023,$9.30 ,mdankw@hud.gov,Mitch,777-975-9854,$8.53 ,$8.80 ,$8.51 
+Jolt Cola - Electric Blue,Jacqui,4/17/2023,$2.17 ,cbeeckxx@sciencedaily.com,Clarey,117-845-2221,$3.42 ,$3.35 ,$1.19 
+Cookies Almond Hazelnut,Trumaine,10/28/2023,$1.45 ,hchesmany@ihg.com,Harold,644-304-6966,$9.11 ,$9.84 ,$7.62 
+Cake - Miini Cheesecake Cherry,Fons,5/29/2023,$0.36 ,lweichz@printfriendly.com,Luelle,486-593-7418,$0.29 ,$7.09 ,$1.21 
+Mussels - Cultivated,Odette,6/17/2023,$0.14 ,fgierok10@clickbank.net,Feliks,772-227-2493,$7.02 ,$5.61 ,$8.57 
+Yoghurt Tubes,Bethina,5/13/2023,$9.60 ,teacott11@prlog.org,Thedrick,240-935-3595,$5.55 ,$1.54 ,$4.23 
+Wine - Prosecco Valdobiaddene,Lari,11/25/2023,$7.32 ,celcocks12@webs.com,Catriona,223-649-4776,$2.70 ,$7.96 ,$6.23 
+Gelatine Leaves - Bulk,Lazaro,3/9/2023,$8.26 ,fhatherleigh13@boston.com,Florri,355-368-6193,$9.18 ,$4.72 ,$3.89 
+Ginger - Crystalized,Vern,8/17/2023,$1.14 ,mdodell14@sohu.com,Morganne,830-702-3859,$4.71 ,$0.32 ,$3.10 
+Pork Salted Bellies,Alberto,10/25/2023,$8.10 ,pvanacci15@wsj.com,Penni,294-134-5214,$2.33 ,$4.32 ,$4.54 
+"Soup - Campbells, Butternut",Michel,5/28/2023,$4.18 ,rpovlsen16@shinystat.com,Rycca,382-360-0163,$3.92 ,$1.32 ,$8.22 
+Nantucket - 518ml,Donica,4/30/2023,$0.78 ,pmcquorkel17@blogger.com,Perren,982-732-8065,$5.87 ,$8.38 ,$0.51 
+Tea - Camomele,Aurlie,8/17/2023,$2.77 ,lfarmloe18@oakley.com,Loise,424-651-6581,$2.97 ,$0.99 ,$9.14 
+Beer - Rickards Red,Christiano,9/30/2023,$1.86 ,smerriott19@lulu.com,Sol,814-580-3493,$9.31 ,$2.25 ,$7.02 
+Campari,Fiorenze,12/8/2023,$3.40 ,fvanbruggen1a@1und1.de,Fredrika,243-952-4514,$6.58 ,$0.84 ,$6.99 
+Nougat - Paste / Cream,Devy,3/22/2023,$5.88 ,iworthy1b@weather.com,Ive,309-545-9829,$4.91 ,$6.83 ,$6.99 
+Jam - Apricot,Verina,7/21/2023,$2.14 ,nmcfie1c@bing.com,Nanette,531-578-4976,$8.10 ,$2.44 ,$2.36 
+Wine - Barbera Alba Doc 2001,Delia,3/4/2023,$5.16 ,gcolthurst1d@pinterest.com,Giraud,137-228-6184,$2.68 ,$9.36 ,$0.18 
+Beef Dry Aged Tenderloin Aaa,Aridatha,9/15/2023,$6.53 ,drennles1e@baidu.com,Dominique,497-927-8490,$7.92 ,$2.52 ,$0.02 
+Walkers Special Old Whiskey,Cristabel,5/15/2023,$8.05 ,kpotebury1f@paginegialle.it,Klarrisa,964-715-1897,$1.81 ,$1.22 ,$0.77 
+Beef - Shank,Lois,5/4/2023,$3.81 ,thattiff1g@adobe.com,Trumaine,754-896-0428,$7.45 ,$7.81 ,$5.77 
+Steam Pan Full Lid,Gale,8/13/2023,$2.84 ,gphinnis1h@dailymotion.com,Geoffrey,719-415-4594,$0.54 ,$8.13 ,$1.56 
+Cheese - Pied De Vents,Gratiana,5/14/2023,$0.97 ,kharriday1i@scientificamerican.com,Kriste,484-643-1271,$8.58 ,$0.97 ,$3.04 
+Beans - Yellow,Drucill,8/27/2023,$7.39 ,ozettler1j@dmoz.org,Olia,512-488-8201,$7.59 ,$0.19 ,$2.16 
+Duck - Whole,Brand,6/14/2023,$1.09 ,mgonnely1k@google.nl,Melamie,273-744-5576,$2.89 ,$9.12 ,$8.09 
+Lentils - Green Le Puy,Byram,8/4/2023,$2.62 ,ljaukovic1l@virginia.edu,Lorette,582-856-5656,$3.79 ,$2.64 ,$9.10 
+"Fish - Soup Base, Bouillon",Georgena,5/25/2023,$1.10 ,bpavel1m@patch.com,Bobbye,809-302-3470,$4.90 ,$7.77 ,$5.38 
+Soho Lychee Liqueur,Sutton,6/19/2023,$1.33 ,llobell1n@hugedomains.com,Luigi,451-485-6782,$4.16 ,$4.44 ,$0.12 
+Banana - Leaves,Galven,7/31/2023,$1.06 ,jharrigan1o@nytimes.com,Jade,433-161-0167,$2.95 ,$6.32 ,$6.62 
+Ice Cream Bar - Hageen Daz To,Marybeth,4/5/2023,$8.13 ,bbertie1p@hugedomains.com,Buck,572-943-7999,$9.49 ,$7.77 ,$4.25 
+The Pop Shoppe - Grape,Flory,4/5/2023,$1.62 ,cletertre1q@shinystat.com,Christen,372-173-4143,$2.31 ,$5.33 ,$5.88 
+"Mustard - Dry, Powder",Gage,3/7/2023,$3.32 ,cfussie1r@miibeian.gov.cn,Culley,152-380-5818,$0.94 ,$3.20 ,$7.53 
+"Veal - Tenderloin, Untrimmed",Ward,11/15/2023,$8.34 ,cskaifedingerthorpe1s@vk.com,Calhoun,604-592-8795,$7.97 ,$9.94 ,$1.34 
+Tomatoes - Orange,Nicky,5/28/2023,$8.57 ,ohymus1t@paypal.com,Otto,264-937-8131,$3.09 ,$3.15 ,$9.91 
+Beer - Mill St Organic,Gaven,12/11/2023,$1.99 ,dsivil1u@google.es,Dal,623-492-0293,$9.16 ,$9.99 ,$7.60 
+Icecream - Dibs,Loretta,5/9/2023,$4.08 ,jabrahams1v@deviantart.com,Jeffry,176-118-6145,$7.57 ,$5.12 ,$6.39 
+Wine - Sogrape Mateus Rose,Spencer,12/17/2023,$2.23 ,mchue1w@meetup.com,Marthe,448-383-6528,$2.90 ,$7.36 ,$8.10 
+"Sauce - Black Current, Dry Mix",Daisie,1/1/2024,$5.90 ,rprosser1x@etsy.com,Reid,890-885-8958,$4.96 ,$8.50 ,$7.14 
+"Dill - Primerba, Paste",Rubina,4/27/2023,$8.85 ,tstuck1y@washington.edu,Tildie,995-300-0114,$9.86 ,$5.38 ,$2.62 
+Appetizer - Seafood Assortment,Karry,10/29/2023,$7.94 ,fdennison1z@instagram.com,Freddy,497-364-2665,$2.96 ,$5.86 ,$7.82 
+Lemons,Glenine,6/14/2023,$4.71 ,jdo20@abc.net.au,Jerrome,645-140-2675,$3.58 ,$5.84 ,$6.46 
+Buffalo - Striploin,Arlie,12/11/2023,$6.60 ,tmockes21@huffingtonpost.com,Tammy,976-675-0006,$7.54 ,$7.94 ,$6.42 
+"Sauce - Gravy, Au Jus, Mix",Ade,8/14/2023,$9.59 ,aismirnioglou22@dailymotion.com,Andy,466-632-2108,$6.30 ,$7.38 ,$8.60 
+Veal - Inside,Sherlocke,10/10/2023,$9.36 ,dthorsby23@cam.ac.uk,Daron,865-793-0415,$0.97 ,$0.22 ,$4.77 
+Island Oasis - Sweet And Sour Mix,Wait,12/12/2023,$1.76 ,athexton24@etsy.com,Andie,236-613-6186,$6.22 ,$0.57 ,$6.53 
+Wine - Sawmill Creek Autumn,Adrian,8/18/2023,$7.93 ,ubalaison25@oracle.com,Ulises,614-689-6169,$8.31 ,$4.36 ,$4.53 
+Pur Value,Rossy,3/15/2023,$0.47 ,mstuart26@instagram.com,Margret,654-241-4814,$5.72 ,$8.11 ,$8.42 
+"Nut - Almond, Blanched, Sliced",Heda,11/6/2023,$8.74 ,mwimes27@unicef.org,Maighdiln,190-666-4600,$3.19 ,$9.59 ,$8.01 
+Red Cod Fillets - 225g,Caleb,8/2/2023,$2.56 ,deverill28@berkeley.edu,Demeter,138-254-4103,$1.22 ,$4.09 ,$5.29 
+Wine - Manischewitz Concord,Cassaundra,8/20/2023,$9.70 ,estrangeway29@360.cn,Estell,524-259-8361,$8.25 ,$0.11 ,$0.87 
+Mints - Striped Red,Mort,1/31/2023,$3.82 ,yseagrave2a@springer.com,Yetta,254-901-1150,$4.67 ,$4.44 ,$3.44 
+Bagel - Ched Chs Presliced,Frederick,7/5/2023,$9.71 ,kcortez2b@cocolog-nifty.com,Kendricks,667-847-5223,$5.09 ,$4.97 ,$7.77 
+Oven Mitts - 15 Inch,Chiarra,9/11/2023,$9.16 ,fbarneveld2c@china.com.cn,Floyd,294-739-7389,$9.71 ,$9.75 ,$5.75 
+Turkey Leg With Drum And Thigh,Cheston,1/25/2023,$8.56 ,smcgiffin2d@eventbrite.com,Sherie,822-313-6492,$8.95 ,$5.85 ,$2.02 
+Wine - Two Oceans Cabernet,Otho,9/25/2023,$2.68 ,wmarin2e@skype.com,Wolfgang,273-543-9802,$2.82 ,$3.40 ,$3.97 
+Compound - Raspberry,Kiri,11/21/2023,$4.09 ,tschulke2f@hexun.com,Truman,414-542-8706,$9.50 ,$7.91 ,$6.76 
+Ostrich - Prime Cut,Laurens,1/18/2023,$3.88 ,bmacardle2g@photobucket.com,Boot,439-285-7005,$2.23 ,$2.17 ,$0.56 
+Ecolab - Ster Bac,Pavel,5/27/2023,$3.35 ,ebroyd2h@disqus.com,Emmy,643-346-3943,$0.97 ,$7.56 ,$4.44 
+"Pasta - Elbows, Macaroni, Dry",Aubree,3/5/2023,$2.94 ,cdarlington2i@ezinearticles.com,Carver,418-241-2076,$1.14 ,$9.73 ,$0.13 
+Beans - Kidney White,Elvis,7/17/2023,$5.62 ,mwarbrick2j@boston.com,Maurise,444-503-6830,$2.04 ,$5.14 ,$0.62 
+Chips - Potato Jalapeno,Asa,7/10/2023,$1.42 ,soxbrough2k@free.fr,Starlene,942-384-6419,$0.41 ,$1.69 ,$2.31 
+"Nut - Pistachio, Shelled",Imogen,2/11/2023,$7.02 ,bgayton2l@4shared.com,Beret,363-968-3101,$2.33 ,$1.85 ,$1.78 
+Tea - Herbal Sweet Dreams,Jobyna,10/16/2023,$5.84 ,cjerams2m@youtu.be,Chev,401-903-2539,$5.00 ,$8.66 ,$9.20 
+Bowl 12 Oz - Showcase 92012,Irving,11/3/2023,$2.53 ,blamey2n@reuters.com,Brennan,156-890-4159,$1.47 ,$6.07 ,$7.72 
+"Shrimp - Baby, Warm Water",Gilda,3/30/2023,$0.58 ,tdye2o@msn.com,Tamiko,253-628-1026,$2.38 ,$7.54 ,$7.21 
+"Gin - Gilbeys London, Dry",Joby,4/14/2023,$6.52 ,qsawrey2p@nasa.gov,Quintilla,248-386-7526,$5.74 ,$9.01 ,$1.22 
+Lumpfish Black,Tybalt,6/22/2023,$9.85 ,gtissiman2q@elegantthemes.com,Gaylor,291-708-5904,$0.66 ,$8.57 ,$4.19 
+Cinnamon - Ground,Laurence,9/27/2023,$9.72 ,tfrancesconi2r@weather.com,Truman,490-895-6190,$7.69 ,$5.92 ,$9.06 
+Sproutsmustard Cress,Frances,3/9/2023,$8.61 ,cferraretto2s@bravesites.com,Cinda,597-646-0234,$2.80 ,$6.88 ,$8.60 
+Olives - Morracan Dired,Bird,12/2/2023,$1.97 ,gavramov2t@hubpages.com,Garreth,195-745-2224,$7.19 ,$4.73 ,$5.78 
+Rum - Mount Gay Eclipes,Thaddeus,3/20/2023,$2.32 ,rolphert2u@scribd.com,Rozele,935-776-9057,$2.65 ,$7.32 ,$4.46 
+"Bar Mix - Pina Colada, 355 Ml",Blane,10/18/2023,$7.27 ,mdeanesy2v@godaddy.com,Mikaela,616-776-1952,$1.90 ,$7.60 ,$4.61 
+"Asparagus - White, Canned",Jasmina,8/17/2023,$4.16 ,blarwell2w@dell.com,Barbra,424-878-8931,$4.70 ,$3.92 ,$5.19 
+"Cup - 6oz, Foam",Pincus,12/14/2023,$4.66 ,lkulver2x@loc.gov,Lacee,704-869-3923,$4.78 ,$6.20 ,$1.76 
+Buffalo - Striploin,Leupold,10/23/2023,$7.05 ,bbaskwell2y@mozilla.com,Bryana,915-166-4124,$0.86 ,$2.24 ,$7.24 
+Sandwich Wrap,Sylvan,6/5/2023,$9.27 ,kharriot2z@scientificamerican.com,Kellia,149-603-5164,$9.31 ,$5.98 ,$1.18 
+"Stock - Chicken, White",Gabriel,9/24/2023,$0.19 ,haleshkov30@blogspot.com,Henrietta,191-729-7127,$6.21 ,$4.89 ,$5.18 
+Containter - 3oz Microwave Rect.,Rhiamon,8/19/2023,$7.46 ,sworvell31@umich.edu,Stephen,498-223-2335,$2.70 ,$7.54 ,$6.13 
+Sauce - Roasted Red Pepper,Basilius,2/14/2023,$7.53 ,hmacro32@cornell.edu,Howard,633-177-5589,$5.57 ,$7.98 ,$3.03 
+"Beef - Baby, Liver",Mehetabel,4/6/2023,$9.90 ,avido33@biblegateway.com,Abbye,843-833-2656,$5.89 ,$8.77 ,$7.77 
+"Lemonade - Kiwi, 591 Ml",Dulcine,12/23/2023,$3.23 ,dbremner34@nps.gov,Dinny,493-499-8433,$2.20 ,$7.30 ,$8.93 
+Kaffir Lime Leaves,Fidela,9/2/2023,$2.56 ,mgouldbourn35@de.vu,Mordecai,263-847-0820,$5.62 ,$3.15 ,$9.64 
+Water - Spring 1.5lit,Allyson,12/1/2023,$2.09 ,esemper36@1688.com,Estrellita,158-503-4476,$2.68 ,$1.91 ,$7.99 
+Garlic - Elephant,Christie,9/30/2023,$5.76 ,jemmitt37@miibeian.gov.cn,Jelene,491-839-1458,$5.53 ,$2.75 ,$9.07 
+Chocolate - Semi Sweet,Elbertine,6/18/2023,$9.87 ,pcollingdon38@hao123.com,Palm,473-595-6199,$6.69 ,$7.45 ,$9.89 
+Kahlua,Bobbette,4/15/2023,$6.95 ,ofeander39@discuz.net,Odella,447-363-8453,$7.01 ,$5.05 ,$6.18 
+"Flour - Corn, Fine",Ann,2/8/2023,$4.29 ,kmarson3a@gov.uk,Karie,756-406-0903,$3.38 ,$7.49 ,$9.39 
+Tomato - Green,Homerus,9/20/2023,$5.13 ,lbettison3b@surveymonkey.com,Lebbie,251-420-6462,$5.12 ,$8.79 ,$9.60 
+Nectarines,Jon,7/11/2023,$9.12 ,kdenison3c@msn.com,Kellen,603-804-7951,$0.08 ,$8.76 ,$0.02 
+Fondant - Icing,Quintina,2/5/2023,$8.59 ,swakes3d@google.es,Shannan,376-235-1008,$6.36 ,$2.91 ,$2.20 
+"Soup - Campbells, Cream Of",Evangelina,11/30/2023,$1.27 ,bswatten3e@clickbank.net,Biron,464-451-5906,$5.44 ,$6.86 ,$5.27 
+Coffee - Flavoured,Dori,8/12/2023,$2.35 ,cveare3f@cocolog-nifty.com,Cyrus,598-580-8876,$3.47 ,$6.70 ,$0.38 
+Vaccum Bag 10x13,Corinna,12/19/2023,$8.02 ,tyeoman3g@google.ca,Tremayne,331-852-0549,$0.91 ,$9.92 ,$1.99 
+Towel Dispenser,Heida,4/21/2023,$6.46 ,kpiris3h@merriam-webster.com,Keen,762-164-1604,$5.82 ,$1.72 ,$7.42 
+Ice Cream - Vanilla,Barton,2/8/2023,$3.18 ,lfuidge3i@t.co,Loraine,342-454-5782,$3.80 ,$5.07 ,$7.87 
+Sugar - Invert,Tiffanie,7/1/2023,$7.43 ,dcopello3j@webeden.co.uk,Daryl,237-551-2715,$0.37 ,$4.86 ,$3.52 
+"Pail - 15l White, With Handle",Regina,5/15/2023,$1.67 ,gdelgado3k@npr.org,Gerick,383-244-7865,$2.46 ,$9.30 ,$1.58 
+Chicken - Bones,Porty,7/4/2023,$4.87 ,astreet3l@angelfire.com,Arleen,495-223-2346,$6.19 ,$4.72 ,$7.09 
+Sage Ground Wiberg,Silva,3/8/2023,$2.00 ,cbollum3m@ihg.com,Craggie,918-447-5169,$4.15 ,$9.07 ,$8.05 
+Coffee - Flavoured,Wini,11/15/2023,$6.01 ,lstelle3n@paginegialle.it,Lucina,237-563-6600,$4.78 ,$1.08 ,$3.60 
+Eggplant - Regular,Gusella,12/29/2023,$8.93 ,ceilert3o@ifeng.com,Camile,985-822-5155,$3.82 ,$8.90 ,$8.07 
+"Tortillas - Flour, 8",Kenny,8/24/2023,$3.40 ,pprobet3p@wisc.edu,Pearline,103-444-8599,$6.39 ,$3.36 ,$2.92 
+Bread - Pita,Rebecca,4/25/2023,$2.90 ,rhirtzmann3q@oracle.com,Raffarty,697-236-7843,$5.73 ,$8.49 ,$5.89 
+Spice - Onion Powder Granulated,Nissy,9/27/2023,$7.96 ,cshuker3r@sbwire.com,Conchita,372-143-9137,$1.39 ,$3.65 ,$7.82 
+Magnotta Bel Paese Red,Maren,11/14/2023,$9.06 ,ccastro3s@xrea.com,Candy,987-476-0258,$5.62 ,$3.49 ,$0.36 
+Carbonated Water - Lemon Lime,Berrie,9/14/2023,$1.10 ,lbeldum3t@cbc.ca,Lucia,572-995-0947,$4.21 ,$1.08 ,$5.61 
+"Pepper - Chipotle, Canned",Iago,5/17/2023,$2.22 ,nramlot3u@newsvine.com,Nonna,220-573-5634,$6.48 ,$4.94 ,$2.17 
+Sugar - Palm,Corrianne,8/15/2023,$2.33 ,vwoodstock3v@ed.gov,Van,627-396-8947,$4.08 ,$5.42 ,$8.94 
+Wine - Magnotta - Cab Franc,Wes,6/15/2023,$4.50 ,hpomfret3w@va.gov,Hermina,376-138-9118,$8.56 ,$2.35 ,$7.53 
+Ice Cream Bar - Hagen Daz,Stephen,8/11/2023,$5.68 ,lbrooksbie3x@narod.ru,Lanny,609-193-5741,$9.17 ,$6.46 ,$1.37 
+"Wine - White, Concha Y Toro",Faun,3/26/2023,$9.33 ,bfarris3y@prnewswire.com,Bradan,957-345-1326,$1.25 ,$6.42 ,$5.47 
+"Fish - Atlantic Salmon, Cold",Ruy,11/29/2023,$4.80 ,ereynish3z@amazonaws.com,Elijah,689-863-9759,$8.35 ,$8.47 ,$8.62 
+Beans - Yellow,Greg,4/6/2023,$9.78 ,ikirby40@wikia.com,Inez,202-694-1414,$2.30 ,$6.53 ,$9.53 
+Wine - Two Oceans Cabernet,Jemimah,10/17/2023,$3.23 ,cprandin41@purevolume.com,Cheslie,851-523-2429,$5.66 ,$8.48 ,$0.86 
+Pernod,Reider,10/15/2023,$5.73 ,psimmgen42@wikimedia.org,Pauline,129-467-7545,$8.34 ,$4.94 ,$7.83 
+Bouq All Italian - Primerba,Orelia,6/17/2023,$2.28 ,emarquess43@timesonline.co.uk,Evanne,178-914-2559,$1.68 ,$2.75 ,$3.23 
+Cabbage - Green,Wilow,4/27/2023,$1.92 ,amatuszyk44@who.int,Angil,299-100-2207,$8.30 ,$0.72 ,$5.50 
+Cheese Cheddar Processed,Elene,2/6/2023,$7.17 ,etuting45@cornell.edu,Elwyn,928-892-8822,$9.20 ,$6.31 ,$6.64 
+Island Oasis - Pina Colada,Franni,7/26/2023,$9.68 ,smackey46@google.ru,Shay,863-673-7162,$4.28 ,$1.61 ,$5.89 
+Sobe - Lizard Fuel,Niven,1/12/2023,$6.41 ,fbickmore47@networkadvertising.org,Fionna,719-193-9718,$5.41 ,$1.48 ,$7.38 
+Yukon Jack,Evelina,11/8/2023,$8.01 ,afarington48@google.nl,Adriana,254-515-1560,$8.84 ,$7.12 ,$3.34 
+Spice - Paprika,Dew,5/8/2023,$0.35 ,aparmley49@house.gov,Arvy,709-885-3102,$4.52 ,$3.71 ,$2.33 
+Shrimp - Tiger 21/25,Abbie,1/3/2023,$3.62 ,cwinman4a@opera.com,Carlin,852-486-4899,$0.99 ,$2.98 ,$0.08 
+"Juice - Tomato, 10 Oz",Audre,8/21/2023,$4.78 ,rgerriets4b@nature.com,Ree,729-234-8401,$4.16 ,$3.46 ,$8.88 
+Tart - Lemon,Noland,4/24/2023,$4.00 ,jgoldin4c@cnet.com,Janeva,319-760-5655,$4.50 ,$6.19 ,$9.28 
+Mackerel Whole Fresh,Anneliese,9/25/2023,$6.88 ,oscupham4d@elpais.com,Orlan,142-817-9369,$2.29 ,$1.80 ,$8.23 
+Cinnamon Rolls,Joletta,11/14/2023,$4.95 ,ckeeri4e@livejournal.com,Cyndia,124-140-7859,$1.02 ,$0.83 ,$9.76 
+Longos - Chicken Caeser Salad,Thomas,11/14/2023,$3.48 ,vvesco4f@angelfire.com,Vivi,895-727-7098,$2.31 ,$0.32 ,$1.89 
+Chickensplit Half,Prince,4/3/2023,$9.72 ,ifriel4g@photobucket.com,Irma,352-861-4194,$6.90 ,$1.47 ,$6.34 
+Chickensplit Half,Janet,9/3/2023,$0.89 ,tcroisdall4h@eventbrite.com,Tawnya,101-943-9913,$4.10 ,$0.25 ,$7.15 
+Numi - Assorted Teas,Clayborne,2/16/2023,$5.70 ,pday4i@slideshare.net,Pia,888-918-1020,$9.71 ,$4.22 ,$7.48 
+Sauce Bbq Smokey,Trisha,12/11/2023,$1.00 ,hgillings4j@eepurl.com,Hobart,781-338-5084,$9.75 ,$1.40 ,$8.73 
+Crackers - Graham,Prince,6/24/2023,$3.18 ,mweldrake4k@uiuc.edu,Merla,515-751-8761,$7.62 ,$9.98 ,$8.93 
+Apricots - Halves,Philis,9/11/2023,$4.99 ,rschnieder4l@amazon.com,Rozanna,542-162-9000,$4.59 ,$7.78 ,$1.06 
+Cream - 35%,Cull,7/11/2023,$7.60 ,anottingham4m@nytimes.com,Anthiathia,571-573-8116,$3.41 ,$3.65 ,$6.62 
+Yoghurt Tubes,Karita,1/23/2023,$7.10 ,jseydlitz4n@mlb.com,Joannes,254-386-9305,$1.45 ,$4.33 ,$3.64 
+Chinese Foods - Chicken,Kristian,7/9/2023,$5.13 ,sjenkison4o@prlog.org,Sky,514-226-2075,$7.37 ,$4.26 ,$2.99 
+Onions - Cippolini,Charles,10/31/2023,$9.48 ,dmcturk4p@twitpic.com,Dory,181-792-9970,$3.17 ,$3.74 ,$6.40 
+Ecolab - Medallion,Adaline,6/12/2023,$0.85 ,aminchella4q@bizjournals.com,Ambrose,984-914-0053,$8.34 ,$1.15 ,$5.34 
+"Bread - Multigrain, Loaf",Berry,12/11/2023,$7.85 ,sdutch4r@bloglines.com,Sophia,628-353-4694,$7.85 ,$9.38 ,$9.33 
+Vodka - Moskovskaya,Jillana,10/21/2023,$9.57 ,gbrooksbank4s@census.gov,Gay,592-994-2050,$7.34 ,$6.09 ,$9.66 
+Soup Campbells - Italian Wedding,Lindsay,7/25/2023,$5.08 ,hdearing4t@discuz.net,Hamlin,127-560-0316,$3.93 ,$3.28 ,$0.30 
+"Fish - Halibut, Cold Smoked",Nicola,6/14/2023,$7.03 ,ehawkett4u@sourceforge.net,Eden,993-942-5028,$1.40 ,$1.38 ,$2.77 
+Sugar - Crumb,Evan,11/14/2023,$5.77 ,mleetham4v@dell.com,Meriel,556-179-7177,$3.67 ,$8.65 ,$0.67 
+Aspic - Light,Jelene,6/3/2023,$8.35 ,lozelton4w@weebly.com,Lonnard,696-921-7969,$3.25 ,$5.16 ,$1.26 
+Cookie - Oreo 100x2,Koenraad,1/14/2023,$4.69 ,rnayer4x@tmall.com,Roanne,110-839-3226,$7.75 ,$7.94 ,$0.26 
+Jello - Assorted,Adah,5/5/2023,$9.02 ,itredgold4y@virginia.edu,Ike,362-882-7952,$7.53 ,$4.79 ,$0.09 
+Lettuce - Lambs Mash,Bernhard,12/18/2023,$2.36 ,gvalentinetti4z@so-net.ne.jp,Goldina,685-815-0257,$3.08 ,$9.95 ,$6.34 
+Tea - Honey Green Tea,Annissa,7/22/2023,$2.47 ,bteaz50@quantcast.com,Brendon,980-744-9788,$5.18 ,$0.77 ,$3.31 
+Pork Ham Prager,Tobe,3/23/2023,$1.77 ,aleason51@globo.com,Artemas,901-409-8952,$2.03 ,$8.85 ,$2.66 
+Anchovy Fillets,Shepherd,11/16/2023,$2.52 ,ipietrzak52@theatlantic.com,Ilsa,733-165-9286,$2.13 ,$7.16 ,$4.27 
+Flavouring - Orange,Clarita,5/8/2023,$3.16 ,jcocozza53@ezinearticles.com,Julius,732-298-8100,$2.72 ,$6.61 ,$0.36 
+"Pork - Butt, Boneless",Sophronia,7/9/2023,$5.01 ,bburhouse54@xinhuanet.com,Baxy,992-614-4688,$0.03 ,$0.56 ,$2.80 
+Chinese Foods - Chicken,Sheila-kathryn,5/28/2023,$3.03 ,eallaway55@walmart.com,Emmye,835-648-0269,$3.29 ,$0.46 ,$1.87 
+Spic And Span All Purpose,Jason,5/3/2023,$7.64 ,dmcdougal56@forbes.com,De,464-610-7571,$2.27 ,$8.22 ,$1.52 
+"Cheese - Brie, Triple Creme",Suzann,9/30/2023,$9.82 ,dmalafe57@shareasale.com,Darci,913-316-7766,$6.45 ,$5.07 ,$1.87 
+"Beef - Rouladin, Sliced",Annmarie,9/10/2023,$0.15 ,mzettoi58@nytimes.com,Moyna,110-251-3078,$8.86 ,$1.61 ,$8.48 
+"Stock - Veal, Brown",Nobe,11/26/2023,$3.03 ,ffeast59@hud.gov,Findley,198-783-2231,$9.95 ,$2.12 ,$7.33 
+Table Cloth 62x120 Colour,Rois,9/13/2023,$5.01 ,sitzkin5a@moonfruit.com,Selle,808-431-2102,$6.56 ,$6.73 ,$1.49 
+"Wine - White, Ej",Mitchael,5/29/2023,$4.43 ,probertis5b@earthlink.net,Pepita,668-497-3305,$7.39 ,$1.29 ,$6.49 
+Lid Tray - 16in Dome,Lilla,8/31/2023,$6.22 ,lmallabund5c@artisteer.com,Lewiss,438-816-5953,$8.89 ,$7.77 ,$6.61 
+Lid - 3oz Med Rec,Kissiah,10/21/2023,$2.83 ,ninglefield5d@mlb.com,Noam,530-406-6643,$4.13 ,$5.14 ,$8.74 
+Juice - Orange,Merv,11/4/2023,$5.95 ,alesmonde5e@npr.org,Adriane,693-964-2080,$7.51 ,$0.63 ,$5.21 
+"Lamb - Whole, Fresh",Ashlen,10/23/2023,$2.20 ,mtripp5f@technorati.com,Milicent,790-610-4393,$4.43 ,$1.10 ,$7.58 
+"Pasta - Cannelloni, Sheets, Fresh",Dulcia,3/26/2023,$1.57 ,aeydel5g@nps.gov,Ave,774-627-7595,$7.19 ,$1.81 ,$5.89 
+Salmon - Fillets,Wilt,6/11/2023,$2.72 ,tclementson5h@home.pl,Theda,314-146-9963,$8.65 ,$1.50 ,$8.51 
+Turnip - Mini,Cly,11/23/2023,$6.08 ,fhaberfield5i@tripadvisor.com,Fredi,677-461-4260,$8.45 ,$6.38 ,$0.47 
+Beef - Texas Style Burger,Binny,6/23/2023,$2.60 ,rfollit5j@statcounter.com,Rozanne,786-511-2661,$6.76 ,$5.91 ,$2.23 
+"Wine - White, Cooking",Frants,4/4/2023,$2.61 ,ogoreisr5k@netscape.com,Orsa,503-180-0015,$6.52 ,$8.82 ,$8.31 
+Frangelico,Boote,3/27/2023,$7.41 ,ksambals5l@aol.com,Kanya,341-700-0446,$1.27 ,$1.38 ,$7.57 
+Longos - Chicken Cordon Bleu,Rachele,7/3/2023,$6.65 ,htoppas5m@state.tx.us,Heddi,796-678-0442,$9.05 ,$8.69 ,$0.65 
+Veal - Sweetbread,Roarke,1/10/2023,$1.12 ,dpattle5n@homestead.com,Dasie,279-413-9215,$8.58 ,$6.20 ,$1.09 
+Beets - Mini Golden,Deonne,8/15/2023,$9.95 ,jabrahami5o@pinterest.com,Judon,299-106-9940,$3.35 ,$8.26 ,$7.57 
+Glucose,Viviana,8/24/2023,$0.28 ,bluckhurst5p@pcworld.com,Brod,253-653-3158,$3.39 ,$3.78 ,$3.74 
+Tomatoes - Heirloom,Maje,3/27/2023,$7.80 ,atunaclift5q@digg.com,Arny,922-916-0280,$7.57 ,$3.74 ,$5.85 
+"Turkey - Breast, Boneless Sk On",Kamillah,11/7/2023,$6.10 ,fpeaple5r@infoseek.co.jp,Felipa,335-301-6792,$8.44 ,$9.92 ,$4.70 
+Mikes Hard Lemonade,Avril,12/19/2023,$3.70 ,skobke5s@trellian.com,Sophey,796-525-1451,$6.61 ,$8.98 ,$9.27 
+Amarula Cream,Emmy,11/26/2023,$2.42 ,rtoulch5t@liveinternet.ru,Rosabelle,581-255-7242,$5.14 ,$0.05 ,$3.36 
+Snapple - Iced Tea Peach,Joli,12/28/2023,$4.43 ,tguiducci5u@reuters.com,Toddie,485-984-3352,$4.50 ,$9.88 ,$1.01 
+Island Oasis - Mango Daiquiri,Alica,1/3/2023,$6.68 ,mcrimin5v@sitemeter.com,Millie,214-209-4713,$4.65 ,$3.23 ,$6.26 
+"Bread - Multigrain, Loaf",Van,4/7/2023,$8.00 ,cmeineking5w@digg.com,Carmita,691-489-8007,$5.31 ,$4.23 ,$3.04 
+Wine - Maipo Valle Cabernet,Lynett,12/20/2023,$2.20 ,kpoluzzi5x@livejournal.com,Kim,765-138-0750,$6.02 ,$1.48 ,$4.75 
+Tomatoes - Orange,Kelci,9/23/2023,$2.56 ,hshapira5y@craigslist.org,Hamel,941-337-6990,$5.82 ,$4.25 ,$4.48 
+"Yogurt - Cherry, 175 Gr",Fidole,4/17/2023,$3.08 ,vurian5z@usgs.gov,Valencia,641-297-2366,$4.32 ,$6.78 ,$9.13 
+Burger Veggie,Vicky,7/24/2023,$9.35 ,emattisssen60@yahoo.com,Ettie,864-398-7190,$8.83 ,$3.06 ,$1.56 
+Assorted Desserts,Dix,7/23/2023,$0.26 ,wlyptrade61@de.vu,Wilow,875-952-0793,$3.43 ,$1.15 ,$0.60 
+Water - Perrier,Bran,11/16/2023,$7.04 ,agisburne62@bigcartel.com,Ardene,690-688-4648,$2.87 ,$2.86 ,$9.56 
+Beer - Heinekin,Maryanna,4/23/2023,$4.79 ,wmumm63@senate.gov,Westley,182-720-1178,$3.44 ,$4.45 ,$7.48 
+Wine - Taylors Reserve,Neale,8/5/2023,$3.09 ,pdrohane64@google.cn,Padget,809-814-6973,$0.45 ,$7.81 ,$5.57 
+Muffin Hinge 117n,Cobb,5/10/2023,$0.00 ,gvanyashkin65@umich.edu,Gabbie,147-621-8486,$3.99 ,$3.06 ,$7.20 
+Beans - Yellow,Niven,9/17/2023,$7.16 ,pbabbs66@netvibes.com,Pepi,680-311-6044,$9.84 ,$6.94 ,$2.38 
+Chicken - Base,Ethelda,3/31/2023,$1.85 ,aarmistead67@diigo.com,Alphard,721-638-3615,$7.37 ,$6.61 ,$0.52 
+Sugar - Icing,Ash,6/18/2023,$3.00 ,vjellicorse68@pcworld.com,Vyky,869-287-8303,$0.16 ,$8.61 ,$0.96 
+Pepper - Green Thai,Jimmie,6/1/2023,$9.94 ,pgrishenkov69@smugmug.com,Parrnell,370-322-6379,$9.31 ,$0.67 ,$5.54 
+Tofu - Soft,Guthrie,9/25/2023,$9.84 ,sambler6a@parallels.com,Shalna,586-231-1125,$7.24 ,$3.98 ,$0.10 
+Cake - Night And Day Choclate,Putnam,4/18/2023,$5.41 ,pleatherbarrow6b@cmu.edu,Philippa,348-842-1967,$3.32 ,$1.01 ,$4.20 
+Zucchini - Green,Mason,4/9/2023,$7.38 ,tranger6c@slate.com,Tanya,580-791-2885,$7.82 ,$7.12 ,$2.13 
+"Lemonade - Kiwi, 591 Ml",Pryce,2/19/2023,$4.65 ,bfrobisher6d@wikimedia.org,Birdie,721-947-3793,$4.04 ,$7.95 ,$9.99 
+"Lamb - Pieces, Diced",Lorena,11/11/2023,$7.63 ,kjaffray6e@google.ca,Kim,775-821-3851,$4.43 ,$2.49 ,$2.56 
+Russian Prince,Trever,12/10/2023,$3.82 ,jmengue6f@businessinsider.com,Jessie,869-931-1464,$5.47 ,$9.02 ,$7.04 
+"Stock - Beef, Brown",Cathie,4/8/2023,$4.42 ,mbrainsby6g@elegantthemes.com,Marietta,911-948-9049,$0.88 ,$8.92 ,$9.26 
+Wine - Fume Blanc Fetzer,Massimiliano,5/31/2023,$8.40 ,scursey6h@archive.org,Sherlocke,274-313-0232,$7.10 ,$4.90 ,$8.94 
+Cassis,Roosevelt,11/12/2023,$0.94 ,freadett6i@ibm.com,Fidelio,605-266-7098,$0.44 ,$7.55 ,$4.36 
+Oregano - Fresh,Nikki,11/6/2023,$7.18 ,dcoady6j@jimdo.com,Dilly,897-302-3379,$9.84 ,$5.26 ,$6.31 
+Milk - Chocolate 500ml,Park,3/12/2023,$1.35 ,ctrenfield6k@wisc.edu,Cody,873-472-8032,$1.06 ,$9.10 ,$4.40 
+Tea - Vanilla Chai,Nappy,10/9/2023,$0.79 ,gwyllis6l@biblegateway.com,Ganny,720-555-6604,$3.09 ,$7.84 ,$2.07 
+"Wine - Red, Black Opal Shiraz",Bevon,8/10/2023,$4.95 ,aoboy6m@prnewswire.com,Andi,915-255-3324,$5.08 ,$9.22 ,$1.42 
+Anchovy Fillets,Cordelie,8/19/2023,$6.44 ,mmacalees6n@uol.com.br,Marys,152-107-5252,$3.50 ,$5.97 ,$1.77 
+Muffin Mix - Chocolate Chip,Nedda,8/19/2023,$0.23 ,ewhysall6o@berkeley.edu,Ediva,735-423-3662,$1.75 ,$9.35 ,$7.58 
+Dc - Frozen Momji,Sadella,1/4/2023,$6.75 ,adonise6p@google.cn,Aggie,492-242-2739,$0.78 ,$7.78 ,$9.41 
+Oil - Hazelnut,Dione,1/1/2024,$3.10 ,nperes6q@dropbox.com,Nat,207-302-4565,$4.59 ,$6.88 ,$9.98 
+"Rum - Spiced, Captain Morgan",Fredra,1/27/2023,$7.00 ,tpaternoster6r@list-manage.com,Tony,439-105-2337,$1.33 ,$8.07 ,$7.95 
+Beef - Striploin Aa,Clary,8/24/2023,$5.34 ,gperone6s@blogs.com,Grenville,324-207-5391,$6.56 ,$2.66 ,$9.51 
+Chips - Doritos,Cherye,2/8/2023,$4.01 ,pfenich6t@wiley.com,Pen,318-741-5499,$5.42 ,$9.89 ,$7.18 
+"Apple - Delicious, Red",Theodore,1/10/2023,$7.78 ,bmixhel6u@japanpost.jp,Bing,413-374-6508,$5.74 ,$3.11 ,$2.52 
+Pork - Kidney,Guglielma,8/14/2023,$5.00 ,ofilkov6v@wikia.com,Otto,256-443-7090,$1.41 ,$2.87 ,$5.32 
+Chick Peas - Dried,Appolonia,8/10/2023,$9.09 ,llouiset6w@weibo.com,Livia,964-727-1728,$5.40 ,$2.97 ,$3.28 
+Sauce Tomato Pouch,Reece,3/21/2023,$1.04 ,docridigan6x@mediafire.com,Darla,630-827-3421,$3.40 ,$8.22 ,$3.29 
+Lettuce - Sea / Sea Asparagus,Lawry,11/12/2023,$3.55 ,mrichardot6y@wikispaces.com,Micah,176-387-1649,$1.50 ,$8.80 ,$9.35 
+Sword Pick Asst,Jenine,3/15/2023,$1.08 ,msilverton6z@1und1.de,Marinna,683-856-4024,$3.26 ,$1.31 ,$5.34 
+"Pasta - Rotini, Dry",Gordie,12/15/2023,$2.02 ,vwillars70@indiatimes.com,Vernon,125-331-5367,$4.12 ,$3.06 ,$1.00 
+"Shrimp - 16/20, Iqf, Shell On",Levi,5/4/2023,$3.63 ,sfoxall71@springer.com,Sam,522-795-8807,$5.05 ,$8.99 ,$7.77 
+"Liners - Banana, Paper",Garik,7/28/2023,$0.99 ,cmacshirrie72@aol.com,Chiquia,415-316-0331,$6.45 ,$0.43 ,$6.76 
+Longos - Grilled Salmon With Bbq,Aurie,8/22/2023,$1.45 ,airedell73@opera.com,Allx,624-735-1876,$7.16 ,$8.35 ,$9.33 
+Tea Peppermint,Fredi,7/24/2023,$8.92 ,gstorr74@ox.ac.uk,Geneva,468-618-1924,$1.88 ,$3.00 ,$7.41 
+Capers - Pickled,Marcelia,3/17/2023,$7.78 ,ckinnerk75@dropbox.com,Carey,886-930-0183,$3.65 ,$5.07 ,$5.75 
+Breakfast Quesadillas,Abbye,2/14/2023,$2.85 ,cmonnoyer76@linkedin.com,Cicily,835-498-5551,$7.09 ,$9.24 ,$6.54 
+Beef - Top Butt Aaa,Allyn,5/7/2023,$6.63 ,bulrik77@tamu.edu,Brig,505-995-3688,$7.18 ,$5.20 ,$7.75 
+Trout Rainbow Whole,Reade,9/2/2023,$9.72 ,aclifft78@sphinn.com,Ario,170-502-5630,$3.76 ,$9.96 ,$3.32 
+Truffle - Peelings,Isahella,6/6/2023,$2.58 ,ewheelton79@google.com.br,Evelyn,775-151-3482,$7.91 ,$0.91 ,$3.36 
+Milk Powder,Calli,9/7/2023,$6.19 ,bperren7a@miitbeian.gov.cn,Beilul,914-318-2859,$2.56 ,$6.18 ,$7.50 
+Oregano - Fresh,Georgetta,5/4/2023,$8.49 ,bgymblett7b@goo.gl,Boyd,945-445-3860,$6.09 ,$8.94 ,$7.25 
+"Roe - Lump Fish, Black",Ransell,9/22/2023,$7.46 ,rbeddin7c@yellowpages.com,Roland,461-264-1244,$3.47 ,$5.73 ,$7.63 
+Wine - Riesling Alsace Ac 2001,Lydie,6/11/2023,$1.95 ,tfranzolini7d@123-reg.co.uk,Tadd,971-939-0848,$0.37 ,$0.89 ,$6.49 
+"Mushroom - Enoki, Dry",Prentiss,10/19/2023,$4.32 ,kvicker7e@oracle.com,Kathryne,602-634-8809,$0.18 ,$4.90 ,$9.85 
+Chocolate - Unsweetened,Jamey,8/19/2023,$2.79 ,lcaro7f@latimes.com,Leslie,345-190-0889,$0.41 ,$3.13 ,$0.84 
+Soup Campbells - Tomato Bisque,Andros,10/22/2023,$6.08 ,mlandman7g@flavors.me,Matilde,107-849-5413,$6.03 ,$2.15 ,$8.45 
+Wine - Chenin Blanc K.w.v.,Lindon,12/11/2023,$6.96 ,fdarter7h@blog.com,Fenelia,664-602-0559,$0.74 ,$7.69 ,$7.60 
+Baking Powder,Yuri,10/9/2023,$9.62 ,dsertin7i@twitpic.com,Debor,865-310-4105,$0.15 ,$9.32 ,$5.30 
+Aromat Spice / Seasoning,Gil,1/9/2023,$5.71 ,amahaddie7j@histats.com,Aarika,415-635-2566,$8.80 ,$2.63 ,$6.62 
+Glaze - Clear,Wallache,12/25/2023,$1.90 ,msemiraz7k@pcworld.com,Markos,472-824-9216,$7.64 ,$6.87 ,$4.19 
+"Pasta - Fettuccine, Egg, Fresh",Consalve,12/26/2023,$5.25 ,abussens7l@dyndns.org,Aubrey,704-399-4677,$8.57 ,$8.04 ,$3.54 
+Strawberries,Ulrikaumeko,5/10/2023,$4.24 ,vcargen7m@creativecommons.org,Vita,447-316-9099,$8.84 ,$3.96 ,$0.05 
+"Tray - Foam, Square 4 - S",Mil,2/7/2023,$3.50 ,fphoebe7n@1und1.de,Flori,746-836-6130,$7.30 ,$6.26 ,$2.75 
+"Pasta - Canelloni, Single Serve",Dorthy,11/7/2023,$6.51 ,nestcot7o@bluehost.com,Nikolai,680-567-3701,$2.73 ,$9.98 ,$4.60 
+Sprouts - Brussel,Catlin,10/25/2023,$0.26 ,mkerrey7p@e-recht24.de,Marsh,625-220-1820,$3.79 ,$3.35 ,$2.75 
+Assorted Desserts,Russ,1/29/2023,$1.71 ,kshinton7q@eventbrite.com,Kali,728-232-3252,$7.77 ,$1.90 ,$6.11 
+Cake - Mini Potato Pancake,Celene,6/4/2023,$3.96 ,chabbin7r@bbc.co.uk,Christiano,348-476-9013,$0.60 ,$4.83 ,$5.72 
+Pickle - Dill,Gwenni,1/22/2023,$9.25 ,cbetser7s@amazonaws.com,Candra,561-382-6161,$0.40 ,$6.58 ,$0.48 
+Containter - 3oz Microwave Rect.,Auguste,6/21/2023,$2.81 ,adoley7t@nsw.gov.au,Arie,752-715-8841,$8.11 ,$0.39 ,$9.63 
+"Pasta - Lasagna, Dry",Leanor,4/1/2023,$0.05 ,adanneil7u@scientificamerican.com,Ag,967-569-3485,$0.54 ,$9.47 ,$8.21 
+Wine - Masi Valpolocell,Meredith,11/15/2023,$3.23 ,cgoodlud7v@fema.gov,Corinne,383-444-6064,$5.87 ,$4.80 ,$9.36 
+"Juice - Apple, 1.36l",Hertha,4/9/2023,$8.73 ,ssketh7w@yolasite.com,Sebastian,796-869-9417,$3.63 ,$1.37 ,$1.58 
+Dc - Sakura Fu,Shamus,4/24/2023,$9.40 ,bungerecht7x@hud.gov,Blondelle,249-275-0359,$0.37 ,$9.68 ,$7.01 
+Cactus Pads,Theodosia,2/18/2023,$7.32 ,bpelerin7y@alibaba.com,Brigida,852-761-0941,$9.53 ,$4.40 ,$7.82 
+Bread Cranberry Foccacia,Charleen,10/22/2023,$1.59 ,arumbelow7z@livejournal.com,Abbot,466-836-3854,$0.01 ,$5.00 ,$5.30 
+Tofu - Soft,James,5/4/2023,$1.71 ,handrini80@geocities.jp,Halimeda,218-835-2182,$3.65 ,$0.71 ,$9.76 
+Beer - Pilsner Urquell,Bonni,3/31/2023,$1.81 ,chealings81@yolasite.com,Cortney,812-719-6227,$2.02 ,$8.11 ,$8.06 
+"Doilies - 10, Paper",Lesley,8/1/2023,$3.58 ,lcreech82@netvibes.com,Lillis,416-612-3243,$4.68 ,$2.55 ,$7.81 
+Wine - Penfolds Koonuga Hill,Boyd,5/13/2023,$9.17 ,pmullin83@over-blog.com,Pearla,285-188-6434,$0.85 ,$0.68 ,$1.40 
+Cactus Pads,Tomi,6/7/2023,$4.55 ,drisebarer84@yahoo.com,Dud,120-696-9632,$3.06 ,$9.12 ,$2.51 
+Flour - Pastry,Chance,1/14/2023,$4.87 ,fgoolding85@netvibes.com,Farra,179-996-6693,$6.37 ,$5.72 ,$0.11 
+"Water - Mineral, Natural",Costa,1/17/2023,$6.50 ,gbrotherick86@zimbio.com,Giraud,864-834-7538,$4.94 ,$1.31 ,$4.58 
+Laundry - Bag Cloth,Jessamine,2/3/2023,$3.02 ,tnovelli87@free.fr,Teodora,590-925-1495,$6.32 ,$0.77 ,$9.72 
+Plums - Red,Martie,6/20/2023,$3.25 ,chickinbottom88@macromedia.com,Callean,985-830-7505,$6.07 ,$6.99 ,$6.56 
+"Mushroom - Shitake, Dry",Cly,10/19/2023,$6.24 ,gklemke89@yellowpages.com,Giusto,308-526-0222,$7.99 ,$1.62 ,$9.88 
+"Lamb - Leg, Bone In",Jeri,6/17/2023,$8.81 ,lwalbrun8a@phoca.cz,Lanita,406-962-6997,$3.17 ,$8.90 ,$8.72 
+"Beef - Ground, Extra Lean, Fresh",Tobe,3/14/2023,$8.97 ,rokielt8b@yahoo.co.jp,Ros,545-384-9828,$8.93 ,$6.36 ,$0.80 
+"Wine - Red, Gallo, Merlot",Kial,10/28/2023,$1.50 ,hmarlowe8c@sphinn.com,Henry,939-939-3766,$5.88 ,$2.81 ,$5.18 
+"Wine - Magnotta - Red, Baco",Rudolfo,3/2/2023,$8.05 ,ebehan8d@mapy.cz,Eadie,520-856-4730,$8.56 ,$4.92 ,$7.50 
+Wine - Chardonnay South,Brig,3/27/2023,$4.11 ,bjiracek8e@go.com,Buck,700-802-3806,$9.42 ,$1.65 ,$4.98 
+Ecolab - Mikroklene 4/4 L,Siusan,8/25/2023,$3.12 ,gredish8f@oakley.com,Glyn,141-794-6772,$8.42 ,$6.33 ,$9.79 
+Wine - Taylors Reserve,Kally,6/20/2023,$2.60 ,skharchinski8g@edublogs.org,Sula,297-563-1310,$9.38 ,$7.81 ,$1.90 
+Spring Roll Wrappers,Myrlene,6/8/2023,$8.95 ,bcarmody8h@yellowbook.com,Berna,981-615-9538,$7.72 ,$5.77 ,$5.32 
+"Beef - Roasted, Cooked",Alfreda,8/2/2023,$4.06 ,agiacubbo8i@globo.com,Aime,438-793-3104,$6.95 ,$3.31 ,$7.97 
+Bread - 10 Grain Parisian,Langston,4/8/2023,$4.91 ,srolance8j@cocolog-nifty.com,Sandy,255-464-3859,$3.79 ,$5.27 ,$8.38 
+Energy Drink Red Bull,Mohandis,9/20/2023,$8.99 ,snorcock8k@hugedomains.com,Sybyl,614-777-5250,$0.50 ,$3.36 ,$5.86 
+Soup Knorr Chili With Beans,Nikki,4/24/2023,$4.83 ,cribey8l@cyberchimps.com,Caroljean,124-759-3995,$9.84 ,$3.22 ,$9.79 
+Table Cloth 62x114 White,Sheba,4/16/2023,$9.28 ,emerrisson8m@eepurl.com,Emmalee,361-732-8144,$2.11 ,$8.04 ,$8.54 
+Beer - Molson Excel,Waldemar,2/2/2023,$5.84 ,hcockerton8n@unesco.org,Hendrick,368-315-3155,$0.05 ,$9.39 ,$6.71 
+Wine - Lou Black Shiraz,Madonna,2/8/2023,$3.80 ,scremer8o@ifeng.com,Shena,784-394-9086,$6.39 ,$7.50 ,$3.68 
+Sobe - Lizard Fuel,Audrie,1/11/2023,$3.99 ,jcumberledge8p@miibeian.gov.cn,Jamey,534-446-5655,$5.37 ,$5.38 ,$0.74 
+Wine - Domaine Boyar Royal,Rodney,4/11/2023,$6.10 ,sbohlens8q@nba.com,Shandra,941-517-2193,$9.55 ,$5.36 ,$8.19 
+"Wine - Red, Gamay Noir",Pattin,4/10/2023,$6.16 ,hlighton8r@archive.org,Heinrick,911-790-3297,$2.02 ,$0.57 ,$4.27 
+Coffee - 10oz Cup 92961,Deloria,2/28/2023,$8.78 ,jtrenbay8s@epa.gov,Joaquin,557-371-4208,$7.93 ,$9.03 ,$4.05 
+"Brownies - Two Bite, Chocolate",Valentine,9/17/2023,$6.28 ,jmaciver8t@1688.com,Jorey,326-186-7257,$1.69 ,$7.63 ,$8.33 
+Beef - Flank Steak,Ringo,1/29/2023,$3.26 ,poakenfall8u@mapquest.com,Patty,649-527-3239,$5.32 ,$3.06 ,$9.70 
+Cumin - Whole,Mignonne,10/17/2023,$8.47 ,kcharte8v@japanpost.jp,Kinny,468-738-7490,$3.12 ,$0.95 ,$4.67 
+Bread - Triangle White,Cissy,5/13/2023,$2.35 ,mtydeman8w@fotki.com,Mabelle,290-533-7861,$4.47 ,$5.13 ,$4.60 
+Soup - Campbells,Laural,11/17/2023,$0.11 ,gadamsky8x@accuweather.com,Gillian,676-693-3951,$7.28 ,$2.06 ,$6.11 
+Bread Foccacia Whole,Vergil,7/10/2023,$0.92 ,aorr8y@icq.com,Anna,602-478-6205,$7.07 ,$4.15 ,$8.68 
+"Salmon - Atlantic, Fresh, Whole",Quincy,4/18/2023,$9.81 ,dobrallaghan8z@w3.org,Dudley,509-243-8994,$6.53 ,$5.98 ,$7.74 
+Milk Powder,Bjorn,11/5/2023,$7.78 ,ehartzenberg90@cdc.gov,Erinna,310-369-7643,$6.59 ,$8.79 ,$1.34 
+Contreau,Sloane,8/15/2023,$2.60 ,ltyght91@upenn.edu,Libbi,155-539-0713,$8.50 ,$0.59 ,$5.08 
+"Beans - Long, Chinese",Wendall,12/19/2023,$7.60 ,mkuhnel92@youku.com,Markus,133-656-9262,$4.09 ,$4.67 ,$5.01 
+"Crab - Dungeness, Whole",Brennen,3/3/2023,$8.56 ,denden93@google.it,Deina,439-796-6048,$4.58 ,$9.05 ,$5.25 
+Wine - Fino Tio Pepe Gonzalez,Parker,10/24/2023,$7.47 ,wdewhurst94@jugem.jp,Westley,733-484-0114,$3.59 ,$9.97 ,$5.34 
+Squid - U - 10 Thailand,Neile,7/28/2023,$2.82 ,kshowt95@mail.ru,Kain,175-921-1127,$2.44 ,$1.83 ,$1.29 
+Wine - Ej Gallo Sierra Valley,Maura,10/20/2023,$1.11 ,yfairlem96@diigo.com,Yance,195-554-4623,$6.08 ,$9.59 ,$9.56 
+"Nut - Almond, Blanched, Whole",Nicolis,12/17/2023,$3.16 ,gcaen97@telegraph.co.uk,Gabbie,104-898-4187,$5.42 ,$7.86 ,$7.70 
+Pur Value,Daveta,7/6/2023,$1.71 ,mgallanders98@phoca.cz,Melina,300-748-8520,$6.94 ,$9.70 ,$6.30 
+Sea Urchin,Linc,1/20/2023,$5.08 ,ohauxwell99@salon.com,Olav,932-757-7923,$2.59 ,$0.86 ,$2.77 
+"Turnip - White, Organic",Jillana,10/28/2023,$2.39 ,fparades9a@yahoo.com,Fiann,790-518-9531,$6.15 ,$4.67 ,$7.80 
+"Soup - Campbells, Cream Of",Orlan,5/23/2023,$9.44 ,sginger9b@digg.com,Sari,650-160-4961,$4.63 ,$3.43 ,$6.87 
+Cheese - Brick With Onion,Alicea,10/18/2023,$8.37 ,swagon9c@reference.com,Simone,910-704-2270,$5.20 ,$0.18 ,$3.04 
+Cookie - Dough Variety,Myrvyn,12/26/2023,$4.02 ,emcclelland9d@usa.gov,Elane,121-438-6391,$9.77 ,$4.17 ,$7.19 
+Pie Shells 10,Garrett,3/2/2023,$6.09 ,zsantino9e@homestead.com,Zebedee,380-817-2813,$3.50 ,$0.44 ,$6.33 
+Soy Protein,Paton,12/31/2023,$2.22 ,fleopold9f@bbc.co.uk,Fenelia,183-249-9690,$9.67 ,$6.41 ,$6.76 
+Wine - Chateau Bonnet,Twyla,9/24/2023,$5.94 ,balston9g@shareasale.com,Buddie,493-797-9660,$8.54 ,$0.28 ,$7.69 
+"Lettuce - Romaine, Heart",Lazarus,8/24/2023,$9.65 ,vseniour9h@weebly.com,Vina,809-417-7119,$1.70 ,$2.70 ,$3.92 
+Beef - Tender Tips,Cyndy,1/14/2023,$7.19 ,tentissle9i@creativecommons.org,Tull,896-299-2644,$7.02 ,$0.00 ,$9.20 
+Wine - Merlot Vina Carmen,Prudi,3/13/2023,$9.91 ,aspykings9j@last.fm,Auberta,984-263-4013,$5.05 ,$2.15 ,$3.44 
+Vector Energy Bar,Dulcea,10/5/2023,$9.30 ,nleupoldt9k@vistaprint.com,Neal,606-348-7218,$9.76 ,$5.41 ,$3.52 
+Chips - Potato Jalapeno,Cari,10/20/2023,$4.84 ,ylatch9l@amazon.co.jp,Yolande,149-372-6642,$2.12 ,$7.94 ,$2.71 
+Turkey - Ground. Lean,Hamilton,10/28/2023,$6.32 ,pcorse9m@scientificamerican.com,Pepita,943-673-3067,$0.81 ,$7.78 ,$2.94 
+Napkin - Beverage 1 Ply,Galen,6/7/2023,$1.40 ,ukondrat9n@acquirethisname.com,Uriel,515-799-7881,$9.67 ,$0.87 ,$0.67 
+Mushroom - Porcini Frozen,Waiter,4/8/2023,$4.23 ,episco9o@dropbox.com,Emmott,603-758-3075,$9.94 ,$8.83 ,$8.76 
+"Iced Tea - Lemon, 460 Ml",Lavena,1/31/2023,$7.52 ,ddenington9p@quantcast.com,Dasi,158-281-3234,$8.46 ,$7.48 ,$3.93 
+Sobe - Green Tea,Peggie,3/2/2023,$8.13 ,charries9q@tripod.com,Curtis,436-497-0371,$3.26 ,$9.97 ,$2.35 
+Raspberries - Frozen,Aleta,3/9/2023,$1.77 ,gkeenlayside9r@wordpress.org,Gail,330-445-9402,$0.31 ,$7.21 ,$2.98 
+Spinach - Spinach Leaf,Crista,2/25/2023,$3.77 ,ckroger9s@moonfruit.com,Crystie,588-609-0792,$3.65 ,$1.47 ,$9.22 
+Broom And Broom Rack White,Lexis,2/20/2023,$1.78 ,hgyngyll9t@blinklist.com,Howie,855-951-3674,$7.68 ,$4.57 ,$3.22 
+Island Oasis - Lemonade,Michell,4/9/2023,$2.48 ,jscawen9u@wix.com,Jermaine,352-384-4141,$1.52 ,$6.33 ,$0.83 
+Lady Fingers,Salomone,10/30/2023,$9.47 ,kdemangeot9v@woothemes.com,Ky,977-602-8889,$0.40 ,$6.22 ,$5.39 
+Wine - Peller Estates Late,Aldwin,4/20/2023,$4.52 ,tnary9w@cyberchimps.com,Tabb,271-529-8111,$9.89 ,$0.45 ,$0.25 
+Bulgar,Etan,11/14/2023,$1.76 ,ndiruggiero9x@issuu.com,Northrop,906-310-1543,$4.44 ,$5.61 ,$3.08 
+Tuna - Yellowfin,Manny,10/24/2023,$6.10 ,pevensden9y@hexun.com,Pavlov,171-211-2848,$7.65 ,$6.85 ,$0.58 
+"Wine - Cahors Ac 2000, Clos",Gina,11/6/2023,$7.99 ,lmertel9z@shinystat.com,Lurette,320-629-3004,$2.48 ,$2.20 ,$3.72 
+"Cheese - Woolwich Goat, Log",Rennie,7/16/2023,$6.19 ,debbettsa0@ebay.co.uk,Duky,136-458-1443,$8.72 ,$3.45 ,$1.98 
+Pepper - Sorrano,Julita,12/19/2023,$9.62 ,nbraynea1@parallels.com,Nicol,490-674-0773,$1.99 ,$6.93 ,$8.05 
+"Red Snapper - Fillet, Skin On",Smitty,1/28/2023,$4.78 ,mshortlanda2@senate.gov,Myles,755-489-9868,$9.04 ,$0.61 ,$5.93 
+Crackers - Soda / Saltins,Arabele,11/20/2023,$7.93 ,uparlota3@biblegateway.com,Urbano,746-891-7867,$5.91 ,$8.77 ,$2.34 
+Lettuce - Radicchio,Brena,11/21/2023,$5.31 ,jhardstaffa4@cdbaby.com,John,336-732-0246,$6.16 ,$1.62 ,$8.92 
+Beer - True North Strong Ale,Constanta,8/22/2023,$5.74 ,rlanta5@wiley.com,Rebbecca,949-385-8338,$8.46 ,$3.16 ,$4.93 
+Eggroll,Dulcea,5/8/2023,$8.48 ,flaughreya6@cafepress.com,Frances,514-359-2725,$6.55 ,$3.15 ,$8.50 
+Crackers - Water,Reinhard,9/30/2023,$0.01 ,swaymonta7@devhub.com,Stanwood,665-140-2907,$2.60 ,$0.26 ,$2.00 
+Muffin Mix - Raisin Bran,Germain,12/10/2023,$3.84 ,dtayta8@blogspot.com,Drusi,481-206-8732,$1.84 ,$3.48 ,$5.52 
+Sproutsmustard Cress,Cassaundra,7/22/2023,$5.28 ,lthrippa9@odnoklassniki.ru,Lawry,376-362-0122,$0.99 ,$9.61 ,$2.66 
+"Salmon - Atlantic, Skin On",Dionysus,5/23/2023,$4.29 ,upeirceaa@acquirethisname.com,Ulrica,293-893-1916,$9.71 ,$0.65 ,$1.16 
+"Jam - Blackberry, 20 Ml Jar",Molly,10/18/2023,$1.41 ,cmcalisterab@msu.edu,Cecelia,246-341-0279,$3.71 ,$9.55 ,$1.52 
+"Wine - Magnotta, White",Jackelyn,4/23/2023,$2.77 ,agradyac@printfriendly.com,Amanda,232-377-3584,$5.73 ,$6.64 ,$7.66 
+Flour - Chickpea,Frances,1/14/2023,$9.13 ,gcopnerad@printfriendly.com,Gayler,943-109-6351,$1.82 ,$4.55 ,$2.90 
+Yucca,Tamas,9/2/2023,$6.49 ,wfeatherstoneae@hatena.ne.jp,Waldon,499-303-4505,$4.15 ,$5.31 ,$4.54 
+Beef Dry Aged Tenderloin Aaa,Kelsi,4/30/2023,$4.46 ,sstockbridgeaf@alexa.com,Sonni,866-829-5797,$8.05 ,$7.69 ,$8.99 
+Sauce - Sesame Thai Dressing,Stefania,7/3/2023,$8.84 ,wmcquillinag@ox.ac.uk,Whittaker,387-333-3249,$9.95 ,$7.67 ,$4.02 
+Grapes - Red,Marlee,12/11/2023,$6.31 ,kpulmanah@fastcompany.com,Kalinda,876-870-1967,$7.93 ,$3.30 ,$1.48 
+Bread - Sour Batard,Viviyan,8/1/2023,$5.48 ,amacnockaterai@about.me,Arley,403-156-2673,$7.67 ,$3.81 ,$4.65 
+Peppercorns - Pink,Hatti,8/31/2023,$6.08 ,mthechamaj@ovh.net,Murdock,972-625-9822,$2.36 ,$9.02 ,$9.38 
+"Pasta - Gnocchi, Potato",Davide,8/14/2023,$4.59 ,bstroulgerak@latimes.com,Bennett,316-878-4589,$3.41 ,$5.42 ,$7.92 
+Wine - Ej Gallo Sierra Valley,Britney,7/12/2023,$1.85 ,gromeufal@buzzfeed.com,Graham,149-569-5059,$3.25 ,$3.96 ,$6.18 
+"Tart Shells - Sweet, 2",Nanice,3/29/2023,$2.91 ,ploutheaneam@ucsd.edu,Porty,205-404-5855,$2.18 ,$3.82 ,$0.28 
+The Pop Shoppe Pinapple,Freemon,5/26/2023,$0.12 ,gieldenan@360.cn,Goldina,425-499-1103,$2.67 ,$4.58 ,$3.04 
+Sauce - Plum,Xymenes,12/22/2023,$4.86 ,jdirobertoao@live.com,Jimmy,656-252-5095,$6.37 ,$9.05 ,$1.29 
+Bread - French Stick,Allie,5/4/2023,$3.77 ,ksalzbergap@nyu.edu,Korrie,160-236-9312,$3.53 ,$8.12 ,$1.95 
+"Lettuce - Mini Greens, Whole",Titus,1/18/2023,$7.60 ,gslefordaq@mozilla.com,Gerhardine,104-924-1644,$4.53 ,$7.20 ,$7.99 
+Apron,Ashlee,9/4/2023,$2.48 ,tsecombear@cdbaby.com,Thurston,950-234-2256,$9.39 ,$4.67 ,$2.79 
+Beer - Moosehead,Hayes,8/19/2023,$7.39 ,crobuchonas@earthlink.net,Corrine,138-642-8544,$3.12 ,$5.86 ,$1.43 
+Corn Meal,Barton,5/26/2023,$3.86 ,gdobbieat@ning.com,Gustav,145-287-1078,$5.14 ,$4.01 ,$2.54 
+Cake - Night And Day Choclate,Lynn,3/25/2023,$4.42 ,ckirtleyau@latimes.com,Charla,244-601-1369,$2.66 ,$8.55 ,$9.50 
+"Yogurt - Banana, 175 Gr",Levon,10/14/2023,$3.79 ,nduligalav@geocities.jp,Nonnah,152-535-0504,$3.82 ,$8.74 ,$1.53 
+Cake - Mini Potato Pancake,Elsie,12/7/2023,$6.06 ,lmckeeveraw@miitbeian.gov.cn,Lurette,622-681-7275,$3.30 ,$6.57 ,$3.67 
+Wine - Sauvignon Blanc Oyster,Luigi,11/4/2023,$9.14 ,msallansax@xrea.com,Missie,135-222-6375,$2.28 ,$5.86 ,$8.27 
+Tea - Herbal Sweet Dreams,Dagmar,11/29/2023,$9.66 ,clanphereay@boston.com,Craig,986-532-2808,$7.25 ,$0.67 ,$5.55 
+Rappini - Andy Boy,Fons,9/14/2023,$7.29 ,ctraineraz@wired.com,Corilla,189-789-4866,$4.64 ,$3.25 ,$2.73 
+Limes,Deanne,12/18/2023,$2.28 ,adabesb0@oracle.com,Agnella,635-851-8499,$2.72 ,$4.90 ,$3.13 
+Cup - 4oz Translucent,Arlin,10/24/2023,$6.51 ,kedelmanb1@bing.com,Kirsten,122-353-8852,$7.19 ,$9.90 ,$4.59 
+Pork - Ground,Josepha,9/5/2023,$7.20 ,lgentiryb2@loc.gov,Laureen,116-391-5695,$3.54 ,$1.27 ,$6.76 
+Cactus Pads,Garner,7/15/2023,$1.69 ,cbraxtonb3@etsy.com,Cherianne,166-729-1571,$5.01 ,$0.18 ,$8.04 
+Dasheen,Celina,2/11/2023,$4.45 ,sbarenskib4@thetimes.co.uk,Salem,447-667-1714,$3.27 ,$4.41 ,$0.25 
+"Pasta - Penne, Lisce, Dry",Sharla,5/4/2023,$3.69 ,egowlerb5@twitpic.com,Ellerey,618-788-2823,$8.04 ,$9.23 ,$0.88 
+Sugar - Cubes,Nana,7/27/2023,$3.86 ,rivanilovb6@1und1.de,Rahal,655-197-6578,$9.93 ,$8.23 ,$5.42 
+Cheese - Pied De Vents,Hana,8/18/2023,$1.06 ,aharkesb7@cpanel.net,Archibaldo,283-974-1092,$3.17 ,$3.16 ,$3.43 
+"Basil - Primerba, Paste",Corri,8/2/2023,$7.85 ,bgidmanb8@macromedia.com,Barbette,598-223-9321,$5.83 ,$7.00 ,$4.49 
+Chocolate - White,Catriona,3/30/2023,$5.86 ,edonlonb9@kickstarter.com,Evaleen,122-257-3885,$2.10 ,$9.39 ,$5.45 
+Longos - Penne With Pesto,Uriah,11/6/2023,$3.83 ,jbendinba@hugedomains.com,Jean,312-262-0395,$4.78 ,$9.89 ,$0.61 
+Transfer Sheets,Avrom,5/31/2023,$9.54 ,mbathowebb@independent.co.uk,Modesty,891-767-8980,$5.25 ,$4.19 ,$4.86 
+Wakami Seaweed,Mina,10/17/2023,$2.69 ,bgreenleybc@ezinearticles.com,Bucky,467-718-7788,$8.04 ,$6.47 ,$8.93 
+Soup - Campbells - Tomato,Timothee,9/2/2023,$7.00 ,eharmbd@prnewswire.com,Elden,975-206-4203,$0.68 ,$0.44 ,$0.14 
+Lobster - Cooked,Addie,12/15/2023,$9.70 ,tcardenasbe@homestead.com,Teresita,488-769-0181,$3.03 ,$6.81 ,$8.58 
+Nori Sea Weed - Gold Label,Carny,12/26/2023,$1.21 ,estaggebf@baidu.com,Eugenius,827-657-6580,$9.43 ,$7.14 ,$3.02 
+"Split Peas - Green, Dry",Genny,5/22/2023,$7.84 ,tteglerbg@usnews.com,Terrill,570-121-8983,$4.32 ,$7.41 ,$2.79 
+Wine - Vouvray Cuvee Domaine,Stacey,1/17/2023,$3.32 ,mteasdalebh@cocolog-nifty.com,Malissa,634-989-5289,$8.28 ,$1.66 ,$7.19 
+Bread - Raisin Walnut Oval,Tamarah,8/15/2023,$1.96 ,mheakinsbi@netscape.com,Marian,892-461-7133,$1.54 ,$5.73 ,$9.27 
+Juice - Lime,Melisse,11/5/2023,$2.47 ,sfellgatebj@netvibes.com,Stephine,169-532-4612,$2.40 ,$6.00 ,$2.39 
+Squash - Butternut,Frankie,4/18/2023,$8.03 ,jslimmonbk@mapy.cz,Joline,325-579-2879,$0.45 ,$9.10 ,$2.10 
+Pepper - Green Thai,Wallis,7/9/2023,$7.74 ,ebouzanbl@exblog.jp,Ethel,386-566-7361,$2.47 ,$0.22 ,$1.59 
+Pork - Caul Fat,Sandye,6/11/2023,$7.30 ,ltwinnbm@unc.edu,Loise,430-723-0831,$9.65 ,$7.82 ,$6.37 
+Wine - Clavet Saint Emilion,Harcourt,4/2/2023,$0.19 ,cimlawbn@disqus.com,Clement,165-996-1832,$5.29 ,$8.06 ,$0.13 
+"Pasta - Detalini, White, Fresh",Esma,5/14/2023,$0.54 ,jstovoldbo@hud.gov,Jae,125-378-8366,$8.82 ,$4.41 ,$5.57 
+Beans - Wax,Jon,5/10/2023,$5.71 ,dwilderbp@globo.com,Dulci,773-627-1808,$8.62 ,$3.12 ,$7.82 
+Wine - Tribal Sauvignon,Janie,11/29/2023,$7.20 ,ssedworthbq@networksolutions.com,Serena,173-998-8075,$2.90 ,$9.87 ,$1.53 
+"Chilli Paste, Ginger Garlic",Bogart,4/11/2023,$8.54 ,bmattiazzibr@wufoo.com,Benyamin,183-695-6382,$2.30 ,$6.98 ,$2.55 
+"Beef - Rib Roast, Cap On",Caleb,3/17/2023,$3.39 ,dleemingbs@mayoclinic.com,Della,333-517-9295,$8.15 ,$6.85 ,$8.56 
+Sauce - Vodka Blush,Shelba,3/8/2023,$6.19 ,mranscombebt@homestead.com,Margy,802-694-6602,$3.01 ,$1.52 ,$1.01 
+"Lamb - Whole Head Off,nz",Alasteir,5/5/2023,$0.77 ,sperchbu@ning.com,Stacie,695-712-5049,$7.78 ,$6.85 ,$1.64 
+Wine - Saint Emilion Calvet,Brewster,11/28/2023,$6.37 ,nsparhawkbv@delicious.com,Niccolo,573-535-1226,$4.91 ,$8.05 ,$9.28 
+Guinea Fowl,Kerrill,12/3/2023,$1.48 ,nogormanbw@linkedin.com,Nicolette,377-500-8270,$3.66 ,$6.21 ,$0.21 
+"Oregano - Dry, Rubbed",Fraser,8/4/2023,$6.16 ,tligertwoodbx@paypal.com,Thorpe,851-656-3917,$7.95 ,$6.97 ,$1.27 
+"Coke - Classic, 355 Ml",Charita,11/8/2023,$1.92 ,lchamberlayneby@stanford.edu,Lorri,412-462-5051,$8.24 ,$4.68 ,$0.36 
+Chocolate - Compound Coating,Hana,5/26/2023,$6.61 ,pburgerbz@archive.org,Paco,425-712-0382,$4.92 ,$0.24 ,$8.27 
+Roe - White Fish,Dimitri,7/23/2023,$4.52 ,nwordingtonc0@amazon.de,Natalya,677-699-4311,$0.50 ,$1.36 ,$6.48 
+Creme De Menthe Green,Ives,3/4/2023,$9.20 ,kantonionic1@scientificamerican.com,Kimmy,666-811-2436,$4.26 ,$9.64 ,$7.14 
+Pumpkin - Seed,Biron,5/20/2023,$1.01 ,amordeyc2@ameblo.jp,Ardella,890-302-6021,$9.40 ,$3.33 ,$3.87 
+Appetizer - Asian Shrimp Roll,Leontine,7/25/2023,$8.33 ,aschopsc3@amazon.com,Alvie,988-157-7833,$8.47 ,$6.22 ,$5.52 
+Soup - Campbells Beef Stew,Ophelia,4/23/2023,$1.12 ,mpittemc4@xing.com,Maddie,665-546-4905,$4.60 ,$6.16 ,$5.35 
+Milk - Chocolate 500ml,Tallie,5/8/2023,$2.71 ,mroskellyc5@wikispaces.com,Merwyn,720-486-3048,$0.47 ,$3.74 ,$8.90 
+Gherkin - Sour,Ettore,2/5/2023,$2.35 ,bdelamarc6@columbia.edu,Berke,915-782-7654,$7.75 ,$5.09 ,$3.10 
+Tomatillo,Sheffy,10/25/2023,$5.04 ,orivalandc7@wordpress.org,Odele,792-582-9231,$6.99 ,$4.48 ,$9.56 
+"Chocolate - Pistoles, White",Marjorie,6/19/2023,$8.33 ,glittlechildc8@booking.com,Ginnie,256-580-2892,$7.81 ,$4.73 ,$2.53 
+Dikon,Nicol,2/16/2023,$2.76 ,kbiggerstaffc9@utexas.edu,Karlen,615-616-4183,$0.35 ,$6.60 ,$9.16 
+"Juice - Clam, 46 Oz",Christina,9/18/2023,$5.82 ,lchadbourneca@prnewswire.com,Linn,921-830-1917,$1.66 ,$9.74 ,$2.26 
+"Wine - Red, Gamay Noir",Gnni,7/31/2023,$0.69 ,gphipsoncb@accuweather.com,Germain,362-164-9646,$7.18 ,$3.59 ,$7.53 
+Pimento - Canned,Whitby,2/28/2023,$3.93 ,smattersoncc@list-manage.com,Sidonnie,818-641-2788,$0.64 ,$4.74 ,$5.65 
+Tomatoes - Grape,Gerrie,11/12/2023,$0.86 ,jmolancd@google.com,Jehanna,731-379-4531,$3.55 ,$1.81 ,$0.98 
+"Lamb - Whole, Fresh",Meghann,3/24/2023,$9.14 ,smoorfieldce@usa.gov,Stephana,537-688-4873,$8.90 ,$4.30 ,$8.61 
+Bread - English Muffin,Flin,4/17/2023,$5.13 ,ncoatecf@amazon.de,Noella,116-188-2862,$8.94 ,$6.47 ,$4.26 
+The Pop Shoppe Pinapple,Marcello,11/25/2023,$4.60 ,pwakefieldcg@marketwatch.com,Paula,807-181-1837,$4.28 ,$7.61 ,$8.95 
+Veal Inside - Provimi,Jocelyn,8/18/2023,$2.01 ,ucastagnetoch@bbb.org,Urban,159-168-9879,$7.05 ,$1.34 ,$6.22 
+"Soup - Campbells, Butternut",Vasilis,8/27/2023,$5.36 ,achristopheci@amazon.de,Ade,559-456-2847,$4.24 ,$9.23 ,$4.31 
+Wakami Seaweed,Lilian,9/29/2023,$1.00 ,bsecretcj@creativecommons.org,Britney,564-691-4449,$3.27 ,$4.30 ,$5.12 
+Lettuce - Frisee,Gina,2/18/2023,$2.17 ,faudusck@altervista.org,Freemon,304-485-1460,$3.30 ,$9.06 ,$2.42 
+"Wine - White, Antinore Orvieto",Blake,12/21/2023,$6.34 ,lraglescl@timesonline.co.uk,Lonee,954-808-1333,$1.00 ,$9.58 ,$5.52 
+Dill Weed - Dry,Addy,8/21/2023,$5.74 ,gdoolercm@google.com.hk,Gussy,392-184-7133,$2.27 ,$4.85 ,$4.85 
+Table Cloth 62x120 Colour,Dotti,4/20/2023,$0.31 ,crobiccn@youku.com,Chrissy,913-313-0871,$3.17 ,$2.40 ,$8.08 
+Syrup - Monin - Granny Smith,Kara-lynn,5/25/2023,$1.87 ,jhalpineco@wikimedia.org,Jocelyne,449-809-3414,$3.38 ,$9.13 ,$9.30 
+Cheese - Cheddarsliced,Sharline,6/26/2023,$5.30 ,eurlingcp@ucla.edu,Earvin,357-613-1340,$4.82 ,$7.44 ,$2.48 
+"Mushroom - Morels, Dry",Johnny,7/24/2023,$6.98 ,cdinnagecq@baidu.com,Chauncey,326-429-5293,$3.53 ,$0.81 ,$1.87 
+"Cheese - Havarti, Roasted Garlic",Luke,2/23/2023,$6.64 ,aunthankcr@sfgate.com,Ailene,246-362-6852,$1.20 ,$7.97 ,$3.87 
+Wine - Vidal Icewine Magnotta,Vincenty,6/7/2023,$4.76 ,caynscombecs@un.org,Chic,130-993-0604,$1.89 ,$9.72 ,$5.94 
+Cookie Trail Mix,Analise,7/23/2023,$2.11 ,nbuglassct@e-recht24.de,Nils,440-842-4866,$3.16 ,$1.44 ,$2.12 
+Mangoes,Emmanuel,7/28/2023,$4.73 ,kettelscu@edublogs.org,Katie,853-113-8066,$3.79 ,$6.65 ,$3.99 
+Bread - Flat Bread,Francesco,3/6/2023,$8.76 ,ktraillcv@npr.org,Kimmi,837-677-5281,$5.73 ,$8.42 ,$4.83 
+Plate Foam Laminated 9in Blk,Larine,7/4/2023,$8.25 ,vvanniekerkcw@ameblo.jp,Valentia,430-910-0871,$9.18 ,$1.29 ,$4.24 
+Turkey - Oven Roast Breast,Osbert,8/26/2023,$8.73 ,afillscx@csmonitor.com,Allianora,834-378-9765,$8.42 ,$5.20 ,$6.64 
+Lamb - Shoulder,Talbert,1/11/2023,$4.44 ,ldewercy@chron.com,Lyndsey,358-195-5491,$1.12 ,$9.71 ,$1.79 
+Pie Pecan,Mufinella,5/28/2023,$2.29 ,mgabbottcz@dailymail.co.uk,Minnnie,779-305-7965,$1.07 ,$2.96 ,$3.54 
+Table Cloth 62x114 Colour,Delmor,11/19/2023,$7.35 ,gcavied0@webmd.com,Gael,914-754-0069,$6.86 ,$6.86 ,$9.83 
+Pork - Smoked Back Bacon,Myles,3/20/2023,$2.94 ,dmccullaghd1@ning.com,Dudley,172-900-6428,$6.34 ,$6.22 ,$8.97 
+"Juice - Grapefruit, 341 Ml",Harmony,10/14/2023,$6.33 ,wthalmannd2@ihg.com,Wrennie,154-189-7434,$6.88 ,$6.58 ,$4.84 
+Sauce - Alfredo,Hedda,11/5/2023,$6.60 ,scrumlyd3@telegraph.co.uk,Suzi,417-468-0987,$1.47 ,$6.27 ,$0.60 
+"Yogurt - Raspberry, 175 Gr",Robby,12/9/2023,$2.27 ,kskillicornd4@cisco.com,Kaine,795-107-9126,$5.58 ,$9.90 ,$4.52 
+Pancetta,Kristian,1/8/2023,$3.16 ,mbreydind5@unicef.org,Margie,691-357-9917,$1.06 ,$7.88 ,$1.16 
+Beef - Kobe Striploin,Ken,3/4/2023,$9.04 ,dschultesd6@dropbox.com,Danice,353-457-4986,$2.66 ,$3.18 ,$1.89 
+Lobster - Base,Hal,5/9/2023,$3.67 ,bvinsond7@alexa.com,Brannon,581-469-1176,$8.34 ,$8.18 ,$9.43 
+Radish - Pickled,Shandy,2/6/2023,$9.78 ,pdreigherd8@noaa.gov,Peyter,467-951-2792,$6.34 ,$9.75 ,$3.61 
+"Radish - Black, Winter, Organic",Abbie,8/21/2023,$0.92 ,klearoydd9@shutterfly.com,Karyn,655-495-2347,$8.66 ,$9.98 ,$2.57 
+Persimmons,Bibbie,3/4/2023,$1.95 ,eescoffreyda@mail.ru,Emalia,654-254-7924,$0.66 ,$8.15 ,$4.15 
+Chef Hat 20cm,Graig,2/7/2023,$3.10 ,icrewdb@ox.ac.uk,Iris,466-260-3704,$8.89 ,$4.31 ,$7.27 
+Beef Tenderloin Aaa,Michelina,8/9/2023,$6.05 ,cgillbarddc@opensource.org,Crystie,421-643-2512,$1.14 ,$3.94 ,$7.11 
+Oil - Shortening - All - Purpose,Hermione,7/5/2023,$3.84 ,flittelldd@zimbio.com,Flora,363-671-4115,$4.36 ,$9.01 ,$8.76 
+Cheese - Fontina,Elinore,5/2/2023,$2.83 ,cdimmickde@nationalgeographic.com,Clayton,638-796-9021,$1.09 ,$6.98 ,$1.45 
+Rice - Wild,Lorettalorna,12/19/2023,$0.63 ,ilivockdf@foxnews.com,Issy,343-259-7680,$6.82 ,$6.21 ,$8.28 
+"Liners - Banana, Paper",Gayla,2/14/2023,$4.62 ,tcoggindg@oracle.com,Thatcher,901-400-3278,$4.83 ,$7.92 ,$3.75 
+Table Cloth 81x81 White,Tallie,10/28/2023,$5.04 ,imilliondh@oaic.gov.au,Ilise,666-469-4043,$8.95 ,$5.60 ,$5.06 
+Parasol Pick Stir Stick,Emilia,3/11/2023,$7.53 ,otyredi@bloglines.com,Orrin,363-635-6223,$9.03 ,$0.59 ,$5.11 
+Dates,Nilson,10/7/2023,$8.46 ,mgaytherdj@creativecommons.org,Meggi,846-346-3915,$4.66 ,$7.42 ,$0.78 
+Ecolab - Solid Fusion,Matthew,10/12/2023,$9.23 ,awagerfielddk@nifty.com,Anselma,726-605-0117,$1.88 ,$0.57 ,$3.50 
+Wine - Manischewitz Concord,Tabby,2/19/2023,$6.01 ,gnuddsdl@bravesites.com,Gwynne,217-653-3535,$7.28 ,$1.20 ,$9.85 
+"Soup - Campbells, Butternut",Pavia,5/6/2023,$3.97 ,bwartersdm@theguardian.com,Binny,886-358-9944,$6.07 ,$3.37 ,$3.37 
+Kellogs Raisan Bran Bars,Boycey,10/22/2023,$1.00 ,nminchidn@sourceforge.net,Nettle,325-604-6316,$2.51 ,$4.16 ,$9.86 
+Cookie Dough - Double,Ryan,3/30/2023,$6.35 ,edeambrosido@gov.uk,Eliza,100-800-1637,$0.90 ,$0.85 ,$9.52 
+Pate Pans Yellow,Rickie,6/16/2023,$3.36 ,bbanaszczykdp@alexa.com,Beale,873-618-7018,$2.43 ,$0.87 ,$0.27 
+Extract Vanilla Pure,Niven,1/1/2024,$3.76 ,csiddalldq@fc2.com,Clio,196-301-0115,$9.97 ,$6.71 ,$9.55 
+Wine - Delicato Merlot,Reeta,1/27/2023,$2.50 ,dsteaddr@ox.ac.uk,Derek,745-779-2532,$4.99 ,$6.61 ,$9.62 
+Carroway Seed,Dennis,8/14/2023,$1.31 ,rkelsellds@topsy.com,Rourke,569-537-8308,$3.43 ,$8.23 ,$4.66 
+Wine - Cava Aria Estate Brut,Karlyn,2/5/2023,$2.82 ,jskocroftdt@java.com,Jehanna,958-531-9172,$5.71 ,$9.85 ,$9.49 
+Rice - Long Grain,Alric,9/30/2023,$9.68 ,etunsleydu@squidoo.com,Evie,226-508-9976,$4.16 ,$7.10 ,$1.11 
+Nantucket - Orange Mango Cktl,Marco,1/3/2023,$8.57 ,shaversdv@newsvine.com,Sayres,876-305-2144,$2.33 ,$3.69 ,$8.35 
+Greens Mustard,Lusa,5/23/2023,$6.16 ,bdiranddw@mayoclinic.com,Beverlie,932-355-1032,$3.86 ,$1.93 ,$4.62 
+Energy Drink,Gwendolyn,12/1/2023,$6.16 ,msteckingsdx@cbsnews.com,Melonie,788-401-9386,$7.39 ,$2.72 ,$5.71 
+Pork - Ground,Amelia,4/6/2023,$7.03 ,gmableydy@go.com,Gloria,347-905-9795,$8.97 ,$0.62 ,$7.78 
+Salmon Atl.whole 8 - 10 Lb,Elenore,3/8/2023,$3.46 ,rmeenandz@harvard.edu,Rem,574-437-9020,$0.87 ,$5.59 ,$8.14 
+Beef - Top Sirloin,Jyoti,9/27/2023,$0.79 ,zkeale0@springer.com,Zea,464-678-0736,$1.59 ,$9.50 ,$0.53 
+Icecream - Dstk Cml And Fdg,Shane,12/13/2023,$9.98 ,otaberere1@berkeley.edu,Orazio,349-574-2703,$2.69 ,$3.59 ,$1.85 
+Pasta - Agnolotti - Butternut,Lilly,10/18/2023,$0.75 ,sbullcocke2@epa.gov,Stanislaw,825-771-0935,$7.65 ,$5.66 ,$0.12 
+Raisin - Golden,Vania,10/4/2023,$1.28 ,thushe3@360.cn,Tommi,577-982-1845,$3.01 ,$6.02 ,$2.83 
+Campari,Mariam,6/11/2023,$0.86 ,sconringe4@tiny.cc,Sibella,874-489-5244,$2.65 ,$9.12 ,$5.85 
+Bread - Ciabatta Buns,Cal,2/27/2023,$5.03 ,psmelliee5@cbsnews.com,Pennie,880-355-2862,$2.22 ,$9.38 ,$5.74 
+"Cake Circle, Foil, Scallop",Efren,12/28/2023,$6.85 ,lthackeraye6@amazon.com,Leontine,213-944-9259,$5.26 ,$3.30 ,$8.29 
+Bay Leaf Ground,Donielle,7/13/2023,$2.35 ,kvedntyeve7@dot.gov,Konstantin,534-925-2872,$2.17 ,$4.41 ,$4.01 
+Corn - Mini,Vladimir,10/3/2023,$2.42 ,cstegele8@dropbox.com,Chalmers,584-315-3142,$5.15 ,$9.51 ,$5.50 
+Cheese - Taleggio D.o.p.,Chrissie,7/22/2023,$4.92 ,ybenete9@google.it,Yolanda,568-445-4756,$5.43 ,$6.89 ,$5.56 
+Bag - Regular Kraft 20 Lb,Basilius,10/31/2023,$3.68 ,mablewhiteea@digg.com,Mariquilla,731-333-2686,$4.36 ,$3.15 ,$0.33 
+Chips Potato Swt Chilli Sour,Dania,8/18/2023,$1.69 ,swetwoodeb@princeton.edu,Sella,841-596-4850,$5.57 ,$0.37 ,$2.48 
+Cake - Box Window 10x10x2.5,Von,6/2/2023,$6.48 ,mpayzeec@ted.com,Melisent,225-731-9587,$9.92 ,$2.42 ,$1.72 
+"Pasta - Fusili, Dry",Hartwell,6/25/2023,$4.74 ,tmerrelled@blinklist.com,Tildy,994-839-2337,$4.59 ,$7.60 ,$4.35 
+Lentils - Green Le Puy,Pandora,7/19/2023,$2.18 ,wtremblettee@about.com,Willetta,384-147-7616,$5.72 ,$5.10 ,$3.33 
+"Lentils - Red, Dry",Janis,1/1/2024,$9.39 ,arevittef@vkontakte.ru,Amby,106-684-0125,$8.72 ,$1.22 ,$0.15 
+"Pepper - Chipotle, Canned",Twila,4/24/2023,$7.00 ,amackeegeg@infoseek.co.jp,Adorne,946-268-6345,$3.30 ,$8.05 ,$1.75 
+Campari,Gianina,11/26/2023,$8.91 ,tthornewelleh@cisco.com,Timmy,341-733-8734,$9.24 ,$0.88 ,$8.37 
+Sun - Dried Tomatoes,Westleigh,5/7/2023,$0.81 ,eplattsei@pagesperso-orange.fr,Ella,703-926-4705,$3.62 ,$9.47 ,$6.16 
+Cream Of Tartar,Cassie,10/5/2023,$0.72 ,msibyllaej@geocities.jp,Myriam,962-621-4085,$5.03 ,$3.43 ,$5.64 
+Chicken - Wieners,Ettore,6/28/2023,$8.17 ,mbolstridgeek@mediafire.com,Meredith,675-118-7541,$8.33 ,$5.55 ,$5.11 
+"Marjoram - Dried, Rubbed",Christel,5/16/2023,$4.69 ,clangthorneel@census.gov,Cassius,367-592-9607,$2.34 ,$8.51 ,$6.34 
+Assorted Desserts,Saw,12/28/2023,$6.45 ,mketcherem@time.com,Marla,617-491-1869,$3.51 ,$6.42 ,$5.06 
+Tequila Rose Cream Liquor,Sawyer,11/26/2023,$9.02 ,igerreyen@abc.net.au,Ivie,736-636-4953,$2.15 ,$8.37 ,$9.80 
+"Schnappes - Peach, Walkers",Stacy,7/31/2023,$5.36 ,wroiseneo@dot.gov,Ware,312-957-2733,$9.72 ,$2.84 ,$2.19 
+Beef - Top Butt,Kikelia,10/1/2023,$5.32 ,jclemoesep@google.com,Jewell,666-263-1260,$3.25 ,$7.82 ,$8.92 
+Syrup - Kahlua Chocolate,Evangelin,3/15/2023,$0.14 ,hgartineq@hatena.ne.jp,Harmonia,631-971-4200,$0.36 ,$0.84 ,$1.57 
+Mix - Cocktail Ice Cream,Francene,12/11/2023,$9.93 ,emitcheler@bluehost.com,Evey,539-180-6234,$4.17 ,$1.23 ,$2.90 
+Longos - Penne With Pesto,Vicki,11/28/2023,$2.01 ,lverteyes@free.fr,Laurens,669-408-0291,$8.22 ,$7.36 ,$2.47 
+Lobster - Cooked,Nita,8/7/2023,$3.85 ,mmclearyet@pinterest.com,Marsiella,983-832-1434,$4.63 ,$4.90 ,$5.63 
+Onions Granulated,Yance,12/1/2023,$1.48 ,sranklingeu@newyorker.com,Sebastian,943-647-1237,$4.52 ,$2.32 ,$3.67 
+Bread - French Baquette,Lura,5/6/2023,$0.13 ,bskermeev@wikia.com,Bernie,232-169-7447,$2.14 ,$9.34 ,$2.15 
+Beef - Eye Of Round,Noelle,1/6/2023,$3.47 ,awaggeew@yahoo.co.jp,Anderea,162-967-4198,$2.77 ,$2.82 ,$4.59 
+Wine - Alsace Riesling Reserve,Rolando,2/28/2023,$0.82 ,rmilberryex@mit.edu,Rooney,427-939-8692,$1.51 ,$8.34 ,$3.57 
+Spice - Onion Powder Granulated,Kitti,7/27/2023,$0.85 ,pendleyey@dagondesign.com,Parker,258-786-5832,$8.85 ,$0.02 ,$6.36 
+"Ecolab - Orange Frc, Cleaner",Brook,10/22/2023,$7.64 ,tsalvageez@cnet.com,Tobe,124-496-7894,$3.34 ,$4.67 ,$0.77 
+Ecolab - Hobart Upr Prewash Arm,Hunfredo,10/16/2023,$5.16 ,nsakerf0@ihg.com,Nat,246-581-5872,$0.32 ,$1.45 ,$6.56 
+Appetizer - Mushroom Tart,Link,8/10/2023,$0.93 ,rdaouzef1@1688.com,Randall,957-444-9337,$9.30 ,$0.97 ,$6.91 
+Bar Bran Honey Nut,Lin,12/25/2023,$0.83 ,cshimonyf2@163.com,Claudia,333-568-9067,$9.20 ,$2.53 ,$7.58 
+Chips - Potato Jalapeno,Merwyn,4/7/2023,$8.99 ,lodof3@dmoz.org,Larine,142-319-8425,$0.46 ,$8.89 ,$0.99 
+Coffee - Decaffeinato Coffee,Dru,1/12/2023,$7.72 ,oduggenf4@cnn.com,Odey,661-276-4336,$1.38 ,$5.56 ,$3.14 
+Nacho Chips,Erna,12/2/2023,$3.59 ,adeeveyf5@github.io,Alberta,452-683-0688,$2.22 ,$1.53 ,$6.71 
+Cakes Assorted,Art,2/26/2023,$6.26 ,wwilhelmyf6@quantcast.com,Willy,267-965-2105,$6.63 ,$3.28 ,$2.57 
+Cheese - Asiago,Muire,3/24/2023,$9.28 ,mobyrnef7@hibu.com,Magda,643-963-9696,$3.80 ,$4.02 ,$5.07 
+Basil - Pesto Sauce,Phip,3/31/2023,$4.12 ,jstefif8@cmu.edu,Jessamine,917-888-9854,$5.41 ,$8.67 ,$9.29 
+Sugar - Splenda Sweetener,Elinore,1/27/2023,$0.29 ,msackeyf9@360.cn,Mellisent,932-820-7685,$7.52 ,$9.17 ,$4.61 
+The Pop Shoppe - Grape,Hiram,2/10/2023,$5.09 ,dwoodhamfa@sciencedirect.com,Dasie,870-403-9634,$2.24 ,$5.79 ,$2.26 
+Nantuket Peach Orange,Dare,2/17/2023,$0.73 ,lgutridgefb@prweb.com,Lars,400-181-5702,$5.31 ,$1.00 ,$3.62 
+Zucchini - Green,Margit,6/17/2023,$3.41 ,fcasementfc@mayoclinic.com,Florri,749-225-1441,$2.50 ,$9.15 ,$4.73 
+Soup - Campbells Broccoli,Gusta,1/8/2023,$5.76 ,bbalderyfd@vimeo.com,Bettye,311-951-3028,$8.55 ,$8.59 ,$5.92 
+Wine - Baron De Rothschild,Willey,12/8/2023,$0.71 ,fconstablefe@i2i.jp,Filippa,516-134-2841,$3.31 ,$1.29 ,$2.90 
+"Tea - Darjeeling, Azzura",Brandtr,10/13/2023,$5.34 ,bfrauloff@google.co.jp,Bree,234-652-2883,$2.23 ,$3.23 ,$2.36 
+Bread Sour Rolls,Alexio,1/2/2023,$6.44 ,hmorillafg@wikispaces.com,Haskell,312-739-2426,$3.24 ,$3.61 ,$9.52 
+Lettuce - Sea / Sea Asparagus,Pren,5/27/2023,$1.31 ,ktuckwoodfh@ca.gov,Kirk,129-106-2760,$3.56 ,$3.27 ,$4.14 
+"Chicken - Thigh, Bone In",Norine,1/15/2023,$3.33 ,wjoshamfi@addthis.com,Walther,136-898-3064,$0.80 ,$5.06 ,$7.45 
+Cookie Dough - Oatmeal Rasin,Karil,6/26/2023,$5.98 ,kgrunnillfj@cafepress.com,Kendell,225-491-6613,$7.72 ,$3.18 ,$5.94 
+Sauce - Marinara,Deidre,6/30/2023,$6.66 ,tbonderfk@google.com.hk,Tremayne,753-217-8852,$4.48 ,$8.60 ,$7.32 
+Zucchini - Green,Elianora,9/24/2023,$8.56 ,pcraigheidfl@mac.com,Pamelina,845-298-8288,$2.86 ,$7.26 ,$6.25 
+"Beef - Ground, Extra Lean, Fresh",Innis,7/9/2023,$4.86 ,abremmerfm@xrea.com,Aldwin,994-719-0380,$4.19 ,$9.20 ,$7.56 
+Scotch - Queen Anne,Ruth,3/10/2023,$0.66 ,bbangleyfn@dot.gov,Brunhilde,299-409-7283,$1.57 ,$8.67 ,$0.36 
+Mangostein,Adaline,10/4/2023,$0.27 ,bkarmelfo@marketwatch.com,Barbe,511-750-1562,$9.89 ,$8.16 ,$5.64 
+Eel Fresh,Lilith,6/28/2023,$7.21 ,jgrigoirefp@ask.com,Jarrett,613-784-9231,$8.14 ,$9.99 ,$8.18 
+Star Fruit,Ignacius,3/4/2023,$7.70 ,scastelotfq@taobao.com,Shel,385-192-7165,$8.23 ,$2.13 ,$7.54 
+Soup - Campbells Chicken,Dolly,3/26/2023,$1.59 ,ddifranceschifr@washington.edu,Dorotea,823-966-0239,$2.00 ,$6.87 ,$1.65 
+Syrup - Pancake,Cally,9/11/2023,$9.53 ,tsnookfs@cnn.com,Trumann,682-444-1756,$8.69 ,$0.06 ,$0.46 
+Wine - Vidal Icewine Magnotta,Shem,3/3/2023,$7.45 ,mnussiift@washington.edu,Mag,898-698-1518,$1.94 ,$3.49 ,$5.33 
+"Artichokes - Knobless, White",Gerri,9/3/2023,$0.06 ,eliefu@mozilla.org,Ellyn,676-148-1407,$7.44 ,$4.13 ,$6.88 
+Cleaner - Lime Away,Beckie,8/29/2023,$1.10 ,aabbottfv@qq.com,Astrid,956-554-3136,$1.15 ,$5.15 ,$7.69 
+"Pork - Bacon, Sliced",Gracie,12/2/2023,$7.40 ,dcolleltonfw@chicagotribune.com,Donnell,289-277-5570,$8.71 ,$4.82 ,$0.76 
+Milk - Chocolate 250 Ml,Camella,6/2/2023,$5.78 ,aeveleighfx@samsung.com,Almeda,266-170-1467,$7.52 ,$5.29 ,$5.47 
+"Cheese - Cheddar, Medium",Shae,5/15/2023,$0.38 ,lrennebachfy@facebook.com,Liz,177-808-2771,$9.63 ,$3.08 ,$0.05 
+"Tomatoes - Plum, Canned",Janine,9/13/2023,$7.91 ,mbenazetfz@prnewswire.com,Melania,132-352-4431,$9.75 ,$6.94 ,$6.88 
+Vinegar - Champagne,Anabal,5/4/2023,$4.14 ,adanielg0@msn.com,Albina,696-870-3852,$0.11 ,$1.54 ,$9.65 
+Wine - Piper Heidsieck Brut,Guinevere,3/10/2023,$4.57 ,olongstaffeg1@last.fm,Odetta,807-475-0519,$8.87 ,$7.07 ,$4.12 
+"Wine - Red, Concha Y Toro",Chuck,9/17/2023,$5.62 ,tcouthardg2@ca.gov,Tandy,529-317-4299,$9.19 ,$0.31 ,$6.03 
+"Soup - Cream Of Broccoli, Dry",Sarge,4/28/2023,$0.34 ,wlaveng3@studiopress.com,Wanda,673-367-5850,$4.85 ,$6.67 ,$9.95 
+Wine - Cotes Du Rhone Parallele,Oona,11/16/2023,$8.30 ,rmunnisg4@photobucket.com,Ryun,776-854-9365,$3.95 ,$1.26 ,$8.86 
+Rice - Jasmine Sented,Lela,11/12/2023,$1.80 ,mcoppinsg5@google.nl,Marita,347-427-9828,$1.11 ,$8.84 ,$3.92 
+Shrimp - Black Tiger 8 - 12,Brady,11/7/2023,$7.19 ,ipechang6@state.gov,Irvin,645-441-3244,$7.43 ,$9.84 ,$1.37 
+Ketchup - Tomato,Eugine,5/4/2023,$6.41 ,rlowreyg7@quantcast.com,Rutter,174-393-8712,$0.40 ,$6.83 ,$6.51 
+Veal - Nuckle,Axe,8/3/2023,$1.87 ,bveazeyg8@tripod.com,Breanne,482-544-9959,$7.47 ,$9.86 ,$1.64 
+Ham - Cooked Bayonne Tinned,Clemmie,1/28/2023,$9.57 ,swildtg9@prnewswire.com,Sherman,630-654-5634,$8.71 ,$4.49 ,$9.71 
+Beer - True North Strong Ale,Kelcie,9/11/2023,$6.95 ,abartelotga@gnu.org,Adoree,182-600-2875,$5.40 ,$3.77 ,$6.31 
+Ice Cream Bar - Drumstick,Terri,3/11/2023,$0.19 ,aesparzagb@edublogs.org,Arabela,438-107-5985,$2.62 ,$2.52 ,$4.51 
+Beef - Montreal Smoked Brisket,Vitia,10/26/2023,$4.17 ,ccorryergc@mac.com,Culver,894-904-7373,$4.98 ,$1.72 ,$7.98 
+Wine - Stoneliegh Sauvignon,Faydra,12/9/2023,$7.20 ,hclewsgd@technorati.com,Harbert,996-670-7874,$7.19 ,$0.30 ,$6.39 
+"Pasta - Fusili, Dry",Pearl,4/8/2023,$3.97 ,ggallandersge@jalbum.net,Gardie,722-977-4801,$8.23 ,$8.20 ,$7.15 
+Wine - Spumante Bambino White,Irena,4/19/2023,$8.02 ,jsantostefanogf@rakuten.co.jp,Jerrylee,801-775-0536,$2.68 ,$6.42 ,$6.55 
+Mcguinness - Blue Curacao,Raquel,10/12/2023,$4.90 ,jcheckettsgg@gnu.org,Jade,791-325-5437,$0.61 ,$7.70 ,$9.49 
+Cookies Oatmeal Raisin,Melodie,2/20/2023,$9.50 ,mrawlingsongh@opensource.org,Miguela,764-485-1296,$8.28 ,$3.29 ,$3.45 
+Brandy Cherry - Mcguinness,Son,4/5/2023,$0.07 ,smeeregi@cargocollective.com,Sydel,410-326-2969,$5.22 ,$4.46 ,$2.45 
+"Doilies - 8, Paper",Karilynn,5/1/2023,$0.57 ,pibelgj@creativecommons.org,Penelopa,928-750-4206,$9.20 ,$0.23 ,$7.80 
+Sausage - Meat,Mathew,3/29/2023,$8.81 ,uelcomegk@flavors.me,Ursulina,403-728-0902,$0.89 ,$0.77 ,$4.58 
+Graham Cracker Mix,Syman,11/11/2023,$9.21 ,mbonsongl@mayoclinic.com,Mac,407-922-2449,$1.22 ,$8.67 ,$4.67 
+Canadian Emmenthal,Xymenes,7/4/2023,$9.41 ,bminchintongm@census.gov,Bonni,445-293-5369,$1.70 ,$4.99 ,$5.57 
+Syrup - Chocolate,Zandra,11/10/2023,$2.60 ,mcafegn@nhs.uk,Mar,726-223-1798,$8.05 ,$8.02 ,$5.21 
+Coffee - 10oz Cup 92961,Thedric,2/17/2023,$6.24 ,mkirtleygo@columbia.edu,Marybelle,982-225-6328,$8.08 ,$3.90 ,$3.83 
+Tea - Herbal I Love Lemon,Eryn,1/27/2023,$1.55 ,kmoxsteadgp@ed.gov,Katheryn,333-726-2961,$8.04 ,$1.37 ,$8.61 
+"Yeast - Fresh, Fleischman",Fons,9/22/2023,$9.55 ,eandreigq@chron.com,Enos,701-277-4231,$1.65 ,$7.77 ,$7.53 
+Tuna - Loin,Christian,2/27/2023,$7.84 ,ggrewargr@globo.com,Gloria,609-826-0132,$9.40 ,$9.99 ,$7.30 
+Pears - Fiorelle,Tommie,4/4/2023,$7.23 ,jfrakegs@a8.net,Jory,137-664-6482,$1.59 ,$2.84 ,$6.23 
+Tea - Vanilla Chai,Dari,7/13/2023,$4.15 ,btyregt@squidoo.com,Breanne,930-901-3209,$1.51 ,$8.18 ,$6.90 
+Ice Cream - Strawberry,Sawyere,6/18/2023,$9.27 ,fbastiegu@privacy.gov.au,Fara,972-406-0376,$0.58 ,$8.52 ,$8.71 
+"Pasta - Rotini, Colour, Dry",Aubrette,12/8/2023,$9.33 ,mtarneygv@goodreads.com,Milo,232-564-4786,$5.26 ,$6.82 ,$1.83 
+Icecream Cone - Areo Chocolate,Roxanna,1/24/2023,$9.57 ,jlangmaidgw@altervista.org,Julio,897-673-8327,$0.30 ,$9.72 ,$9.17 
+Muffin - Mix - Creme Brule 15l,Ernestine,9/18/2023,$5.80 ,hbussongx@bbb.org,Harlene,434-346-0789,$6.66 ,$6.78 ,$9.15 
+Compound - Rum,Brenden,11/5/2023,$7.85 ,jlinnellgy@loc.gov,Jacquelin,651-970-5263,$1.65 ,$9.45 ,$4.12 
+Wine - Chablis J Moreau Et Fils,Ethelred,10/24/2023,$5.10 ,jtantongz@cnbc.com,Juliette,940-288-2705,$5.58 ,$1.55 ,$3.91 
+Cheese - Cheddarsliced,Ami,1/18/2023,$1.72 ,hlyenyngh0@marriott.com,Herby,477-802-9892,$1.02 ,$5.55 ,$0.24 
+"Veal - Leg, Provimi - 50 Lb Max",Bamby,10/22/2023,$9.72 ,wcossumh1@twitpic.com,Willy,919-146-1018,$4.89 ,$5.86 ,$6.73 
+Lamb Rack - Ontario,Lib,9/3/2023,$5.36 ,reffnerth2@businessweek.com,Rois,194-230-9583,$1.94 ,$3.59 ,$1.67 
+Flour - Bread,Syman,12/3/2023,$1.37 ,kgaskalh3@google.com.au,Kordula,888-871-2037,$9.67 ,$2.11 ,$0.36 
+Guava,Ivy,5/30/2023,$2.48 ,aumberth4@lycos.com,Arnuad,618-553-1583,$9.93 ,$1.35 ,$6.66 
+Syrup - Kahlua Chocolate,Tades,1/3/2023,$4.46 ,aroysteh5@biglobe.ne.jp,Antonina,508-538-9575,$8.58 ,$1.69 ,$8.70 
+Curry Powder,Lorne,1/4/2023,$6.02 ,bgooderridgeh6@auda.org.au,Brennan,635-258-5849,$1.67 ,$1.92 ,$3.40 
+Wine - Magnotta - Belpaese,Orelie,10/19/2023,$0.62 ,aasplenh7@chicagotribune.com,Arch,567-505-5786,$3.46 ,$4.87 ,$3.11 
+Wine - Cotes Du Rhone Parallele,Melba,7/2/2023,$1.54 ,abeaumonth8@wordpress.org,Ashli,180-502-4496,$9.21 ,$7.83 ,$8.87 
+Vol Au Vents,Demeter,10/23/2023,$9.72 ,jklemencich9@mysql.com,Juli,427-529-8502,$3.50 ,$7.47 ,$7.85 
+Calaloo,Kate,3/11/2023,$1.03 ,lgarlettha@prnewswire.com,Lenci,782-397-3375,$7.60 ,$5.82 ,$3.38 
+Wine - Magnotta - Cab Sauv,Lurlene,7/4/2023,$0.86 ,mbariballhb@indiatimes.com,Margette,726-698-2188,$6.58 ,$2.04 ,$3.30 
+Peach - Halves,Hamnet,1/13/2023,$5.43 ,mlittlerhc@godaddy.com,Manny,667-297-7649,$2.56 ,$7.30 ,$0.80 
+"Mushroom - Enoki, Fresh",Ban,9/15/2023,$2.65 ,rtabourierhd@about.com,Robena,108-157-0202,$0.90 ,$6.36 ,$3.27 
+Cheese - Provolone,Emanuel,2/5/2023,$4.21 ,mgillianhe@friendfeed.com,Miltie,447-647-7088,$8.34 ,$9.64 ,$1.28 
+Soup - Campbellschix Stew,Llywellyn,9/16/2023,$6.76 ,mdimichf@mysql.com,Mel,818-855-4857,$2.15 ,$0.56 ,$8.69 
+"Asparagus - White, Fresh",Cariotta,3/11/2023,$9.80 ,crichemonthg@sun.com,Caspar,819-610-8256,$1.82 ,$0.77 ,$4.54 
+Onions - Green,Bink,5/14/2023,$4.98 ,sconnikiehh@salon.com,Stavros,223-825-0538,$8.84 ,$6.02 ,$7.06 
+Corn Syrup,Marietta,4/8/2023,$8.00 ,syellowleeshi@wiley.com,Sherwynd,329-329-7955,$2.33 ,$7.19 ,$7.68 
+Absolut Citron,Eddy,12/31/2023,$6.77 ,pwondraschekhj@oracle.com,Pace,163-139-8835,$9.70 ,$6.34 ,$1.47 
+"Pepper - Paprika, Hungarian",Christophe,10/16/2023,$1.04 ,wbusainhk@dion.ne.jp,Wittie,125-476-4572,$3.76 ,$6.39 ,$4.58 
+"Chilli Paste, Hot Sambal Oelek",Rabbi,8/18/2023,$0.40 ,bbasillonhl@smugmug.com,Bret,715-744-4087,$5.89 ,$2.47 ,$4.93 
+Bag - Regular Kraft 20 Lb,Borden,11/24/2023,$3.27 ,dupstonehm@upenn.edu,Debi,246-471-5846,$4.40 ,$8.31 ,$3.00 
+French Kiss Vanilla,Christine,6/14/2023,$4.68 ,hlegoodhn@surveymonkey.com,Henderson,725-423-1415,$4.19 ,$4.97 ,$7.51 
+Wine - Fat Bastard Merlot,Bancroft,8/8/2023,$0.43 ,tcurgenuerho@linkedin.com,Todd,448-883-0687,$8.40 ,$7.10 ,$2.26 
+Cinnamon Rolls,Welsh,2/26/2023,$10.00 ,escurrellhp@unicef.org,Elonore,590-814-4198,$4.79 ,$0.35 ,$7.45 
+"Pasta - Lasagne, Fresh",Ollie,7/28/2023,$8.03 ,bgommeryhq@reuters.com,Bearnard,759-412-1283,$9.08 ,$2.29 ,$2.27 
+Cookies - Assorted,Karry,4/14/2023,$8.24 ,rbrookeshr@sitemeter.com,Robby,748-692-1613,$6.20 ,$6.33 ,$1.11 
+Iced Tea Concentrate,Ursula,8/17/2023,$3.42 ,mstjohnhs@who.int,Marylin,693-651-7658,$5.91 ,$4.08 ,$4.81 
+"Veal - Inside, Choice",Jonell,1/4/2023,$5.70 ,mfraczakht@fda.gov,Mireielle,802-405-8406,$8.86 ,$4.17 ,$2.09 
+Soup - Tomato Mush. Florentine,Mendy,9/4/2023,$0.33 ,cscrewtonhu@springer.com,Celinka,265-680-1526,$0.12 ,$7.23 ,$5.96 
+Blue Curacao - Marie Brizard,Nomi,2/27/2023,$3.53 ,rferbrachehv@i2i.jp,Rosalinde,729-428-8025,$1.00 ,$3.94 ,$3.69 
+Swiss Chard - Red,Emlynne,5/28/2023,$4.52 ,chunnywellhw@qq.com,Corty,850-323-7161,$2.49 ,$8.59 ,$0.92 
+Clams - Canned,Ralph,6/22/2023,$3.62 ,enovikhx@ocn.ne.jp,Eba,799-153-9160,$6.17 ,$4.67 ,$2.78 
+Daikon Radish,Augustus,2/6/2023,$0.74 ,bpantryhy@vkontakte.ru,Blaire,641-572-5906,$8.81 ,$9.38 ,$0.15 
+Versatainer Nc - 888,Kare,10/30/2023,$4.88 ,dcollcutthz@amazon.co.uk,Domeniga,712-387-6320,$3.94 ,$0.61 ,$2.61 
+Bread Crumbs - Panko,Frazier,4/28/2023,$8.98 ,melverstoni0@pinterest.com,Maribel,759-718-4881,$0.10 ,$5.41 ,$3.61 
+Garlic,Catie,3/26/2023,$7.22 ,jcadlocki1@sourceforge.net,Jacinta,898-174-9324,$0.16 ,$5.76 ,$8.75 
+Venison - Liver,Roxy,5/12/2023,$9.04 ,agerriti2@time.com,Audra,669-863-4676,$8.54 ,$9.38 ,$9.25 
+Beets,Kara-lynn,12/7/2023,$9.34 ,tfittisi3@gov.uk,Tome,198-771-1127,$7.60 ,$0.65 ,$7.11 
+Basil - Fresh,Stavro,4/15/2023,$5.40 ,gdaringtoni4@storify.com,George,623-398-7458,$1.47 ,$8.42 ,$2.10 
+Lettuce - Baby Salad Greens,Artemas,8/8/2023,$6.43 ,smayoi5@lulu.com,Shaylah,543-594-6751,$7.81 ,$9.23 ,$0.59 
+Pork - Side Ribs,Maryanna,11/16/2023,$2.07 ,bburgini6@deviantart.com,Bernadene,800-556-7200,$3.90 ,$9.66 ,$6.14 
+Sage Derby,Aura,6/21/2023,$7.21 ,sscollani7@princeton.edu,Schuyler,889-576-0218,$5.14 ,$6.34 ,$6.00 
+Bread Ww Cluster,Jessa,4/11/2023,$5.86 ,gcapelowi8@bbb.org,Gladys,325-797-9633,$4.55 ,$7.69 ,$0.10 
+Lotus Rootlets - Canned,Jerrie,8/3/2023,$4.48 ,lskotcheri9@businessinsider.com,Louis,644-664-1337,$3.69 ,$2.80 ,$3.67 
+Food Colouring - Red,Rubin,1/6/2023,$6.85 ,prosendallia@livejournal.com,Phillipp,842-643-5928,$9.56 ,$1.98 ,$3.90 
+Sherbet - Raspberry,Idaline,8/16/2023,$2.83 ,climpertzib@bloomberg.com,Coriss,853-151-0735,$4.44 ,$8.40 ,$3.29 
+Bagels Poppyseed,Naoma,7/21/2023,$4.01 ,adansonic@over-blog.com,Alex,238-247-2752,$3.76 ,$4.07 ,$9.42 
+"Lamb - Leg, Bone In",Nevin,7/18/2023,$7.50 ,ekilrowid@hao123.com,Eddie,674-275-6031,$7.50 ,$2.80 ,$4.79 
+Chocolate - Semi Sweet,Callida,4/8/2023,$1.00 ,sdolligonie@t-online.de,Sauncho,403-886-7775,$9.13 ,$3.60 ,$2.23 
+Pasta - Agnolotti - Butternut,Inger,12/3/2023,$0.12 ,gmarrettif@booking.com,Glynnis,203-755-3142,$6.72 ,$5.69 ,$1.73 
+"Lamb - Leg, Bone In",Elvina,12/25/2023,$2.84 ,gheatheringtonig@vk.com,Guthrie,220-615-7607,$3.12 ,$5.30 ,$3.49 
+Oven Mitt - 13 Inch,Petey,4/2/2023,$6.31 ,roccleshawih@mtv.com,Rana,265-917-6973,$2.08 ,$3.16 ,$9.82 
+Vanilla Beans,Udale,4/26/2023,$5.30 ,shugonetii@loc.gov,Stafani,685-183-8663,$0.98 ,$9.83 ,$4.20 
+Curry Paste - Green Masala,Torrey,6/21/2023,$7.12 ,bmuslimij@addthis.com,Berkeley,310-510-2953,$0.18 ,$3.35 ,$9.99 
+Butter Ripple - Phillips,Rivi,4/27/2023,$0.63 ,eschoenrockik@cloudflare.com,Evy,410-422-7052,$4.82 ,$5.52 ,$6.27 
+Sausage - Chorizo,Dionysus,6/1/2023,$1.78 ,gquinetil@wikispaces.com,Gracie,379-162-5138,$6.72 ,$9.17 ,$4.10 
+Mix - Cocktail Strawberry Daiquiri,Hobie,8/19/2023,$5.83 ,ktourvilleim@dropbox.com,Kessiah,206-982-1996,$0.47 ,$9.01 ,$8.87 
+Oil - Sesame,Jere,6/17/2023,$9.57 ,jellettin@usda.gov,Jillene,849-492-0969,$1.30 ,$8.38 ,$7.47 
+Wine - Magnotta - Pinot Gris Sr,Ethelin,7/6/2023,$8.28 ,apyottio@vinaora.com,Arlena,798-766-1588,$7.29 ,$2.89 ,$8.12 
+Pepper - Orange,Elihu,7/8/2023,$0.25 ,mdanielloip@newsvine.com,Modestia,662-986-0860,$5.66 ,$9.45 ,$5.72 
+"Beer - Alexander Kieths, Pale Ale",Amity,6/10/2023,$9.98 ,cdiggariq@tinypic.com,Crawford,832-554-4479,$5.42 ,$6.98 ,$9.40 
+Lettuce - Lambs Mash,Reinhold,7/25/2023,$2.46 ,mcrokeir@oracle.com,Marylin,891-442-3501,$5.07 ,$3.23 ,$7.68 
+Coffee Swiss Choc Almond,Oswald,1/26/2023,$0.67 ,janglishis@boston.com,Jaynell,584-801-8901,$4.07 ,$0.54 ,$6.31 
+Turnip - Wax,Danny,5/7/2023,$7.58 ,jspringit@flickr.com,Jorge,608-651-7263,$7.85 ,$3.58 ,$0.43 
+Paper - Brown Paper Mini Cups,Wallie,12/4/2023,$6.92 ,fmckinleyiu@ow.ly,Fletch,173-192-6714,$7.18 ,$4.43 ,$1.56 
+Chinese Foods - Cantonese,Evan,1/20/2023,$9.15 ,gaizikiv@noaa.gov,Garvy,507-447-6878,$0.10 ,$9.86 ,$0.00 
+"Soup - Knorr, Ministrone",Max,4/4/2023,$3.00 ,dbelloiw@nasa.gov,Dani,827-777-1202,$1.44 ,$0.47 ,$0.68 
+"Jam - Strawberry, 20 Ml Jar",Anette,5/21/2023,$3.07 ,gletixierix@patch.com,Garold,874-280-1136,$0.14 ,$8.67 ,$5.90 
+Coffee - Irish Cream,Rennie,8/12/2023,$9.85 ,gtabouriy@dailymotion.com,Gracie,261-123-1818,$0.71 ,$9.83 ,$3.80 
+Carbonated Water - Blackberry,Tallou,5/30/2023,$3.36 ,rbottinelliiz@noaa.gov,Raye,629-118-2966,$6.52 ,$2.88 ,$4.50 
+Wine - Gato Negro Cabernet,Rory,7/22/2023,$0.90 ,mgoldsterj0@themeforest.net,Maiga,759-568-2182,$9.86 ,$2.24 ,$8.76 
+Fennel,Aldwin,12/31/2023,$2.33 ,ningj1@vkontakte.ru,Nananne,708-802-6922,$2.17 ,$8.31 ,$1.85 
+Wine - Barolo Fontanafredda,Urson,11/4/2023,$2.52 ,mlaughtonj2@foxnews.com,Myrle,366-223-1017,$4.70 ,$0.72 ,$8.56 
+Limes,Angele,4/23/2023,$3.84 ,mdahlj3@so-net.ne.jp,Moreen,256-707-9570,$0.29 ,$8.61 ,$5.83 
+"Halibut - Whole, Fresh",Tiffani,6/11/2023,$6.58 ,jflochj4@china.com.cn,Jourdain,226-375-2371,$0.40 ,$9.23 ,$1.43 
+Coffee - 10oz Cup 92961,Hughie,11/21/2023,$5.33 ,pbeilbyj5@wix.com,Pasquale,754-542-8182,$3.23 ,$3.28 ,$5.73 
+V8 - Tropical Blend,Desirae,9/10/2023,$6.43 ,sjakoubecj6@t-online.de,Sallie,800-259-3799,$8.11 ,$8.40 ,$2.50 
+Table Cloth 53x53 White,Danita,7/6/2023,$3.98 ,hgodthaabj7@eepurl.com,Helge,101-173-3090,$6.02 ,$7.98 ,$9.04 
+Oil - Canola,Wallis,3/15/2023,$6.62 ,sstrevensj8@homestead.com,Sophey,800-282-6070,$6.22 ,$9.73 ,$0.73 
+Pur Source,Milo,3/13/2023,$9.92 ,bjendrachj9@wordpress.com,Burton,274-701-9118,$8.97 ,$2.71 ,$0.20 
+Puree - Strawberry,Renado,6/2/2023,$2.20 ,dkayeja@360.cn,Deeyn,778-524-5841,$3.14 ,$4.97 ,$4.54 
+"Wine - White, Mosel Gold",Augustin,5/26/2023,$7.33 ,gpoleyejb@ftc.gov,Gianna,701-503-2217,$0.62 ,$2.65 ,$3.74 
+Juice - Happy Planet,Valerie,5/25/2023,$5.14 ,bsanperjc@hc360.com,Barbette,801-247-7197,$0.64 ,$3.06 ,$1.32 
+Pork - Smoked Kassler,Sallyanne,6/29/2023,$7.82 ,ralgorejd@chronoengine.com,Rowan,155-969-7107,$0.88 ,$6.55 ,$3.55 
+Mace,Drugi,6/30/2023,$6.73 ,gborelje@cam.ac.uk,Gabriellia,112-492-7646,$5.45 ,$3.04 ,$7.50 
+Beer - Paulaner Hefeweisse,Sinclair,3/19/2023,$5.76 ,denterleinjf@desdev.cn,Drucie,564-346-9470,$7.34 ,$2.59 ,$6.74 
+Chip - Potato Dill Pickle,Kalie,10/21/2023,$3.54 ,mroysejg@globo.com,Melisent,444-511-0102,$4.70 ,$2.66 ,$6.20 
+Chevere Logs,Sorcha,8/18/2023,$0.05 ,dloyntonjh@howstuffworks.com,Dew,367-423-3530,$7.65 ,$6.71 ,$5.14 
+Wine - Lamancha Do Crianza,Herold,11/14/2023,$0.76 ,jbiasioji@auda.org.au,Judd,797-322-6006,$8.60 ,$5.02 ,$8.26 
+Lentils - Green Le Puy,Brigit,1/11/2023,$7.81 ,eshipmanjj@51.la,Edd,494-536-7064,$2.22 ,$9.54 ,$4.87 
+Bread - Malt,Christie,9/13/2023,$1.92 ,mdeshonjk@arizona.edu,Murdoch,725-925-1409,$8.28 ,$3.69 ,$6.09 
+Flavouring - Rum,Brigida,5/2/2023,$4.96 ,scauderliejl@fema.gov,Sibel,746-759-9946,$1.81 ,$8.77 ,$8.33 
+Sprouts - China Rose,Gene,12/7/2023,$4.99 ,hmattausjm@blogtalkradio.com,Helsa,509-183-4463,$2.06 ,$5.69 ,$9.29 
+Sunflower Seed Raw,Claribel,7/13/2023,$7.37 ,fericjn@cloudflare.com,Frank,105-555-3108,$4.85 ,$2.95 ,$1.30 
+Red Currants,Amby,3/1/2023,$1.69 ,lyerringtonjo@scribd.com,Ludwig,434-159-0386,$9.57 ,$3.19 ,$3.30 
+Wasabi Powder,Jessalyn,9/6/2023,$2.91 ,gdurkinjp@bravesites.com,Glenda,517-269-9059,$3.59 ,$8.05 ,$7.60 
+Compound - Strawberry,Meryl,5/18/2023,$4.84 ,rchessonjq@comcast.net,Roseline,926-505-1921,$3.84 ,$5.61 ,$4.13 
+Muffin Hinge - 211n,Augustus,12/13/2023,$3.00 ,slibreyjr@soundcloud.com,Seana,385-783-0096,$7.04 ,$4.86 ,$3.35 
+Milk - Condensed,Jere,8/12/2023,$3.51 ,oharperjs@globo.com,Odelle,235-296-6363,$2.50 ,$5.61 ,$0.68 
+Wine - Sauvignon Blanc Oyster,Charlie,8/27/2023,$7.80 ,nderringtonjt@ihg.com,Norry,449-918-0262,$0.87 ,$2.29 ,$7.90 
+Zucchini - Green,Sarge,5/5/2023,$8.97 ,wpostiansju@tmall.com,Wanids,325-804-3705,$7.34 ,$8.10 ,$9.75 
+Cake - Mini Potato Pancake,Hinda,10/24/2023,$6.70 ,nmyderscoughjv@google.com.hk,Nathanael,586-857-1466,$2.40 ,$2.88 ,$9.43 
+"Yogurt - Banana, 175 Gr",Charil,6/26/2023,$1.15 ,ndenidgejw@bluehost.com,Ned,463-436-8880,$5.23 ,$6.71 ,$3.14 
+Plasticforkblack,Eward,9/24/2023,$7.77 ,giversonjx@geocities.jp,Gipsy,287-694-9597,$6.89 ,$6.88 ,$7.18 
+Island Oasis - Ice Cream Mix,Laural,1/9/2023,$5.47 ,pcaldeyrouxjy@purevolume.com,Pennie,257-673-3114,$2.62 ,$1.39 ,$1.46 
+Tuna - Bluefin,Martie,5/18/2023,$2.10 ,eheggejz@ehow.com,Elaina,756-924-5433,$2.26 ,$4.89 ,$8.36 
+Mix Pina Colada,Addie,7/23/2023,$7.33 ,lcordovak0@wikia.com,Lissi,483-233-5264,$1.86 ,$9.90 ,$7.55 
+Urban Zen Drinks,Delainey,5/16/2023,$8.54 ,rmoscropk1@symantec.com,Rich,135-890-0414,$4.86 ,$9.88 ,$4.63 
+"Wine - Sherry Dry Sack, William",Dominga,8/4/2023,$0.72 ,aghilardik2@de.vu,Ailene,525-747-8633,$7.14 ,$7.15 ,$5.51 
+"Nut - Peanut, Roasted",Gaelan,5/25/2023,$7.01 ,cellereyk3@clickbank.net,Cari,889-141-0559,$5.44 ,$4.93 ,$6.83 
+Pork - Back Ribs,Kylynn,9/1/2023,$8.10 ,jflannk4@facebook.com,Jamill,852-525-3686,$7.57 ,$3.69 ,$0.50 
+Spice - Onion Powder Granulated,Frazer,2/15/2023,$8.92 ,vgosnayk5@dailymail.co.uk,Vance,434-158-0919,$3.17 ,$9.17 ,$9.98 
+Garlic - Peeled,Brew,3/11/2023,$3.20 ,kkettlesk6@ow.ly,Kin,231-992-8400,$3.67 ,$2.13 ,$6.43 
+"Pasta - Shells, Medium, Dry",Fernando,2/8/2023,$7.87 ,vplewesk7@chron.com,Valentijn,478-202-7088,$1.88 ,$4.64 ,$1.63 
+Pork Salted Bellies,Gonzalo,6/13/2023,$8.06 ,mmasik8@cnbc.com,Marilin,617-345-1460,$4.29 ,$3.23 ,$9.88 
+Bananas,Ede,11/30/2023,$5.39 ,swaink9@wp.com,Salomon,238-821-6868,$1.46 ,$2.07 ,$8.84 
+Bread - French Baquette,Binnie,7/8/2023,$1.84 ,fcosbeyka@ucoz.ru,Friedrich,867-841-7418,$1.76 ,$4.63 ,$5.73 
+"Soup - Knorr, Veg / Beef",Derick,6/20/2023,$1.72 ,dgribbonkb@ovh.net,Dorolisa,298-781-8523,$2.32 ,$7.78 ,$2.65 
+Cheese - St. Paulin,Kelsey,8/31/2023,$6.62 ,wcluetkc@ucoz.com,William,213-968-2504,$2.79 ,$8.99 ,$2.48 
+Barramundi,Jeralee,5/7/2023,$2.44 ,cchampekd@craigslist.org,Corty,603-257-8715,$6.59 ,$5.71 ,$1.97 
+Potatoes - Pei 10 Oz,Concettina,9/4/2023,$3.52 ,jmiddleweekke@msu.edu,Jeanie,877-769-5550,$2.06 ,$2.09 ,$8.98 
+Apricots Fresh,Issy,12/16/2023,$2.93 ,dbrumptonkf@foxnews.com,Deanna,408-155-6189,$7.82 ,$2.03 ,$1.62 
+"Water, Tap",Maurene,1/31/2023,$8.86 ,fmarquiskg@spiegel.de,Flss,221-220-8405,$7.22 ,$6.28 ,$8.00 
+Pickerel - Fillets,Lucina,11/13/2023,$2.49 ,tgittingskh@msn.com,Thomas,880-833-0023,$4.98 ,$3.51 ,$9.08 
+"Tuna - Canned, Flaked, Light",Claire,11/25/2023,$4.44 ,gsturgiski@twitter.com,Gothart,842-851-2686,$2.65 ,$4.93 ,$2.33 
+Onions - Cooking,Valeria,4/28/2023,$1.16 ,hpoggkj@wordpress.com,Howey,989-795-9977,$5.49 ,$2.43 ,$1.50 
+Calvados - Boulard,Doloritas,3/3/2023,$0.77 ,dewbanckkk@ucoz.ru,Derward,879-933-7833,$7.44 ,$6.10 ,$1.52 
+Plaintain,Hortensia,2/6/2023,$3.98 ,arubinfeldkl@infoseek.co.jp,Adi,506-504-6739,$9.36 ,$7.79 ,$0.23 
+Dehydrated Kelp Kombo,Hughie,1/14/2023,$6.08 ,jdwyrkm@blogger.com,Joeann,124-146-3299,$7.90 ,$7.84 ,$3.20 
+"Rum - Dark, Bacardi, Black",Barnebas,12/12/2023,$4.27 ,ggerckekn@china.com.cn,Gibb,504-542-4791,$0.08 ,$9.96 ,$5.78 
+Lobak,Cullan,12/15/2023,$5.23 ,sdobbyko@xing.com,Sandye,344-466-8104,$0.73 ,$2.20 ,$7.05 
+Sauce - Marinara,Dinnie,8/25/2023,$3.72 ,kpeterikp@artisteer.com,Kristen,576-497-2630,$7.66 ,$8.31 ,$4.36 
+Tilapia - Fillets,Seline,1/11/2023,$2.12 ,dquantickkq@princeton.edu,Denise,876-738-1096,$2.21 ,$4.94 ,$0.08 
+Calypso - Pineapple Passion,Corene,8/27/2023,$9.03 ,mgaywoodkr@salon.com,Muffin,946-300-8795,$1.29 ,$3.56 ,$5.81 
+Wine - Crozes Hermitage E.,Maxy,10/15/2023,$7.45 ,mboytonks@furl.net,Miranda,584-752-6754,$3.04 ,$5.58 ,$5.25 
+Corn Meal,Noe,3/4/2023,$2.50 ,rclacsonkt@ask.com,Rickie,763-362-7890,$6.97 ,$9.25 ,$4.70 
+Shark - Loin,Doralynn,6/23/2023,$7.80 ,mofalloneku@dyndns.org,Micky,792-463-5615,$7.19 ,$4.75 ,$6.30 
+"Oil - Truffle, White",Rasia,11/28/2023,$4.21 ,mturnbullkv@cam.ac.uk,Mae,362-480-3627,$3.43 ,$8.07 ,$6.30 
+Beef - Ox Tongue,Jerri,5/27/2023,$0.08 ,lomoylanekw@xrea.com,Laverna,754-152-2712,$1.85 ,$8.94 ,$7.04 
+Cookies - Fortune,Yalonda,11/29/2023,$0.85 ,dsmicklekx@trellian.com,Daune,738-781-5150,$3.98 ,$8.73 ,$2.80 
+Cheese - Gouda,Cyndia,5/15/2023,$7.96 ,scarnegyky@guardian.co.uk,Selie,307-753-5892,$8.88 ,$10.00 ,$5.44 
+"Pepper - White, Whole",Maurene,2/12/2023,$1.96 ,jlockittkz@bbb.org,Joana,154-965-2284,$7.03 ,$1.62 ,$4.45 
+Cup - Translucent 7 Oz Clear,Hashim,6/24/2023,$8.48 ,fstuchberyl0@house.gov,Franzen,232-141-1487,$5.53 ,$8.94 ,$1.08 
+Sword Pick Asst,Sue,3/25/2023,$5.11 ,lstandonl1@ehow.com,Loren,839-223-7433,$0.25 ,$6.24 ,$6.83 
+The Pop Shoppe - Lime Rickey,Elyssa,11/26/2023,$5.06 ,tpennockl2@geocities.com,Tamarah,633-172-7980,$5.10 ,$5.35 ,$6.98 
+"Lid - High Heat, Super Clear",Jorie,4/2/2023,$5.55 ,aizkovicil3@usa.gov,Alwin,327-534-1824,$5.81 ,$5.01 ,$7.56 
+Wine - Fume Blanc Fetzer,Carolina,11/9/2023,$0.19 ,landreopolosl4@rediff.com,Lelah,410-624-4250,$0.63 ,$2.27 ,$1.02 
+Beef - Top Sirloin - Aaa,Zita,6/17/2023,$9.56 ,blombardol5@techcrunch.com,Bil,193-857-9369,$3.81 ,$4.81 ,$0.58 
+"Pasta - Lasagna, Dry",Salomi,8/17/2023,$3.14 ,ohonnieball6@un.org,Ophelia,963-299-1073,$0.65 ,$1.10 ,$0.80 
+"Ranchero - Primerba, Paste",Angela,1/13/2023,$8.22 ,rduffitl7@tinypic.com,Romonda,114-156-5140,$7.21 ,$9.13 ,$8.43 
+Honey - Comb,Ramonda,11/16/2023,$3.57 ,aiacapuccil8@oakley.com,Anatollo,173-776-9974,$3.55 ,$8.55 ,$5.22 
+"Cheese - Mozzarella, Buffalo",Calli,11/29/2023,$4.79 ,dslightl9@networkadvertising.org,Dionis,159-102-8192,$3.96 ,$1.47 ,$7.74 
+Chicken - Whole Fryers,Creighton,1/3/2023,$7.30 ,mjarrittla@kickstarter.com,Milly,131-586-8931,$2.89 ,$7.35 ,$6.64 
+"Veal - Brisket, Provimi, Bone - In",Charlena,1/22/2023,$7.00 ,mhaylb@usatoday.com,Maddy,281-689-6419,$8.55 ,$9.65 ,$3.90 
+Tea - Green,Cathe,2/1/2023,$6.30 ,ltolemanlc@cloudflare.com,Laryssa,147-475-8239,$4.71 ,$9.67 ,$3.72 
+Chips Potato All Dressed - 43g,Nellie,3/27/2023,$1.04 ,slamprechtld@stumbleupon.com,Stoddard,602-764-7292,$5.66 ,$2.11 ,$8.57 
+Chicken Breast Halal,Guss,5/8/2023,$0.49 ,afilisovle@state.tx.us,Anallise,202-702-7012,$7.56 ,$7.15 ,$8.43 
+"Veal - Brisket, Provimi,bnls",Nola,3/27/2023,$5.86 ,nhaslinlf@privacy.gov.au,Nevsa,700-388-8059,$1.49 ,$7.95 ,$5.44 
+"Beef - Ox Tail, Frozen",Sarge,1/25/2023,$3.37 ,ldracksfordlg@abc.net.au,Lazare,681-618-4188,$0.24 ,$7.06 ,$1.75 
+Turkey - Oven Roast Breast,Vaclav,1/6/2023,$6.13 ,lmatteottilh@vinaora.com,Lanita,747-492-9565,$5.55 ,$6.31 ,$9.10 
+Chicken - Ground,Archambault,3/16/2023,$0.82 ,cfoanli@google.pl,Clywd,930-695-6626,$1.42 ,$5.06 ,$7.57 
+Stainless Steel Cleaner Vision,Adan,8/5/2023,$2.36 ,hfisbeylj@weebly.com,Hilario,879-133-9919,$6.20 ,$0.56 ,$5.25 
+Versatainer Nc - 888,Eduardo,8/17/2023,$4.35 ,sbartlomiejczyklk@taobao.com,Sherwin,965-881-6970,$4.47 ,$2.51 ,$9.97 
+Egg - Salad Premix,Robbie,11/25/2023,$1.68 ,cmateikoll@wufoo.com,Cass,864-687-4609,$9.67 ,$2.13 ,$9.71 
+Wine - Fume Blanc Fetzer,Edi,7/24/2023,$1.52 ,sbehneckelm@deliciousdays.com,Shellysheldon,558-506-8153,$9.35 ,$4.78 ,$6.14 
+Parsley - Fresh,Antony,2/20/2023,$5.34 ,jmarneyln@ifeng.com,Janelle,791-246-7387,$8.77 ,$4.99 ,$1.61 
+Red Pepper Paste,Cris,3/9/2023,$9.78 ,botteylo@desdev.cn,Basilius,194-231-8007,$8.19 ,$8.45 ,$7.04 
+Squid Ink,Bernadene,3/30/2023,$7.26 ,hmiskimmonlp@dailymail.co.uk,Henryetta,780-478-1703,$7.03 ,$2.20 ,$4.88 
+Wine - Taylors Reserve,Evered,8/22/2023,$0.70 ,mschuriglq@apple.com,Marlyn,713-968-0737,$0.13 ,$0.33 ,$7.57 
+Salt And Pepper Mix - Black,Carlyle,9/16/2023,$7.88 ,dhudghtonlr@hubpages.com,Demetrius,615-100-9447,$0.23 ,$9.35 ,$4.80 
+Pork - Back Ribs,Jud,2/19/2023,$3.62 ,kbottlels@infoseek.co.jp,Keefe,908-685-4823,$2.21 ,$6.97 ,$6.05 
+Wine - Gewurztraminer Pierre,Neils,11/2/2023,$1.17 ,dfreakelt@clickbank.net,Dannel,368-879-7642,$2.73 ,$6.91 ,$1.92 
+"Sauce - Bernaise, Mix",Shena,1/20/2023,$9.26 ,jridgleylu@soundcloud.com,Jackie,752-690-4301,$7.03 ,$4.63 ,$1.45 
+Muffin Mix - Oatmeal,Royall,4/19/2023,$2.16 ,nyurchishinlv@nyu.edu,Natale,109-341-8524,$0.43 ,$8.30 ,$1.27 
+External Supplier,Giffard,6/29/2023,$1.82 ,stuckettlw@tinyurl.com,Saloma,249-677-8037,$3.78 ,$8.32 ,$6.83 
+"Soup - Campbells, Spinach Crm",Elinor,5/1/2023,$4.92 ,jkirtleylx@printfriendly.com,Joann,586-907-4483,$5.40 ,$4.38 ,$5.02 
+"Pork - Bacon, Double Smoked",Perrine,12/10/2023,$7.16 ,anewboldly@merriam-webster.com,Aron,433-132-2175,$0.52 ,$9.31 ,$8.68 
+"Wine - Red, Mosaic Zweigelt",Rutter,4/26/2023,$2.72 ,bpurrylz@amazon.co.uk,Brandea,229-196-8630,$8.28 ,$0.01 ,$5.95 
+Oil - Cooking Spray,Jacklyn,4/22/2023,$3.75 ,tbottrillm0@noaa.gov,Tonia,611-588-7181,$9.50 ,$9.95 ,$2.64 
+The Pop Shoppe - Lime Rickey,Candice,7/21/2023,$8.66 ,ccescom1@apache.org,Clary,806-559-5295,$3.00 ,$1.77 ,$1.50 
+"Lid - High Heat, Super Clear",Merwin,4/17/2023,$2.78 ,cheeronm2@squarespace.com,Chaddie,878-830-1096,$7.45 ,$8.60 ,$8.29 
+Carbonated Water - Wildberry,Mitch,7/28/2023,$3.30 ,wmummerym3@google.co.uk,Wynny,991-950-1340,$5.39 ,$9.63 ,$7.39 
+"Soup - Knorr, Chicken Noodle",Dosi,2/2/2023,$2.41 ,ibarenskiem4@yellowbook.com,Ivette,662-331-2037,$7.29 ,$7.53 ,$8.25 
+"Yeast - Fresh, Fleischman",Nelli,10/21/2023,$4.98 ,bstelfoxm5@google.fr,Barbara-anne,274-670-4939,$2.08 ,$2.73 ,$0.11 
+Beans - Fine,Rochette,3/22/2023,$6.93 ,cdumbletonm6@drupal.org,Charita,925-170-5653,$8.80 ,$7.30 ,$0.78 
+Wine - Penfolds Koonuga Hill,Karmen,2/11/2023,$1.22 ,ggoodinsonm7@is.gd,Griffith,200-230-4441,$7.00 ,$6.08 ,$6.36 
+Bread - White Mini Epi,Cecile,3/31/2023,$3.02 ,rfallism8@mediafire.com,Rriocard,102-370-3451,$0.18 ,$9.71 ,$9.74 
+"Oil - Truffle, Black",Abel,11/27/2023,$4.73 ,fchatterism9@exblog.jp,Francene,386-447-6202,$7.95 ,$9.28 ,$0.09 
+Crackers - Graham,Puff,2/18/2023,$6.46 ,hhurworthma@yahoo.co.jp,Honey,828-826-1638,$4.71 ,$8.92 ,$5.91 
+Olives - Morracan Dired,Moyna,11/7/2023,$6.46 ,texetermb@blogtalkradio.com,Tiphanie,800-668-4133,$3.65 ,$9.54 ,$3.18 
+Muffin - Mix - Creme Brule 15l,Berti,9/12/2023,$2.32 ,cnorringtonmc@miitbeian.gov.cn,Clerc,301-130-6550,$4.69 ,$0.97 ,$8.95 
+Veal - Loin,Rice,11/16/2023,$2.89 ,wshorrockmd@usatoday.com,Whitaker,551-286-5495,$8.03 ,$7.54 ,$7.66 
+Sea Bass - Whole,Kerrill,10/4/2023,$6.69 ,wmcdellme@list-manage.com,Weston,397-815-2247,$2.27 ,$5.48 ,$6.04 
+Juice - Prune,Blondie,8/22/2023,$2.40 ,vthomasonmf@acquirethisname.com,Vicky,806-660-7964,$7.13 ,$1.43 ,$2.88 
+"Rosemary - Primerba, Paste",Nikos,12/14/2023,$2.03 ,jnardonimg@cnn.com,Jacquenette,718-639-6732,$5.19 ,$7.31 ,$2.27 
+Soup - Campbells - Chicken Noodle,Gui,12/5/2023,$4.64 ,dmaddenmh@state.gov,Deedee,787-471-5167,$2.79 ,$3.91 ,$0.96 
+Chevril,Leone,9/16/2023,$7.63 ,tcowlammi@istockphoto.com,Tamera,127-845-5867,$1.89 ,$8.32 ,$3.84 
+Clementine,Brooke,6/26/2023,$1.01 ,kmerillmj@simplemachines.org,Katharina,348-846-5157,$0.86 ,$4.40 ,$9.18 
+"Rum - Coconut, Malibu",Caryl,2/3/2023,$1.01 ,slissandrinimk@flickr.com,Spencer,711-449-8207,$3.59 ,$5.62 ,$2.16 
+"Beef - Bones, Marrow",Genevieve,11/18/2023,$6.39 ,ctorricinaml@imageshack.us,Casey,246-646-1922,$9.93 ,$0.61 ,$5.87 
+Pants Custom Dry Clean,Corabella,6/13/2023,$8.84 ,froddermm@csmonitor.com,Fitzgerald,760-983-1807,$1.69 ,$1.78 ,$3.84 
+Soup - Campbells Pasta Fagioli,Josey,9/22/2023,$8.82 ,bleadsmn@mapquest.com,Boonie,700-575-6229,$1.35 ,$4.50 ,$3.92 
+Pie Filling - Apple,Tye,3/26/2023,$4.72 ,tlissandrimo@t-online.de,Tilly,546-529-6162,$1.85 ,$4.46 ,$9.78 
+Soy Protein,Conroy,5/21/2023,$1.58 ,dchurchesmp@ask.com,Devin,311-658-7164,$9.63 ,$3.94 ,$6.82 
+Flavouring - Rum,Mariette,8/12/2023,$0.08 ,zleyburnmq@theglobeandmail.com,Zarah,196-803-8983,$3.45 ,$9.11 ,$8.80 
+Sobe - Orange Carrot,Prisca,4/4/2023,$0.51 ,dtoolinmr@marketwatch.com,Dennie,971-635-4015,$9.99 ,$1.79 ,$5.11 
+Sauce - Chili,Shannon,6/25/2023,$8.65 ,dramelotms@toplist.cz,Dora,948-195-3444,$6.04 ,$7.05 ,$8.45 
+Smoked Tongue,Lindie,7/15/2023,$5.15 ,dtinkermt@yellowpages.com,Daffie,500-863-1786,$1.41 ,$0.20 ,$7.50 
+Appetizer - Chicken Satay,Carmela,5/17/2023,$1.75 ,rdavidofskimu@alibaba.com,Ricca,522-586-5961,$8.85 ,$3.72 ,$5.11 
+Cup Translucent 9 Oz,Kirstyn,11/12/2023,$6.26 ,satcherleymv@fotki.com,Saloma,932-924-5720,$9.15 ,$4.98 ,$1.93 
+"Sparkling Wine - Rose, Freixenet",Hetty,9/4/2023,$6.26 ,saldgatemw@engadget.com,Smitty,375-209-8773,$5.40 ,$0.52 ,$2.49 
+Garlic - Peeled,Francois,5/21/2023,$9.38 ,mmillenmx@mozilla.com,Maje,842-705-9992,$9.79 ,$5.62 ,$2.94 
+Shichimi Togarashi Peppeers,Cathyleen,4/29/2023,$6.91 ,ldentonmy@google.com.br,Laurens,657-186-1097,$1.02 ,$4.83 ,$7.24 
+"Pasta - Penne Primavera, Single",Jacenta,7/9/2023,$5.49 ,bjanousekmz@usa.gov,Brooke,724-152-5474,$9.06 ,$8.76 ,$3.56 
+Remy Red,Brok,9/2/2023,$0.98 ,amaccleodn0@irs.gov,Amity,540-113-5419,$4.76 ,$4.05 ,$4.10 
+Yogurt - Plain,Stephi,4/12/2023,$4.78 ,gcankettn1@apache.org,Gaynor,691-149-7228,$9.13 ,$9.76 ,$4.90 
+Tomatoes - Roma,Willi,5/19/2023,$5.09 ,ewarlawn2@multiply.com,Emerson,414-267-1788,$5.74 ,$8.07 ,$8.75 
+Bread - Pain Au Liat X12,Pearline,2/11/2023,$1.76 ,aewbanckn3@delicious.com,Abrahan,359-210-5406,$4.27 ,$6.36 ,$3.96 
+Onion Powder,Gayelord,5/7/2023,$3.02 ,chephern4@addthis.com,Curt,173-602-1534,$1.24 ,$5.94 ,$9.36 
+Aspic - Amber,Janot,8/18/2023,$1.37 ,spedrickn5@blogspot.com,Suzie,302-924-4627,$4.37 ,$1.59 ,$5.78 
+Bar Mix - Lemon,Ceciley,8/11/2023,$8.43 ,idwelleyn6@npr.org,Ivie,152-530-0059,$4.18 ,$9.97 ,$9.70 
+Melon - Watermelon Yellow,Gerhard,8/29/2023,$9.83 ,sbellen7@amazon.com,Sharai,182-291-8531,$5.57 ,$7.19 ,$5.92 
+Kirsch - Schloss,Birgitta,2/11/2023,$9.29 ,stresken8@bigcartel.com,Sergeant,795-438-0707,$5.92 ,$3.13 ,$7.49 
+Wanton Wrap,Luella,3/17/2023,$4.25 ,skerbyn9@answers.com,Sheffie,347-711-3370,$1.40 ,$6.73 ,$7.66 
+Ocean Spray - Kiwi Strawberry,Helena,9/4/2023,$9.05 ,pbaylayna@multiply.com,Penn,288-859-9014,$0.06 ,$7.52 ,$8.97 
+Veal - Heart,Hyacinthia,6/25/2023,$5.42 ,llappinnb@gov.uk,Lock,717-473-1230,$0.02 ,$1.17 ,$8.84 
+Ham - Cooked Bayonne Tinned,Rozanne,11/6/2023,$5.10 ,eshoardnc@zimbio.com,Emerson,145-327-0800,$0.36 ,$8.39 ,$6.62 
+Tea - Herbal I Love Lemon,Lyda,3/23/2023,$8.59 ,idahmkend@hostgator.com,Ingra,792-263-2976,$1.32 ,$0.29 ,$3.67 
+Lobster - Base,Corly,7/5/2023,$2.54 ,zpettiferne@mysql.com,Zonda,847-684-0638,$4.19 ,$5.66 ,$0.33 
+Lemons,Kerrin,1/8/2023,$2.28 ,rsteennf@cargocollective.com,Rudiger,885-224-2678,$3.96 ,$8.57 ,$4.06 
+"Soda Water - Club Soda, 355 Ml",Rudd,9/29/2023,$3.16 ,iendecottng@dmoz.org,Isabeau,321-939-2475,$9.82 ,$9.22 ,$6.02 
+"Salmon - Whole, 4 - 6 Pounds",Ortensia,12/19/2023,$4.46 ,aengleynh@netlog.com,Adora,234-758-8026,$7.73 ,$0.85 ,$0.14 
+Wine - Cava Aria Estate Brut,Vassily,11/18/2023,$9.63 ,mfusseyni@hhs.gov,Muriel,515-109-2249,$0.96 ,$9.10 ,$6.98 
+Container - Hngd Cll Blk 7x7x3,Lindsey,7/11/2023,$4.33 ,lmaccaugheynj@oakley.com,Lonny,690-722-9286,$1.80 ,$0.52 ,$4.57 
+Potato - Sweet,Nobe,12/9/2023,$9.28 ,tpinwellnk@huffingtonpost.com,Timmy,779-816-2010,$8.14 ,$5.05 ,$4.20 
+Apricots - Halves,Cristiano,12/29/2023,$6.81 ,umeredythnl@epa.gov,Ulrich,751-865-4764,$9.69 ,$1.16 ,$6.65 
+Pears - Bosc,Quintin,4/20/2023,$5.85 ,blindbacknm@delicious.com,Brody,654-902-6194,$9.21 ,$0.62 ,$8.02 
+Cheese - St. Paulin,Sidonia,10/17/2023,$9.42 ,barltnn@fastcompany.com,Belle,900-375-1474,$2.16 ,$9.07 ,$9.10 
+Beef - Kobe Striploin,Edan,7/10/2023,$4.89 ,cheadno@yolasite.com,Carissa,312-268-0487,$7.51 ,$0.07 ,$4.06 
+Chicken - Whole Roasting,Amalie,1/27/2023,$7.73 ,mkimblenp@imageshack.us,Merle,815-796-6146,$2.43 ,$9.36 ,$4.70 
+"Split Peas - Yellow, Dry",Madeline,2/17/2023,$1.92 ,lheggisonnq@sun.com,Lenee,260-973-1936,$8.89 ,$7.98 ,$7.19 
+Onions - Pearl,Jerrylee,11/13/2023,$6.33 ,ckemittnr@hubpages.com,Christean,637-976-5763,$0.47 ,$3.90 ,$7.80 
+Flour - So Mix Cake White,Rena,7/20/2023,$0.12 ,rfreedns@bloomberg.com,Richmound,226-490-7949,$0.93 ,$3.18 ,$3.27 
+Shrimp - Black Tiger 6 - 8,Almeta,4/5/2023,$5.11 ,acurtainnt@clickbank.net,Ashley,802-601-0184,$9.76 ,$9.98 ,$4.41 
+Plums - Red,Jeannie,11/21/2023,$8.77 ,stheoboldnu@about.me,Savina,795-249-0039,$4.94 ,$4.59 ,$3.26 
+"Nut - Peanut, Roasted",Viv,10/4/2023,$0.11 ,smurrhardtnv@latimes.com,Skipper,748-494-7104,$3.97 ,$5.96 ,$1.60 
+Bols Melon Liqueur,Rosanna,11/18/2023,$0.83 ,lcowlandnw@gov.uk,Lucius,915-386-3699,$3.12 ,$6.54 ,$5.17 
+Soup - Campbells Chicken,Levey,1/2/2023,$7.62 ,tlambrichtnx@zimbio.com,Tori,734-670-3156,$3.63 ,$8.06 ,$2.06 
+Crush - Cream Soda,Rosamond,9/3/2023,$8.77 ,ebunningny@photobucket.com,Elliott,586-572-5192,$6.82 ,$0.58 ,$6.09 
+Wine - Lou Black Shiraz,Bevin,5/1/2023,$3.14 ,kcuddehaynz@clickbank.net,Krysta,176-585-0848,$9.94 ,$5.42 ,$2.80 
+"Lemonade - Island Tea, 591 Ml",Eddy,9/11/2023,$2.59 ,wsaurino0@parallels.com,Warren,173-351-1890,$0.07 ,$0.01 ,$5.23 
+Wine - Magnotta - Bel Paese White,Boycie,5/12/2023,$3.75 ,sguenyo1@flickr.com,Sabra,486-113-4595,$6.85 ,$5.96 ,$7.77 
+Icecream - Dstk Cml And Fdg,Iolanthe,5/29/2023,$0.01 ,dwinmillo2@over-blog.com,Darrick,401-890-9824,$9.24 ,$9.12 ,$6.43 
+Strawberries,Lucias,12/7/2023,$2.08 ,jmctrustamo3@newsvine.com,Jamaal,464-795-0954,$1.26 ,$4.63 ,$6.26 
+Wine - Rhine Riesling Wolf Blass,Dorthy,10/14/2023,$1.33 ,fdegueo4@wp.com,Fianna,894-371-8433,$9.85 ,$7.42 ,$2.34 
+Beef - Texas Style Burger,Haven,12/15/2023,$4.99 ,cmorbeyo5@blogs.com,Carma,143-143-7721,$8.96 ,$8.41 ,$5.70 
+Bouq All Italian - Primerba,Grissel,8/24/2023,$6.83 ,vbaxillo6@gizmodo.com,Veronica,407-391-4849,$9.64 ,$0.44 ,$1.18 
+Parsley - Fresh,Carlin,2/12/2023,$4.45 ,lmacleseo7@smugmug.com,Letitia,829-419-5724,$5.50 ,$6.39 ,$1.52 
+Wine - White Cab Sauv.on,Griswold,7/24/2023,$4.43 ,dpuddano8@vk.com,Dodie,658-781-2499,$0.70 ,$3.08 ,$8.11 
+Corn Kernels - Frozen,Evin,9/30/2023,$9.30 ,hdavideko9@odnoklassniki.ru,Halie,382-183-2443,$7.47 ,$2.21 ,$8.48 
+Cheese - Swiss,Inge,11/11/2023,$7.91 ,jjallandoa@army.mil,Janette,162-545-3107,$6.04 ,$7.27 ,$0.87 
+Snapple Raspberry Tea,Willamina,6/20/2023,$4.30 ,cpauletob@opera.com,Charline,826-762-7960,$3.31 ,$9.33 ,$3.16 
+Shiratamako - Rice Flour,Cassy,12/6/2023,$6.66 ,ejakoubecoc@github.io,Ellis,653-278-7740,$2.58 ,$5.99 ,$9.89 
+Compound - Passion Fruit,Syd,6/24/2023,$8.43 ,acreebood@usa.gov,Amery,272-365-7690,$7.96 ,$8.68 ,$1.52 
+Bread Crumbs - Panko,Em,6/16/2023,$3.94 ,pdenningoe@jimdo.com,Pen,414-340-1561,$5.04 ,$9.33 ,$7.81 
+Isomalt,Martynne,8/11/2023,$8.90 ,kaxfordof@hc360.com,Kristyn,360-456-5387,$6.84 ,$2.38 ,$2.95 
+Sauce - Rosee,Taddeusz,5/13/2023,$6.04 ,ckuberaog@cdbaby.com,Caleb,403-865-0210,$9.60 ,$4.58 ,$3.43 
+Beer - True North Lager,Emelita,9/25/2023,$9.93 ,kshepperdoh@imageshack.us,Kimmie,194-665-8368,$3.79 ,$8.79 ,$5.32 
+Temperature Recording Station,Gail,12/11/2023,$5.02 ,pgormanoi@google.fr,Pieter,528-369-2968,$1.12 ,$0.96 ,$0.01 
+Propel Sport Drink,Karyn,1/16/2023,$8.91 ,smecchioj@sbwire.com,Sanders,402-677-5995,$4.91 ,$5.32 ,$2.75 
+Mustard Prepared,Rosy,7/11/2023,$1.26 ,kmakeswellok@so-net.ne.jp,Karee,423-988-5581,$3.75 ,$6.08 ,$3.36 
+Tomatoes Tear Drop Yellow,Austin,5/2/2023,$4.56 ,npagninol@behance.net,Nancey,459-742-6669,$7.44 ,$4.80 ,$4.49 
+Persimmons,Hoyt,4/18/2023,$5.24 ,tsavouryom@europa.eu,Trudey,366-773-9717,$9.99 ,$7.74 ,$1.48 
+"Cherries - Maraschino,jar",Fan,3/29/2023,$8.41 ,bfareweatheron@mediafire.com,Blancha,395-184-7783,$2.19 ,$1.96 ,$3.27 
+Orange - Blood,Phedra,6/13/2023,$1.40 ,jbeeckeroo@reference.com,Jeniece,137-272-9950,$3.90 ,$7.95 ,$3.84 
+Cherries - Frozen,Beck,3/16/2023,$0.44 ,ccunioop@techcrunch.com,Correy,678-408-1626,$8.62 ,$1.85 ,$8.90 
+"Shrimp - Baby, Cold Water",Reese,2/3/2023,$5.59 ,mdinsdaleoq@vk.com,Malvin,510-907-8529,$9.27 ,$4.20 ,$3.06 
+"Coke - Classic, 355 Ml",Chicky,3/19/2023,$3.18 ,clagdeor@networksolutions.com,Cosmo,798-543-5725,$2.20 ,$2.28 ,$3.35 
+Wine - Manischewitz Concord,Jorrie,6/29/2023,$6.87 ,tseignioros@gnu.org,Timoteo,757-756-7426,$2.36 ,$2.12 ,$8.86 
+"Soup - Cream Of Broccoli, Dry",Ewen,8/30/2023,$0.59 ,agrimstonot@fda.gov,Alexander,365-736-1848,$7.34 ,$3.10 ,$4.08 
+Cloves - Ground,Benedetta,10/28/2023,$2.24 ,bmewhirterou@telegraph.co.uk,Briano,461-710-7267,$8.78 ,$0.24 ,$6.11 
+Basil - Pesto Sauce,Aila,3/4/2023,$2.94 ,bmcsherryov@1und1.de,Barnabas,609-150-2901,$5.21 ,$3.09 ,$2.12 
+Sprouts - China Rose,Hermine,1/12/2023,$4.42 ,bwindmillow@php.net,Barry,287-146-2420,$7.87 ,$9.45 ,$8.45 
+Appetiser - Bought,Ly,4/8/2023,$3.65 ,ccultchethox@about.com,Cyrill,305-421-8809,$7.04 ,$9.95 ,$2.87 
+Bread - Kimel Stick Poly,Juli,5/24/2023,$2.29 ,jkilbanoy@cnet.com,Jacquenette,107-497-0235,$8.02 ,$1.78 ,$5.68 
+Sachet,Truman,7/29/2023,$8.09 ,daschoz@plala.or.jp,Debee,922-923-3953,$9.98 ,$4.97 ,$6.77 
+Shopper Bag - S - 4,Dalila,11/30/2023,$2.83 ,ibloysp0@amazon.co.jp,Inessa,643-456-0414,$5.11 ,$7.27 ,$0.49 
+Yokaline,Benedikt,10/9/2023,$1.70 ,sdebrickp1@mail.ru,Shay,947-948-3897,$7.01 ,$3.95 ,$4.11 
+Chocolate - Unsweetened,Josephine,7/19/2023,$7.25 ,gdevenniep2@cmu.edu,Ginger,741-709-7061,$5.82 ,$7.85 ,$8.91 
+Grenadillo,Gayle,11/4/2023,$9.51 ,rlogsdalep3@elegantthemes.com,Rebeca,524-541-2819,$9.99 ,$1.98 ,$7.32 
+Wine - Sauvignon Blanc Oyster,April,8/22/2023,$7.79 ,ctiliop4@lulu.com,Chane,847-620-2812,$5.64 ,$7.57 ,$2.64 
+Ecolab - Hobart Upr Prewash Arm,Gabbey,8/25/2023,$5.63 ,rleclairep5@techcrunch.com,Roldan,775-925-9527,$2.27 ,$0.48 ,$8.03 
+Milk 2% 500 Ml,Millard,6/2/2023,$6.95 ,mrobakp6@4shared.com,Mandi,879-723-6272,$9.83 ,$0.16 ,$2.85 
+Beef Wellington,Alvina,4/19/2023,$3.93 ,pellesworthep7@booking.com,Peria,586-727-6997,$5.00 ,$4.32 ,$4.70 
+Wine - Malbec Trapiche Reserve,Rustie,9/25/2023,$0.11 ,aoslarp8@wix.com,Alasdair,919-367-8264,$4.66 ,$0.14 ,$5.53 
+Ginger - Fresh,Elijah,2/17/2023,$6.65 ,lgreenstedp9@bizjournals.com,Lonna,881-887-1151,$5.72 ,$4.26 ,$2.14 
+Cod - Fillets,Abie,4/15/2023,$0.71 ,eghirigoripa@yellowpages.com,Elia,270-216-0205,$8.15 ,$3.12 ,$2.99 
+Wine - Port Late Bottled Vintage,Anabel,10/5/2023,$5.30 ,bburchmorepb@wordpress.org,Berti,806-325-7900,$3.45 ,$6.67 ,$1.56 
+Kahlua,Symon,6/21/2023,$7.22 ,splosepc@geocities.com,Sada,945-197-7117,$2.80 ,$7.88 ,$9.72 
+Eggwhite Frozen,Irwinn,1/3/2023,$0.50 ,hliversagepd@amazon.co.jp,Hazlett,329-230-7951,$6.42 ,$7.53 ,$6.65 
+"Rosemary - Primerba, Paste",Grantley,3/7/2023,$6.07 ,erisbype@photobucket.com,Emelina,858-284-5719,$9.97 ,$0.65 ,$1.29 
+Extract - Lemon,Stanfield,7/2/2023,$1.29 ,abrydsonpf@indiegogo.com,Alta,443-282-7820,$2.47 ,$7.17 ,$8.02 
+Lidsoupcont Rp12dn,Andriana,6/16/2023,$0.27 ,aradkipg@php.net,Allin,543-457-6024,$0.35 ,$7.72 ,$0.88 
+Sour Puss - Tangerine,Daffi,12/14/2023,$0.98 ,ecarmoph@instagram.com,Elwood,192-229-2493,$2.66 ,$0.71 ,$6.77 
+Mousse - Mango,Theresita,7/14/2023,$2.25 ,shagertypi@bandcamp.com,Shirleen,986-543-5531,$9.14 ,$8.70 ,$8.08 
+"Jam - Marmalade, Orange",Nap,6/19/2023,$5.57 ,norwinpj@wired.com,Nev,677-923-8597,$1.36 ,$3.43 ,$0.30 
+Campari,Erin,11/23/2023,$0.45 ,caugustinpk@samsung.com,Carmine,292-413-4857,$2.82 ,$1.76 ,$2.51 
+Everfresh Products,Rasla,8/28/2023,$10.00 ,losbournepl@privacy.gov.au,Lusa,839-669-5764,$8.68 ,$6.37 ,$1.41 
+Basil - Fresh,Quillan,7/21/2023,$7.51 ,ewhitakerpm@umich.edu,Emanuele,311-785-3710,$7.44 ,$9.97 ,$9.98 
+Curry Powder,Kimbell,12/5/2023,$9.47 ,jarmalpn@jimdo.com,Jamison,567-742-1772,$5.32 ,$2.00 ,$4.52 
+"Wine - Red, Wolf Blass, Yellow",Dennet,5/23/2023,$3.83 ,lmoggpo@w3.org,Lucia,101-513-8807,$9.52 ,$1.88 ,$6.86 
+Beef - Top Sirloin,Aldo,6/28/2023,$0.04 ,rerringtonpp@nih.gov,Rogerio,687-415-6116,$8.20 ,$2.86 ,$8.79 
+Food Colouring - Red,Bibby,4/18/2023,$7.02 ,kgrogonapq@dmoz.org,Kippy,788-125-4418,$0.16 ,$3.67 ,$5.48 
+Bowl 12 Oz - Showcase 92012,Ferdinanda,8/16/2023,$3.72 ,rmachostepr@mysql.com,Rustie,578-667-4517,$0.39 ,$4.56 ,$5.39 
+Soup Campbells Mexicali Tortilla,Brandais,6/25/2023,$9.75 ,kloffillps@reddit.com,Kris,965-614-0915,$8.50 ,$0.81 ,$7.86 
+Wine - Gewurztraminer Pierre,Had,1/28/2023,$6.02 ,aboltept@sakura.ne.jp,Anjanette,387-831-3759,$9.31 ,$1.77 ,$2.70 
+"Beans - Fava, Canned",Aura,12/23/2023,$9.16 ,kpunterpu@scribd.com,Kennith,235-789-4407,$3.43 ,$9.85 ,$9.66 
+"Pasta - Spaghetti, Dry",Vera,5/20/2023,$9.63 ,cnonipv@quantcast.com,Chandra,486-346-5933,$9.52 ,$1.62 ,$4.51 
+"Lamb - Whole, Fresh",Vergil,12/3/2023,$2.03 ,pworsfoldpw@163.com,Pris,411-191-0845,$1.60 ,$1.61 ,$5.90 
+Spice - Peppercorn Melange,Abdel,2/9/2023,$6.42 ,ahalifaxpx@eventbrite.com,Ardyce,177-890-0358,$3.27 ,$7.97 ,$5.59 
+Stock - Fish,Tildi,11/3/2023,$9.48 ,ctinceypy@arizona.edu,Caralie,562-934-5019,$3.89 ,$3.44 ,$6.00 
+"Mushroom - Chanterelle, Dry",Raina,10/30/2023,$5.14 ,cnassaupz@amazon.co.uk,Carmon,755-644-3349,$3.75 ,$0.18 ,$1.52 
+Remy Red,Reiko,1/28/2023,$6.64 ,apartingtonq0@ox.ac.uk,Albina,485-754-3621,$1.61 ,$8.53 ,$2.10 
+Bread Base - Goodhearth,Nelly,8/13/2023,$9.48 ,eboristonq1@technorati.com,Evyn,559-810-3226,$6.34 ,$4.65 ,$3.70 
+Wine - Periguita Fonseca,Ellary,9/29/2023,$0.45 ,hdalstonq2@deliciousdays.com,Hall,941-726-4533,$8.60 ,$5.70 ,$0.69 
+Muffin Mix - Chocolate Chip,Sophronia,2/16/2023,$2.39 ,lhunsworthq3@networksolutions.com,Leone,604-291-1932,$3.00 ,$9.71 ,$7.61 
+"Apple - Delicious, Red",Lukas,7/3/2023,$4.05 ,kpeeterq4@joomla.org,Kyle,362-914-3801,$4.83 ,$2.76 ,$5.23 
+Lamb - Loin Chops,Malanie,8/10/2023,$3.04 ,hpertonq5@e-recht24.de,Hilario,726-849-7749,$6.63 ,$5.18 ,$0.71 
+Scallops - In Shell,Arman,1/18/2023,$9.30 ,wspiveyq6@vinaora.com,Wini,408-838-1073,$8.41 ,$9.58 ,$1.23 
+Chips - Doritos,Craggie,5/22/2023,$7.55 ,htruslerq7@vimeo.com,Heinrik,732-795-0365,$6.37 ,$9.29 ,$3.55 
+Cocoa Powder - Natural,Kailey,7/12/2023,$2.26 ,cpicardoq8@parallels.com,Claire,399-774-3331,$0.54 ,$9.31 ,$4.07 
+"Chicken - White Meat, No Tender",Doris,7/28/2023,$7.79 ,pkrugq9@histats.com,Paco,535-420-2027,$0.88 ,$5.67 ,$7.71 
+Beef Wellington,Gabbi,10/4/2023,$1.44 ,hkershawqa@ebay.co.uk,Hilary,607-447-1336,$4.69 ,$1.64 ,$8.70 
+"Chestnuts - Whole,canned",Christan,10/15/2023,$2.25 ,ccarbettqb@mozilla.com,Cherrita,708-574-7397,$9.65 ,$2.27 ,$9.34 
+Pork - Caul Fat,Hamlin,9/26/2023,$0.36 ,adallewaterqc@myspace.com,Adria,689-815-9891,$9.91 ,$9.17 ,$4.24 
+Spinach - Frozen,Wright,2/22/2023,$5.08 ,adavleyqd@addthis.com,Anastasia,518-186-1392,$8.27 ,$6.62 ,$8.89 
+Onions - Pearl,Donavon,8/4/2023,$1.07 ,vfrareyqe@intel.com,Verena,548-650-3342,$6.27 ,$9.59 ,$8.68 
+Cleaner - Lime Away,Flora,4/22/2023,$0.30 ,bsabbatierqf@wp.com,Bernelle,224-718-4615,$4.64 ,$8.43 ,$1.60 
+Swiss Chard,Merna,4/25/2023,$7.26 ,bmouseqg@unc.edu,Booth,686-339-0819,$2.07 ,$6.16 ,$5.12 
+"Juice - Orange, Concentrate",Vinny,6/9/2023,$3.91 ,kwhitelockqh@g.co,Kristopher,582-192-1418,$4.77 ,$4.74 ,$4.59 
+Sobe - Orange Carrot,Emmit,10/24/2023,$3.46 ,bboswellqi@wunderground.com,Bale,134-392-2749,$9.98 ,$8.21 ,$1.29 
+"Yogurt - Banana, 175 Gr",Flint,1/19/2023,$7.22 ,dnonoqj@people.com.cn,Darlene,605-209-8348,$0.13 ,$3.46 ,$4.34 
+Gatorade - Lemon Lime,Link,1/24/2023,$3.87 ,yriversqk@tripod.com,Yolanthe,548-584-9482,$3.08 ,$0.74 ,$7.54 
+Squash - Pepper,Adele,4/6/2023,$4.60 ,zsafeql@gnu.org,Zabrina,263-303-4517,$1.18 ,$5.56 ,$3.48 
+Wine - Magnotta - Belpaese,Yoshiko,7/30/2023,$1.30 ,zcarrierqm@people.com.cn,Zacharie,439-157-5605,$1.87 ,$6.63 ,$0.43 
+"Cookies - Oreo, 4 Pack",Leona,8/2/2023,$0.84 ,arigmandqn@ehow.com,Averil,491-598-7309,$4.43 ,$0.73 ,$3.95 
+Slt - Individual Portions,Ailis,5/13/2023,$0.51 ,docahillqo@utexas.edu,Dagny,231-699-6656,$9.21 ,$9.72 ,$8.96 
+Pork - Sausage Casing,Jacky,8/24/2023,$3.77 ,carndtsenqp@toplist.cz,Claudian,858-320-7447,$0.50 ,$4.34 ,$2.02 
+Filling - Mince Meat,Hurleigh,9/19/2023,$9.96 ,dwilcinskisqq@artisteer.com,Dotty,680-367-6548,$1.92 ,$2.65 ,$7.30 
+"Pork - Bacon,back Peameal",Maison,7/30/2023,$5.50 ,ckitchingqr@nydailynews.com,Ceciley,983-350-8732,$1.43 ,$9.92 ,$5.65 
+Wine - Cousino Macul Antiguas,Christie,11/14/2023,$6.11 ,gfloatqs@miitbeian.gov.cn,Grant,228-261-8362,$9.79 ,$4.42 ,$1.39 
+"Pepper - Red, Finger Hot",Gallagher,12/18/2023,$7.15 ,rbrackpoolqt@blog.com,Rosalyn,929-249-8080,$7.76 ,$6.22 ,$7.06 
+Ecolab - Lime - A - Way 4/4 L,Abbe,7/31/2023,$6.36 ,dallotqu@networkadvertising.org,Dougie,608-614-8465,$5.50 ,$6.05 ,$4.55 
+Energy - Boo - Koo,Irita,11/8/2023,$2.92 ,astrobandqv@scribd.com,Auroora,232-432-6847,$7.52 ,$7.51 ,$6.66 
+"Coconut - Shredded, Unsweet",Leopold,4/24/2023,$1.91 ,amacquarrieqw@fema.gov,Allx,209-225-4505,$2.92 ,$0.83 ,$7.75 
+Longos - Grilled Veg Sandwiches,Kain,2/17/2023,$7.08 ,cbirwhistleqx@mozilla.org,Catharine,295-974-9069,$4.31 ,$9.52 ,$3.64 
+Mushroom - White Button,Rhiamon,12/4/2023,$6.22 ,pbannesterqy@devhub.com,Pearline,102-366-2674,$6.70 ,$9.89 ,$2.33 
+Basil - Fresh,Raychel,7/9/2023,$9.34 ,lmatessianqz@ucoz.com,Lynnet,501-408-0364,$5.15 ,$8.94 ,$9.75 
+Garlic Powder,Pippo,9/30/2023,$9.94 ,mvettorer0@w3.org,Mitchel,911-920-2909,$9.44 ,$6.72 ,$0.25 
+Salmon - Fillets,Hettie,5/22/2023,$8.80 ,bkemmonsr1@washington.edu,Britni,487-447-4434,$1.66 ,$2.14 ,$5.46 
+Cheese - Brie Roitelet,Joelly,10/10/2023,$2.14 ,zhelixr2@sitemeter.com,Zachary,543-442-7122,$9.83 ,$2.86 ,$9.05 
+Table Cloth 120 Round White,Tam,3/24/2023,$9.42 ,moliffr3@webnode.com,Mel,426-613-7948,$4.42 ,$2.88 ,$9.68 
+Scallops - In Shell,Kristin,11/24/2023,$8.15 ,sconnr4@admin.ch,Sallyann,538-782-5819,$4.50 ,$7.80 ,$0.28 
+"Nut - Cashews, Whole, Raw",Jeth,9/9/2023,$9.84 ,sprimakr5@tuttocitta.it,Sosanna,749-603-3929,$6.42 ,$6.79 ,$9.77 
+Quail - Jumbo Boneless,Atlante,1/2/2023,$7.28 ,hliebermannr6@dot.gov,Halli,666-882-0826,$2.68 ,$3.37 ,$9.26 
+Wine - Magnotta - Cab Franc,Nels,10/23/2023,$4.57 ,cparkissonr7@is.gd,Cammie,927-826-5812,$1.16 ,$4.37 ,$0.09 
+"Lid - High Heat, Super Clear",Joye,5/16/2023,$8.52 ,tschneidaur8@miibeian.gov.cn,Timothy,622-866-6234,$2.66 ,$7.80 ,$2.59 
+Puff Pastry - Slab,Jane,11/2/2023,$1.31 ,krennerr9@fc2.com,Kathi,897-694-5898,$3.29 ,$4.66 ,$0.53 
+Salt - Table,Delphine,4/20/2023,$3.70 ,cwarltonra@umn.edu,Carney,170-390-9710,$4.20 ,$5.01 ,$4.77 
+Salt - Sea,Aube,7/5/2023,$9.81 ,agulliventrb@flickr.com,Alica,339-808-7191,$8.64 ,$7.06 ,$2.80 
+Lettuce - Arugula,Ros,2/22/2023,$2.16 ,lspryrc@redcross.org,Layney,924-674-6482,$1.36 ,$4.04 ,$6.01 
+Pork - Sausage Casing,Napoleon,1/7/2023,$5.02 ,ftraslerrd@over-blog.com,Filberto,299-205-9912,$6.24 ,$4.42 ,$2.59 
+Table Cloth 72x144 White,Hedwiga,8/28/2023,$0.27 ,jbatropre@tripod.com,Jodi,681-618-2052,$9.67 ,$6.79 ,$6.46 
+Mahi Mahi,Nicki,2/7/2023,$4.36 ,pleveerf@last.fm,Phaidra,303-989-3433,$4.53 ,$7.73 ,$7.60 
+Wine - Ej Gallo Sierra Valley,Holt,12/4/2023,$0.29 ,rtournerg@slideshare.net,Rhea,396-994-9023,$7.33 ,$5.14 ,$8.94 
+Beans - Fava Fresh,Xenos,10/19/2023,$3.14 ,mkornilyevrh@tripadvisor.com,Marcella,329-732-4672,$5.89 ,$4.32 ,$4.24 
+"Zucchini - Mini, Green",Fredericka,9/6/2023,$3.68 ,mayreeri@51.la,Mozelle,234-771-2826,$6.95 ,$0.92 ,$9.14 
+Spinach - Packaged,Nikolaos,1/9/2023,$3.51 ,bfieldsrj@comcast.net,Bertie,178-620-8493,$3.42 ,$6.05 ,$4.15 
+"Ranchero - Primerba, Paste",Beatriz,11/13/2023,$6.53 ,aarnaudinrk@issuu.com,Ailyn,841-982-0419,$7.20 ,$1.62 ,$7.82 
+Wine - Pinot Noir Pond Haddock,Norrie,12/15/2023,$2.63 ,ddehoogerl@tiny.cc,Dehlia,213-486-5362,$7.95 ,$3.00 ,$4.73 
+Tilapia - Fillets,Jolene,6/2/2023,$1.76 ,aleyrerm@elpais.com,Avis,357-368-7834,$1.98 ,$1.36 ,$5.53 
+Garlic - Elephant,Benjamen,12/7/2023,$4.47 ,vrumensrn@sogou.com,Vi,680-177-2863,$6.88 ,$9.92 ,$3.48 
+Sauce - Demi Glace,Mohandas,4/6/2023,$7.23 ,mticicro@geocities.jp,Mord,906-727-0571,$6.64 ,$0.34 ,$4.21 
+Sauce - Vodka Blush,Cornell,10/19/2023,$5.20 ,sdiggellrp@ibm.com,Silas,660-116-7754,$6.16 ,$8.40 ,$8.22 
+Long Island Ice Tea,Francesco,5/24/2023,$4.31 ,ccoklyrq@deliciousdays.com,Cloe,570-264-8960,$6.56 ,$1.90 ,$2.10 
+Vinegar - Champagne,Kitty,2/10/2023,$3.11 ,rbartlesrr@github.com,Rhona,282-786-7015,$1.27 ,$1.85 ,$5.70 
