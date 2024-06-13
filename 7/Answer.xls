@@ -1,0 +1,239 @@
+customer_id,first_name,last_name,gender,email,phone_number,address,city,country,transaction_id,product_name,quantity,unit_price,total_amount,date
+101,Reza,Jafari,M,reza.j@email.com,981235000000.0,Tehran St. 123,Tehran,Iran,1,Samsung Mobile,2,550.0,398.7916666666667,2023-01-05
+102,Sara,Mohammadi,F,sara.m@email.com,981235000000.0,Valiasr St. 456,Tehran,Iran,2,Asus Laptop,1,1200.0,398.7916666666667,2023-01-05
+103,Ali,Hashemi,M,ali.h@email.com,981235000000.0,Enqelab St. 789,Isfahan,Iran,3,Nikon Camera,3,450.0,1350.0,2023-01-05
+104,Maryam,Rahmani,F,maryam.r@email.com,981235000000.0,Ferdowsi St. 12,Shiraz,Iran,4,Bluetooth Headphones,2,80.0,398.7916666666667,2023-01-05
+105,Hossein,Ahmadi,M,hossein.a@email.com,981235000000.0,Saadi St. 34,Tehran,Iran,5,LG TV,1,1800.0,1800.0,2023-01-20
+106,Fatemeh,Golzar,F,fatemeh.g@email.com,981235000000.0,Mellat St. 56,Tabriz,Iran,6,Beats Speaker,4,120.0,398.7916666666667,2023-01-25
+107,Saba,Gholami,F,saba.g@email.com,981235000000.0,Ferdowsi St. 311,Shiraz,Iran,7,Gaming Keyboard,1,60.0,398.7916666666667,2023-01-05
+108,Leila,Rezai,F,leila.r@email.com,981235000000.0,Enqelab St. 90,Shiraz,Iran,8,Gaming Mouse,2,40.0,80.0,2023-01-05
+109,Amir,Ahmadi,M,amir.a@email.com,981235000000.0,Saadi St. 123,Esfahan,Iran,9,Anker Power Bank,1,30.0,398.7916666666667,2023-01-05
+110,Narges,Abbasi,F,narges.a@email.com,981235000000.0,Valiasr St. 45,Tehran,Iran,10,External Hard Drive,1,378.45188284518827,90.0,2023-02-10
+111,Mehdi,Mousavi,M,mehdi.m@email.com,981235000000.0,Ferdowsi St. 67,Tabriz,Iran,11,HP Printer,3,150.0,450.0,2023-02-15
+112,Sahar,Rostami,F,sahar.r@email.com,981235000000.0,Mellat St. 89,Esfahan,Iran,12,Razer Headset,2,70.0,398.7916666666667,2023-01-05
+113,Milad,Shirazi,M,milad.s@email.com,981235000000.0,Shariati St. 10,Shiraz,Iran,13,Dell Monitor,1,350.0,350.0,2023-02-22
+114,Fariba,Hosseini,F,fariba.h@email.com,981235000000.0,Saadi St. 111,Tabriz,Iran,14,Laptop Bag,2,25.0,398.7916666666667,2023-01-05
+115,Amin,Karimi,M,amin.k@email.com,981235000000.0,Valiasr St. 121,Esfahan,Iran,15,Gaming Mouse Pad,1,378.45188284518827,15.0,2023-03-03
+116,Sima,Naderi,F,sima.n@email.com,981235000000.0,Enqelab St. 131,Shiraz,Iran,16,Security Camera,4,100.0,400.0,2023-01-05
+117,Majid,Taghavi,M,majid.t@email.com,981235000000.0,Mellat St. 141,Tehran,Iran,17,Apple iPhone,1,1400.0,398.7916666666667,2023-03-12
+118,Sahar,Fallah,F,sahar.f@email.com,981235000000.0,Ferdowsi St. 151,Tabriz,Iran,18,Sony Headphones,2,60.0,120.0,2023-03-17
+119,Behzad,Jalali,M,behzad.j@email.com,981235000000.0,Shariati St. 161,Esfahan,Iran,19,Dell Laptop,1,1100.0,1100.0,2023-01-05
+120,Farahnaz,Ghahremani,F,farahnaz.g@email.com,981235000000.0,Saadi St. 171,Shiraz,Iran,20,PlayStation 5,1,900.0,398.7916666666667,2023-03-26
+121,Amir,Soleimani,M,amir.s@email.com,981235000000.0,Valiasr St. 181,Tabriz,Iran,21,TP-Link Modem,3,50.0,150.0,2023-01-05
+122,Khosro,Fallah,M,khosro.f@email.com,981235000000.0,Mellat St. 341,Isfahan,Iran,22,Bluetooth Keyboard,1,35.0,398.7916666666667,2023-01-05
+123,Hadi,Khoshkhou,M,hadi.k@email.com,981235000000.0,Ferdowsi St. 201,Shiraz,Iran,23,Gillette Shaver,2,40.0,80.0,2023-04-09
+124,Maryam,Movahed,F,maryam.m@email.com,981235000000.0,Shariati St. 211,Tehran,Iran,24,Xbox Gaming Console,1,800.0,800.0,2023-01-05
+125,Khosro,Miri,M,khosro.m@email.com,981235000000.0,Enqelab St. 221,Tabriz,Iran,25,Internal Hard Disk,1,120.0,398.7916666666667,2023-01-05
+126,Roya,Afshari,F,roya.a@email.com,981235000000.0,Saadi St. 231,Esfahan,Iran,26,Bluetooth Headset,2,25.0,50.0,2023-01-05
+127,Hossein,Moradi,M,hossein.m@email.com,981235000000.0,Mellat St. 241,Shiraz,Iran,27,Sony TV,1,1600.0,398.7916666666667,2023-01-05
+128,Sanaz,Rad,F,sanaz.r@email.com,981235000000.0,Shariati St. 251,Tehran,Iran,28,Xiaomi Phone,3,300.0,398.7916666666667,2023-05-02
+129,Saeed,Soltani,M,saeed.s@email.com,981235000000.0,Enqelab St. 261,Tabriz,Iran,29,Smart Speaker,1,75.0,398.7916666666667,2023-01-05
+130,Nasrin,Mazaheri,F,nasrin.m@email.com,981235000000.0,Ferdowsi St. 271,Shiraz,Iran,30,Wireless Mouse,2,20.0,40.0,2023-05-11
+131,Babak,Mehrabi,M,babak.m@email.com,981235000000.0,Mellat St. 281,Tehran,Iran,31,Nintendo Gaming Console,1,350.0,398.7916666666667,2023-01-05
+132,Yasmin,Ahmadi,F,yasmin.a@email.com,981235000000.0,Valiasr St. 291,Tabriz,Iran,32,Gaming Headphones,1,90.0,90.0,2023-01-05
+133,Ali,Najafi,M,ali.n@email.com,981235000000.0,Shariati St. 301,Isfahan,Iran,33,Acer Laptop,2,1000.0,398.7916666666667,2023-05-24
+135,Peyman,Rajabi,M,peyman.r@email.com,981235000000.0,Saadi St. 321,Tehran,Iran,35,Samsung Camera,1,400.0,398.7916666666667,2023-01-05
+136,Mitra,Arab,F,mitra.a@email.com,981235000000.0,Enqelab St. 331,Tabriz,Iran,36,Huawei Phone,4,250.0,1000.0,2023-01-05
+138,Leila,Azimi,F,leila.a@email.com,981235000000.0,Shariati St. 351,Shiraz,Iran,38,Sony Soundbar,2,200.0,398.7916666666667,2023-06-16
+139,Samad,Hamidi,M,samad.h@email.com,981235000000.0,Ferdowsi St. 361,Tehran,Iran,39,Smart Watch,1,120.0,120.0,2023-06-20
+140,Maryam,Mohammadi,F,maryam.m@email.com,981235000000.0,Saadi St. 371,Tabriz,Iran,40,Microsoft Surface,1,1500.0,398.7916666666667,2023-06-25
+141,Hassan,Abbasi,M,hassan.a@email.com,981235000000.0,Valiasr St. 381,Isfahan,Iran,41,Logitech Webcam,3,80.0,240.0,2023-06-29
+142,Sara,Rezaei,F,sara.r@email.com,981235000000.0,Shariati St. 391,Shiraz,Iran,42,External SSD,1,378.45188284518827,70.0,2023-07-04
+143,Kamran,Mirzaei,M,kamran.m@email.com,981235000000.0,Enqelab St. 401,Tehran,Iran,43,Google Pixel,2,500.0,398.7916666666667,2023-01-05
+144,Fatemeh,Rezazadeh,F,fatemeh.r@email.com,981235000000.0,Mellat St. 411,Tabriz,Iran,44,Wireless Earbuds,1,50.0,398.7916666666667,2023-07-13
+145,Reza,Mehrpour,M,reza.m@email.com,981235000000.0,Valiasr St. 661,Tehran,Iran,45,Canon DSLR Camera,1,600.0,398.7916666666667,2023-01-05
+146,Mina,Jafari,F,mina.j@email.com,981235000000.0,Ferdowsi St. 431,Shiraz,Iran,46,Amazon Echo,3,120.0,360.0,2023-01-05
+147,Behzad,Kamali,M,behzad.k@email.com,981235000000.0,Shariati St. 441,Tehran,Iran,47,Lenovo Tablet,1,300.0,398.7916666666667,2023-01-05
+148,Naghmeh,Ahmadi,F,naghmeh.a@email.com,981235000000.0,Enqelab St. 451,Tabriz,Iran,48,Samsung Smartwatch,2,180.0,360.0,2023-01-05
+149,Ali,Arjmand,M,ali.a@email.com,981235000000.0,Mellat St. 461,Isfahan,Iran,49,Asus Gaming Laptop,1,1400.0,398.7916666666667,2023-08-04
+150,Amir,Jafari,M,amir.j@email.com,981235000000.0,Shariati St. 1051,Tehran,Iran,50,JBL Portable Speaker,2,90.0,180.0,2023-08-09
+151,Mehran,Nouri,M,mehran.n@email.com,981235000000.0,Valiasr St. 481,Tehran,Iran,51,Samsung Tablet,1,500.0,398.7916666666667,2023-08-13
+152,Maryam,Safavi,F,maryam.s@email.com,981235000000.0,Shariati St. 491,Tabriz,Iran,52,Corsair Gaming Mouse,2,40.0,80.0,2023-08-18
+153,Ali,Abbasi,M,ali.a@email.com,981235000000.0,Enqelab St. 501,Shiraz,Iran,53,LG Sound System,1,350.0,350.0,2023-01-05
+154,Sara,Karimi,F,sara.k@email.com,981235000000.0,Ferdowsi St. 511,Tehran,Iran,54,Anker Wireless Charger,2,25.0,398.7916666666667,2023-01-05
+155,Arash,Javadi,M,arash.j@email.com,981235000000.0,Mellat St. 521,Isfahan,Iran,55,PlayStation VR,1,700.0,398.7916666666667,2023-08-31
+156,Fatemeh,Hashemi,F,fatemeh.h@email.com,981235000000.0,Saadi St. 531,Shiraz,Iran,56,Sennheiser Headphones,1,120.0,120.0,2023-01-05
+157,Kamran,Mohajer,M,kamran.m@email.com,981235000000.0,Valiasr St. 541,Tehran,Iran,57,Fitbit Fitness Tracker,3,60.0,180.0,2023-09-09
+158,Sara,Taghavi,F,sara.t@email.com,981235000000.0,Enqelab St. 551,Tabriz,Iran,58,Canon Inkjet Printer,1,80.0,398.7916666666667,2023-09-14
+159,Ahmad,Sharifi,M,ahmad.s@email.com,981235000000.0,Mellat St. 561,Esfahan,Iran,59,DJI Drone,2,400.0,800.0,2023-01-05
+160,Samaneh,Abbasi,F,samaneh.a@email.com,981235000000.0,Shariati St. 571,Shiraz,Iran,60,Google Home,1,100.0,398.7916666666667,2023-09-23
+161,Reza,Kazemi,M,reza.k@email.com,981235000000.0,Ferdowsi St. 581,Tehran,Iran,61,Samsung Mobile,2,550.0,398.7916666666667,2023-01-05
+162,Sima,Ghahremani,F,sima.g@email.com,981235000000.0,Saadi St. 591,Tabriz,Iran,62,Asus Laptop,1,1200.0,398.7916666666667,2023-01-05
+163,Ali,Majidi,M,ali.m@email.com,981235000000.0,Valiasr St. 601,Esfahan,Iran,63,Nikon Camera,3,450.0,1350.0,2023-01-05
+164,Niloofar,Mohebbi,F,niloofar.m@email.com,981235000000.0,Enqelab St. 611,Shiraz,Iran,64,Bluetooth Headphones,2,80.0,398.7916666666667,2023-01-05
+165,Mohammad,Jalali,M,mohammad.j@email.com,981235000000.0,Mellat St. 621,Tehran,Iran,65,LG TV,1,1800.0,1800.0,2023-01-20
+166,Fatemeh,Hosseini,F,fatemeh.h@email.com,981235000000.0,Shariati St. 631,Tabriz,Iran,66,Beats Speaker,4,120.0,398.7916666666667,2023-01-25
+167,Amir,Soleimani,M,amir.s@email.com,981235000000.0,Ferdowsi St. 641,Esfahan,Iran,67,Gaming Keyboard,1,60.0,398.7916666666667,2023-01-05
+168,Leyla,Ahmadi,F,leyla.a@email.com,981235000000.0,Saadi St. 651,Shiraz,Iran,68,Gaming Mouse,2,40.0,80.0,2023-01-05
+170,Fatemeh,Arab,F,fatemeh.a@email.com,981235000000.0,Enqelab St. 671,Tabriz,Iran,70,External Hard Drive,1,378.45188284518827,90.0,2023-02-10
+171,Mohammad,Soltani,M,mohammad.s@email.com,981235000000.0,Mellat St. 681,Esfahan,Iran,71,HP Printer,3,150.0,450.0,2023-02-15
+172,Parisa,Khalili,F,parisa.k@email.com,981235000000.0,Shariati St. 691,Shiraz,Iran,72,Razer Headset,2,70.0,398.7916666666667,2023-01-05
+173,Kamran,Rezaei,M,kamran.r@email.com,981235000000.0,Ferdowsi St. 701,Tehran,Iran,73,Dell Monitor,1,350.0,350.0,2023-02-22
+175,Babak,Shahidi,M,babak.s@email.com,981235000000.0,Valiasr St. 721,Esfahan,Iran,75,Gaming Mouse Pad,1,378.45188284518827,15.0,2023-03-03
+176,Sima,Mehrani,F,sima.m@email.com,981235000000.0,Enqelab St. 731,Shiraz,Iran,76,Security Camera,4,100.0,400.0,2023-01-05
+177,Hassan,Abdollahi,M,hassan.a@email.com,981235000000.0,Mellat St. 741,Tehran,Iran,77,Apple iPhone,1,1400.0,398.7916666666667,2023-03-12
+178,Sara,Naderi,F,sara.n@email.com,981235000000.0,Shariati St. 751,Tabriz,Iran,78,Sony Headphones,2,60.0,120.0,2023-03-17
+179,Ahmad,Moradi,M,ahmad.m@email.com,981235000000.0,Ferdowsi St. 761,Esfahan,Iran,79,Dell Laptop,1,1100.0,1100.0,2023-01-05
+180,Somayeh,Ghafari,F,somayeh.g@email.com,981235000000.0,Saadi St. 771,Shiraz,Iran,80,PlayStation 5,1,900.0,398.7916666666667,2023-03-26
+181,Amir,Karami,M,amir.k@email.com,981235000000.0,Valiasr St. 781,Tehran,Iran,81,TP-Link Modem,3,50.0,150.0,2023-01-05
+182,Mahsa,Nouri,F,mahsa.n@email.com,981235000000.0,Enqelab St. 791,Tabriz,Iran,82,Bluetooth Keyboard,1,35.0,398.7916666666667,2023-01-05
+183,Saeed,Hosseini,M,saeed.h@email.com,981235000000.0,Mellat St. 801,Esfahan,Iran,83,Gillette Shaver,2,40.0,80.0,2023-04-09
+184,Nasrin,Fallah,F,nasrin.f@email.com,981235000000.0,Shariati St. 811,Shiraz,Iran,84,Xbox Gaming Console,1,800.0,800.0,2023-01-05
+185,Ali,Khoshkhou,M,ali.k@email.com,981235000000.0,Ferdowsi St. 821,Tehran,Iran,85,Internal Hard Disk,1,120.0,398.7916666666667,2023-01-05
+186,Fatemeh,Rahmani,F,fatemeh.r@email.com,981235000000.0,Mellat St. 921,Shiraz,Iran,86,Bluetooth Headset,2,25.0,50.0,2023-01-05
+187,Elham,Shirazi,F,elham.s@email.com,981235000000.0,Valiasr St. 841,Tehran,Iran,87,Sony TV,1,1600.0,398.7916666666667,2023-01-05
+188,Mohammad,Kiani,M,mohammad.k@email.com,981235000000.0,Enqelab St. 851,Shiraz,Iran,88,Xiaomi Phone,3,300.0,398.7916666666667,2023-05-02
+189,Negar,Nouri,F,negar.n@email.com,981235000000.0,Mellat St. 861,Esfahan,Iran,89,Smart Speaker,1,75.0,398.7916666666667,2023-01-05
+190,Amir,Mohammadi,M,amir.m@email.com,981235000000.0,Shariati St. 871,Tabriz,Iran,90,Wireless Mouse,2,20.0,40.0,2023-05-11
+191,Sara,Ranjbar,F,sara.r@email.com,981235000000.0,Ferdowsi St. 881,Tehran,Iran,91,Nintendo Gaming Console,1,350.0,398.7916666666667,2023-01-05
+192,Ali,Azimi,M,ali.a@email.com,981235000000.0,Saadi St. 891,Shiraz,Iran,92,Gaming Headphones,1,90.0,90.0,2023-01-05
+193,Mina,Mohajer,F,mina.m@email.com,981235000000.0,Valiasr St. 901,Esfahan,Iran,93,Acer Laptop,2,1000.0,398.7916666666667,2023-05-24
+194,Hossein,Jamshidi,M,hossein.j@email.com,981235000000.0,Enqelab St. 911,Tabriz,Iran,94,Western Digital External Hard Drive,1,80.0,80.0,2023-01-05
+196,Arash,Rezaei,M,arash.r@email.com,981235000000.0,Shariati St. 931,Tehran,Iran,96,Huawei Phone,4,250.0,1000.0,2023-01-05
+197,Sara,Kazemi,F,sara.k@email.com,981235000000.0,Ferdowsi St. 941,Tabriz,Iran,97,PlayStation Games,1,60.0,398.7916666666667,2023-06-11
+198,Ali,Movahedi,M,ali.m@email.com,981235000000.0,Saadi St. 1431,Esfahan,Iran,98,Sony Soundbar,2,200.0,398.7916666666667,2023-06-16
+199,Niloofar,Amini,F,niloofar.a@email.com,981235000000.0,Valiasr St. 961,Shiraz,Iran,99,Smart Watch,1,120.0,120.0,2023-06-20
+200,Saeed,Golzar,M,saeed.g@email.com,981235000000.0,Enqelab St. 971,Tehran,Iran,100,Microsoft Surface,1,1500.0,398.7916666666667,2023-06-25
+201,Leila,Karimi,F,leila.k@email.com,981235000000.0,Mellat St. 981,Tabriz,Iran,101,Google Pixel,2,500.0,398.7916666666667,2023-07-08
+202,Kamran,Movahedi,M,kamran.m@email.com,981235000000.0,Shariati St. 991,Esfahan,Iran,102,Wireless Earbuds,1,50.0,398.7916666666667,2023-07-13
+203,Sara,Mirzaei,F,sara.m@email.com,981235000000.0,Ferdowsi St. 1001,Shiraz,Iran,103,Canon DSLR Camera,1,600.0,398.7916666666667,2023-01-05
+204,Ali,Ghafari,M,ali.g@email.com,981235000000.0,Saadi St. 1011,Tehran,Iran,104,Amazon Echo,3,120.0,360.0,2023-01-05
+205,Fatemeh,Shahidi,F,fatemeh.s@email.com,981235000000.0,Valiasr St. 1021,Tabriz,Iran,105,Lenovo Tablet,1,300.0,398.7916666666667,2023-01-05
+206,Mohammad,Naseri,M,mohammad.n@email.com,981235000000.0,Enqelab St. 1031,Esfahan,Iran,106,Samsung Smartwatch,2,180.0,360.0,2023-01-05
+207,Zahra,Ranjbar,F,zahra.r@email.com,981235000000.0,Mellat St. 1041,Shiraz,Iran,107,Asus Gaming Laptop,1,1400.0,398.7916666666667,2023-08-04
+209,Sara,Khalili,F,sara.k@email.com,981235000000.0,Ferdowsi St. 1061,Tabriz,Iran,109,Samsung Tablet,1,500.0,398.7916666666667,2023-08-13
+210,Hamed,Mehrani,M,hamed.m@email.com,981235000000.0,Saadi St. 1071,Esfahan,Iran,110,Corsair Gaming Mouse,2,40.0,80.0,2023-08-18
+211,Negar,Abbasi,F,negar.a@email.com,981235000000.0,Valiasr St. 1081,Shiraz,Iran,111,LG Sound System,1,350.0,350.0,2023-01-05
+212,Reza,Safavi,M,reza.s@email.com,981235000000.0,Enqelab St. 1091,Tehran,Iran,112,Anker Wireless Charger,2,25.0,398.7916666666667,2023-01-05
+213,Sara,Naderi,F,sara.n@email.com,981235000000.0,Mellat St. 1101,Tabriz,Iran,113,PlayStation VR,1,700.0,398.7916666666667,2023-08-31
+214,Mohammad,Arab,M,mohammad.a@email.com,981235000000.0,Shariati St. 1111,Esfahan,Iran,114,Sennheiser Headphones,1,120.0,120.0,2023-01-05
+215,Hassan,Karami,M,hassan.k@email.com,981235000000.0,Ferdowsi St. 1121,Shiraz,Iran,115,Fitbit Fitness Tracker,3,60.0,180.0,2023-09-09
+216,Nasrin,Nouri,F,nasrin.n@email.com,981235000000.0,Saadi St. 1131,Tehran,Iran,116,Canon Inkjet Printer,1,80.0,398.7916666666667,2023-09-14
+217,Amir,Hosseini,M,amir.h@email.com,981235000000.0,Valiasr St. 1141,Tabriz,Iran,117,DJI Drone,2,400.0,800.0,2023-01-05
+218,Sara,Fallah,F,sara.f@email.com,981235000000.0,Enqelab St. 1151,Esfahan,Iran,118,Google Home,1,100.0,398.7916666666667,2023-09-23
+219,Mohammad,Soltani,M,mohammad.s@email.com,981235000000.0,Mellat St. 1161,Shiraz,Iran,119,Samsung Mobile,2,550.0,398.7916666666667,2023-01-05
+220,Fatemeh,Ahmadi,F,fatemeh.a@email.com,981235000000.0,Shariati St. 1171,Tehran,Iran,120,Asus Laptop,1,1200.0,398.7916666666667,2023-01-05
+221,Reza,Mousavi,M,reza.m@email.com,981235000000.0,Ferdowsi St. 1181,Tabriz,Iran,121,Nikon Camera,3,450.0,1350.0,2023-01-05
+222,Maryam,Rostami,F,maryam.r@email.com,981235000000.0,Saadi St. 1191,Esfahan,Iran,122,Bluetooth Headphones,2,80.0,398.7916666666667,2023-01-05
+223,Milad,Golzar,M,milad.g@email.com,981235000000.0,Valiasr St. 1201,Shiraz,Iran,123,LG TV,1,1800.0,1800.0,2023-01-20
+224,Maryam,Azimi,F,maryam.a@email.com,981235000000.0,Enqelab St. 1211,Tehran,Iran,124,Beats Speaker,4,120.0,398.7916666666667,2023-01-25
+225,Ali,Majidi,M,ali.m@email.com,981235000000.0,Mellat St. 1221,Tabriz,Iran,125,Gaming Keyboard,1,60.0,398.7916666666667,2023-01-05
+226,Sahar,Mohammadi,F,sahar.m@email.com,981235000000.0,Shariati St. 1231,Esfahan,Iran,126,Gaming Mouse,2,40.0,80.0,2023-01-05
+227,Kamran,Hosseini,M,kamran.h@email.com,981235000000.0,Ferdowsi St. 1241,Shiraz,Iran,127,Anker Power Bank,1,30.0,398.7916666666667,2023-01-05
+228,Fariba,Ahmadi,F,fariba.a@email.com,981235000000.0,Saadi St. 1251,Tehran,Iran,128,External Hard Drive,1,378.45188284518827,90.0,2023-02-10
+229,Milad,Rezazadeh,M,milad.r@email.com,981235000000.0,Valiasr St. 1261,Tabriz,Iran,129,HP Printer,3,150.0,450.0,2023-02-15
+230,Nasrin,Arab,F,nasrin.a@email.com,981235000000.0,Enqelab St. 1271,Esfahan,Iran,130,Razer Headset,2,70.0,398.7916666666667,2023-01-05
+231,Ali,Mehrani,M,ali.m@email.com,981235000000.0,Mellat St. 1281,Shiraz,Iran,131,Dell Monitor,1,350.0,350.0,2023-02-22
+232,Leila,Khoshkhou,F,leila.k@email.com,981235000000.0,Shariati St. 1291,Tehran,Iran,132,Laptop Bag,2,25.0,398.7916666666667,2023-01-05
+233,Hossein,Afshari,M,hossein.a@email.com,981235000000.0,Ferdowsi St. 1301,Tabriz,Iran,133,Gaming Mouse Pad,1,378.45188284518827,15.0,2023-03-03
+234,Mona,Ghafari,F,mona.g@email.com,981235000000.0,Saadi St. 1311,Esfahan,Iran,134,Security Camera,4,100.0,400.0,2023-01-05
+235,Arman,Hosseini,M,arman.h@email.com,981235000000.0,Valiasr St. 1321,Shiraz,Iran,135,Apple iPhone,1,1400.0,398.7916666666667,2023-03-12
+236,Fatemeh,Miri,F,fatemeh.m@email.com,981235000000.0,Enqelab St. 1331,Tehran,Iran,136,Sony Headphones,2,60.0,120.0,2023-03-17
+237,Mohammad,Taghavi,M,mohammad.t@email.com,981235000000.0,Mellat St. 1341,Tabriz,Iran,137,Dell Laptop,1,1100.0,1100.0,2023-01-05
+238,Sara,Khalili,F,sara.k@email.com,981235000000.0,Shariati St. 1351,Esfahan,Iran,138,PlayStation 5,1,900.0,398.7916666666667,2023-03-26
+239,Kamran,Karimi,M,kamran.k@email.com,981235000000.0,Ferdowsi St. 1361,Shiraz,Iran,139,TP-Link Modem,3,50.0,150.0,2023-01-05
+240,Sara,Naderi,F,sara.n@email.com,981235000000.0,Saadi St. 1371,Tehran,Iran,140,Bluetooth Keyboard,1,35.0,398.7916666666667,2023-01-05
+241,Mohsen,Safavi,M,mohsen.s@email.com,981235000000.0,Valiasr St. 1381,Tabriz,Iran,141,Gillette Shaver,2,40.0,80.0,2023-04-09
+242,Rezvan,Naseri,F,rezvan.n@email.com,981235000000.0,Enqelab St. 1391,Esfahan,Iran,142,Xbox Gaming Console,1,800.0,800.0,2023-01-05
+243,Arash,Ranjbar,M,arash.r@email.com,981235000000.0,Mellat St. 1401,Shiraz,Iran,143,Internal Hard Disk,1,120.0,398.7916666666667,2023-01-05
+244,Fatemeh,Golzar,F,fatemeh.g@email.com,981235000000.0,Shariati St. 1411,Tehran,Iran,144,Bluetooth Headset,2,25.0,50.0,2023-01-05
+245,Farzaneh,Kiani,F,farzaneh.k@email.com,981235000000.0,Ferdowsi St. 1421,Tabriz,Iran,145,Sony TV,1,1600.0,398.7916666666667,2023-01-05
+247,Leila,Hosseini,F,leila.h@email.com,981235000000.0,Valiasr St. 1441,Shiraz,Iran,147,Smart Speaker,1,75.0,398.7916666666667,2023-01-05
+248,Mohammad,Ahmadi,M,mohammad.a@email.com,981235000000.0,Enqelab St. 1451,Tehran,Iran,148,Wireless Mouse,2,20.0,40.0,2023-05-11
+249,Sara,Fallah,F,sara.f@email.com,981235000000.0,Mellat St. 1461,Tabriz,Iran,149,Nintendo Gaming Console,1,350.0,398.7916666666667,2023-01-05
+250,Amir,Soltani,M,amir.s@email.com,981235000000.0,Shariati St. 1471,Esfahan,Iran,150,Gaming Headphones,1,90.0,90.0,2023-01-05
+251,Nasrin,Mohammadi,F,nasrin.m@email.com,981235000000.0,Ferdowsi St. 1481,Shiraz,Iran,201,Samsung Tablet,1,500.0,398.7916666666667,2023-08-13
+252,Saeed,Rezazadeh,M,saeed.r@email.com,981235000000.0,Saadi St. 1491,Tehran,Iran,202,Corsair Gaming Mouse,2,40.0,80.0,2023-08-18
+253,Sara,Ahmadi,F,sara.a@email.com,981235000000.0,Valiasr St. 1501,Tabriz,Iran,203,LG Sound System,1,350.0,350.0,2023-01-05
+254,Milad,Hashemi,M,milad.h@email.com,981235000000.0,Enqelab St. 1511,Esfahan,Iran,204,Anker Wireless Charger,2,25.0,398.7916666666667,2023-01-05
+255,Fatemeh,Jalali,F,fatemeh.j@email.com,981235000000.0,Mellat St. 1521,Shiraz,Iran,205,PlayStation VR,1,700.0,398.7916666666667,2023-08-31
+256,Ali,Kazemi,M,ali.k@email.com,981235000000.0,Shariati St. 1531,Tehran,Iran,206,Sennheiser Headphones,1,120.0,120.0,2023-01-05
+257,Sara,Safavi,F,sara.s@email.com,981235000000.0,Ferdowsi St. 1541,Tabriz,Iran,207,Fitbit Fitness Tracker,3,60.0,180.0,2023-09-09
+258,Amir,Mohajer,M,amir.m@email.com,981235000000.0,Saadi St. 1551,Esfahan,Iran,208,Canon Inkjet Printer,1,80.0,398.7916666666667,2023-09-14
+259,Fatemeh,Golzar,F,fatemeh.g@email.com,981235000000.0,Shariati St. 2030,Tehran,Iran,209,DJI Drone,2,400.0,800.0,2023-01-05
+260,Reza,Jafari,M,reza.j@email.com,981235000000.0,Enqelab St. 1571,Tehran,Iran,210,Google Home,1,100.0,398.7916666666667,2023-09-23
+261,Ali,Soltani,M,ali.s@email.com,981235000000.0,Shariati St. 1651,Tehran,Iran,211,Samsung Mobile,2,550.0,398.7916666666667,2023-01-05
+262,Mohammad,Azimi,M,mohammad.a@email.com,981235000000.0,Shariati St. 1591,Esfahan,Iran,212,Asus Laptop,1,1200.0,398.7916666666667,2023-01-05
+263,Nazanin,Nouri,F,nazanin.n@email.com,981235000000.0,Ferdowsi St. 1601,Shiraz,Iran,213,Nikon Camera,3,450.0,1350.0,2023-01-05
+264,Arman,Afshari,M,arman.a@email.com,981235000000.0,Saadi St. 1611,Tehran,Iran,214,Bluetooth Headphones,2,80.0,398.7916666666667,2023-01-05
+265,Sara,Ranjbar,F,sara.r@email.com,981235000000.0,Valiasr St. 1621,Tabriz,Iran,215,LG TV,1,1800.0,1800.0,2023-01-20
+266,Amir,Mohammadi,M,amir.m@email.com,981235000000.0,Enqelab St. 1631,Esfahan,Iran,216,Beats Speaker,4,120.0,398.7916666666667,2023-01-25
+267,Fatemeh,Rahmani,F,fatemeh.r@email.com,981235000000.0,Mellat St. 1641,Shiraz,Iran,217,Gaming Keyboard,1,60.0,398.7916666666667,2023-01-05
+269,Leila,Karami,F,leila.k@email.com,981235000000.0,Ferdowsi St. 1661,Tabriz,Iran,219,Anker Power Bank,1,30.0,398.7916666666667,2023-01-05
+270,Mohammad,Ghafari,M,mohammad.g@email.com,981235000000.0,Saadi St. 1671,Esfahan,Iran,220,External Hard Drive,1,378.45188284518827,90.0,2023-02-10
+271,Saba,Kiani,F,saba.k@email.com,981235000000.0,Valiasr St. 1681,Shiraz,Iran,221,HP Printer,3,150.0,450.0,2023-02-15
+272,Amin,Hosseini,M,amin.h@email.com,981235000000.0,Enqelab St. 1691,Tehran,Iran,222,Razer Headset,2,70.0,398.7916666666667,2023-01-05
+273,Nasrin,Soleimani,F,nasrin.s@email.com,981235000000.0,Mellat St. 1701,Tabriz,Iran,223,Dell Monitor,1,350.0,350.0,2023-02-22
+274,Kamran,Ahmadi,M,kamran.a@email.com,,,,,224,Laptop Bag,2,25.0,398.7916666666667,2023-01-05
+275,Saeed,Shirazi,M,saeed.s@email.com,981235000000.0,Ferdowsi St. 1721,Shiraz,Iran,225,Gaming Mouse Pad,1,378.45188284518827,15.0,2023-03-03
+276,Niloofar,Khalili,F,niloofar.k@email.com,981235000000.0,Saadi St. 1731,Tehran,Iran,226,Security Camera,4,100.0,400.0,2023-01-05
+278,Sara,Fallah,F,sara.f@email.com,981235000000.0,Enqelab St. 1751,Esfahan,Iran,228,Sony Headphones,2,60.0,120.0,2023-03-17
+279,Mohammad,Soltani,M,mohammad.s@email.com,981235000000.0,Mellat St. 1761,Shiraz,Iran,229,Dell Laptop,1,1100.0,1100.0,2023-01-05
+280,Fatemeh,Ahmadi,F,fatemeh.a@email.com,981235000000.0,Shariati St. 1771,Tehran,Iran,230,PlayStation 5,1,900.0,398.7916666666667,2023-03-26
+281,Reza,Mousavi,M,reza.m@email.com,981235000000.0,Ferdowsi St. 1781,Tabriz,Iran,231,TP-Link Modem,3,50.0,150.0,2023-01-05
+282,Maryam,Rostami,F,maryam.r@email.com,981235000000.0,Saadi St. 1791,Esfahan,Iran,232,Bluetooth Keyboard,1,35.0,398.7916666666667,2023-01-05
+283,Milad,Golzar,M,milad.g@email.com,981235000000.0,Valiasr St. 1801,Shiraz,Iran,233,Gillette Shaver,2,40.0,80.0,2023-04-09
+284,Maryam,Azimi,F,maryam.a@email.com,981235000000.0,Enqelab St. 1811,Tehran,Iran,234,Xbox Gaming Console,1,800.0,800.0,2023-01-05
+285,Ali,Majidi,M,ali.m@email.com,981235000000.0,Mellat St. 1821,Tabriz,Iran,235,Internal Hard Disk,1,120.0,398.7916666666667,2023-01-05
+286,Sahar,Mohammadi,F,sahar.m@email.com,981235000000.0,Shariati St. 1831,Esfahan,Iran,236,Bluetooth Headset,2,25.0,50.0,2023-01-05
+287,Kamran,Hosseini,M,kamran.h@email.com,981235000000.0,Ferdowsi St. 1841,Shiraz,Iran,237,Sony TV,1,1600.0,398.7916666666667,2023-01-05
+288,Fariba,Ahmadi,F,fariba.a@email.com,981235000000.0,Saadi St. 1851,Tehran,Iran,238,Xiaomi Phone,3,300.0,398.7916666666667,2023-05-02
+289,Milad,Rezazadeh,M,milad.r@email.com,981235000000.0,Valiasr St. 1861,Tabriz,Iran,239,Smart Speaker,1,75.0,398.7916666666667,2023-01-05
+290,Nasrin,Arab,F,nasrin.a@email.com,981235000000.0,Enqelab St. 1871,Esfahan,Iran,240,Wireless Mouse,2,20.0,40.0,2023-05-11
+291,Ali,Mehrani,M,ali.m@email.com,981235000000.0,Mellat St. 1881,Shiraz,Iran,241,Nintendo Gaming Console,1,350.0,398.7916666666667,2023-01-05
+292,Leila,Khoshkhou,F,leila.k@email.com,981235000000.0,Shariati St. 1891,Tehran,Iran,242,Gaming Headphones,1,90.0,90.0,2023-01-05
+293,Hossein,Afshari,M,hossein.a@email.com,981235000000.0,Ferdowsi St. 1901,Tabriz,Iran,243,Acer Laptop,2,1000.0,398.7916666666667,2023-05-24
+294,Mona,Ghafari,F,mona.g@email.com,981235000000.0,Saadi St. 1911,Esfahan,Iran,244,Western Digital External Hard Drive,1,80.0,80.0,2023-01-05
+295,Arman,Hosseini,M,arman.h@email.com,981235000000.0,Valiasr St. 1921,Shiraz,Iran,245,Samsung Camera,1,400.0,398.7916666666667,2023-01-05
+296,Fatemeh,Miri,F,fatemeh.m@email.com,981235000000.0,Enqelab St. 1931,Tehran,Iran,246,Huawei Phone,4,250.0,1000.0,2023-01-05
+297,Mohammad,Taghavi,M,mohammad.t@email.com,981235000000.0,Mellat St. 1941,Tabriz,Iran,247,PlayStation Games,1,60.0,398.7916666666667,2023-06-11
+298,Sara,Khalili,F,sara.k@email.com,981235000000.0,Shariati St. 1951,Esfahan,Iran,248,Sony Soundbar,2,200.0,398.7916666666667,2023-06-16
+299,Kamran,Karimi,M,kamran.k@email.com,981235000000.0,Ferdowsi St. 1961,Shiraz,Iran,249,Smart Watch,1,120.0,120.0,2023-06-20
+300,Sara,Naderi,F,sara.n@email.com,981235000000.0,Saadi St. 1971,Tehran,Iran,250,Microsoft Surface,1,1500.0,398.7916666666667,2023-06-25
+301,Mohsen,Safavi,M,mohsen.s@email.com,981235000000.0,Valiasr St. 1981,Tabriz,Iran,151,Samsung Tablet,1,500.0,398.7916666666667,2023-08-13
+302,Rezvan,Naseri,F,rezvan.n@email.com,981235000000.0,Enqelab St. 1991,Esfahan,Iran,152,Corsair Gaming Mouse,2,40.0,80.0,2023-08-18
+303,Arash,Ranjbar,M,arash.r@email.com,981235000000.0,Mellat St. 2001,Shiraz,Iran,153,LG Sound System,1,350.0,350.0,2023-01-05
+304,Hassan,Karami,M,hassan.k@email.com,981235000000.0,Ferdowsi St. 2001,Shiraz,Iran,154,Anker Wireless Charger,2,25.0,398.7916666666667,2023-01-05
+305,Nasrin,Nouri,F,nasrin.n@email.com,981235000000.0,Saadi St. 2002,Tehran,Iran,155,PlayStation VR,1,700.0,398.7916666666667,2023-08-31
+306,Amir,Hosseini,M,amir.h@email.com,981235000000.0,Valiasr St. 2003,Tabriz,Iran,156,Sennheiser Headphones,1,120.0,120.0,2023-01-05
+307,Sara,Fallah,F,sara.f@email.com,981235000000.0,Enqelab St. 2004,Esfahan,Iran,157,Fitbit Fitness Tracker,3,60.0,180.0,2023-09-09
+308,Mohammad,Soltani,M,mohammad.s@email.com,981235000000.0,Mellat St. 2005,Shiraz,Iran,158,Canon Inkjet Printer,1,80.0,398.7916666666667,2023-09-14
+309,Fatemeh,Ahmadi,F,fatemeh.a@email.com,981235000000.0,Shariati St. 2006,Tehran,Iran,159,DJI Drone,2,400.0,800.0,2023-01-05
+310,Reza,Mousavi,M,reza.m@email.com,981235000000.0,Ferdowsi St. 2007,Tabriz,Iran,160,Google Home,1,100.0,398.7916666666667,2023-09-23
+311,Maryam,Rostami,F,maryam.r@email.com,981235000000.0,Saadi St. 2008,Esfahan,Iran,161,Samsung Mobile,2,550.0,398.7916666666667,2023-01-05
+312,Milad,Golzar,M,milad.g@email.com,981235000000.0,Valiasr St. 2009,Shiraz,Iran,162,Asus Laptop,1,1200.0,398.7916666666667,2023-01-05
+313,Maryam,Azimi,F,maryam.a@email.com,981235000000.0,Enqelab St. 2010,Tehran,Iran,163,Nikon Camera,3,450.0,1350.0,2023-01-05
+314,Ali,Majidi,M,ali.m@email.com,981235000000.0,Mellat St. 2011,Tabriz,Iran,164,Bluetooth Headphones,2,80.0,398.7916666666667,2023-01-05
+315,Sahar,Mohammadi,F,sahar.m@email.com,981235000000.0,Shariati St. 2012,Esfahan,Iran,165,LG TV,1,1800.0,1800.0,2023-01-20
+316,Kamran,Hosseini,M,kamran.h@email.com,981235000000.0,Ferdowsi St. 2013,Shiraz,Iran,166,Beats Speaker,4,120.0,398.7916666666667,2023-01-25
+317,Fariba,Ahmadi,F,fariba.a@email.com,981235000000.0,Saadi St. 2014,Tehran,Iran,167,Gaming Keyboard,1,60.0,398.7916666666667,2023-01-05
+318,Milad,Rezazadeh,M,milad.r@email.com,981235000000.0,Valiasr St. 2015,Tabriz,Iran,168,Gaming Mouse,2,40.0,80.0,2023-01-05
+319,Nasrin,Arab,F,nasrin.a@email.com,981235000000.0,Enqelab St. 2016,Esfahan,Iran,169,Anker Power Bank,1,30.0,398.7916666666667,2023-01-05
+320,Ali,Mehrani,M,ali.m@email.com,981235000000.0,Mellat St. 2017,Shiraz,Iran,170,External Hard Drive,1,378.45188284518827,90.0,2023-02-10
+321,Leila,Khoshkhou,F,leila.k@email.com,981235000000.0,Shariati St. 2018,Tehran,Iran,171,HP Printer,3,150.0,450.0,2023-02-15
+323,Mona,Ghafari,F,mona.g@email.com,981235000000.0,Saadi St. 2020,Esfahan,Iran,173,Dell Monitor,1,350.0,350.0,2023-02-22
+324,Arman,Hosseini,M,arman.h@email.com,981235000000.0,Valiasr St. 2021,Shiraz,Iran,174,Laptop Bag,2,25.0,398.7916666666667,2023-01-05
+325,Fatemeh,Miri,F,fatemeh.m@email.com,981235000000.0,Enqelab St. 2022,Tehran,Iran,175,Gaming Mouse Pad,1,378.45188284518827,15.0,2023-03-03
+326,Mohammad,Taghavi,M,mohammad.t@email.com,981235000000.0,Mellat St. 2023,Tabriz,Iran,176,Security Camera,4,100.0,400.0,2023-01-05
+327,Sara,Khalili,F,sara.k@email.com,981235000000.0,Shariati St. 2024,Esfahan,Iran,177,Apple iPhone,1,1400.0,398.7916666666667,2023-03-12
+328,Kamran,Karimi,M,kamran.k@email.com,981235000000.0,Ferdowsi St. 2025,Shiraz,Iran,178,Sony Headphones,2,60.0,120.0,2023-03-17
+329,Sara,Naderi,F,sara.n@email.com,981235000000.0,Saadi St. 2026,Tehran,Iran,179,Dell Laptop,1,1100.0,1100.0,2023-01-05
+330,Mohsen,Safavi,M,mohsen.s@email.com,981235000000.0,Valiasr St. 2027,Tabriz,Iran,180,PlayStation 5,1,900.0,398.7916666666667,2023-03-26
+331,Rezvan,Naseri,F,rezvan.n@email.com,981235000000.0,Enqelab St. 2028,Esfahan,Iran,181,TP-Link Modem,3,50.0,150.0,2023-01-05
+332,Arash,Ranjbar,M,arash.r@email.com,981235000000.0,Mellat St. 2029,Shiraz,Iran,182,Bluetooth Keyboard,1,35.0,398.7916666666667,2023-01-05
+334,Farzaneh,Kiani,F,farzaneh.k@email.com,981235000000.0,Ferdowsi St. 2031,Shiraz,Iran,184,Xbox Gaming Console,1,800.0,800.0,2023-01-05
+335,Ali,Movahedi,M,ali.m@email.com,981235000000.0,Saadi St. 2032,Tehran,Iran,185,Internal Hard Disk,1,120.0,398.7916666666667,2023-01-05
+336,Leila,Hosseini,F,leila.h@email.com,981235000000.0,Valiasr St. 2033,Tabriz,Iran,186,Bluetooth Headset,2,25.0,50.0,2023-01-05
+337,Mohammad,Ahmadi,M,mohammad.a@email.com,981235000000.0,Enqelab St. 2034,Esfahan,Iran,187,Sony TV,1,1600.0,398.7916666666667,2023-01-05
+338,Sara,Fallah,F,sara.f@email.com,981235000000.0,Mellat St. 2035,Shiraz,Iran,188,Xiaomi Phone,3,300.0,398.7916666666667,2023-05-02
+339,Amir,Soltani,M,amir.s@email.com,981235000000.0,Shariati St. 2036,Tehran,Iran,189,Smart Speaker,1,75.0,398.7916666666667,2023-01-05
+340,Nasrin,Mohammadi,F,nasrin.m@email.com,981235000000.0,Ferdowsi St. 2037,Tabriz,Iran,190,Wireless Mouse,2,20.0,40.0,2023-05-11
+341,Saeed,Rezazadeh,M,saeed.r@email.com,981235000000.0,Saadi St. 2038,Esfahan,Iran,191,Nintendo Gaming Console,1,350.0,398.7916666666667,2023-01-05
+342,Sara,Ahmadi,F,sara.a@email.com,981235000000.0,Valiasr St. 2039,Shiraz,Iran,192,Gaming Headphones,1,90.0,90.0,2023-01-05
+343,Milad,Hashemi,M,milad.h@email.com,981235000000.0,Enqelab St. 2040,Tehran,Iran,193,Acer Laptop,2,1000.0,398.7916666666667,2023-05-24
+344,Fatemeh,Jalali,F,fatemeh.j@email.com,981235000000.0,Mellat St. 2041,Tabriz,Iran,194,Western Digital External Hard Drive,1,80.0,80.0,2023-01-05
+345,Ali,Kazemi,M,ali.k@email.com,981235000000.0,Shariati St. 2042,Esfahan,Iran,195,Samsung Camera,1,400.0,398.7916666666667,2023-01-05
+346,Sara,Safavi,F,sara.s@email.com,981235000000.0,Ferdowsi St. 2043,Shiraz,Iran,196,Huawei Phone,4,250.0,1000.0,2023-01-05
+347,Amir,Mohajer,M,amir.m@email.com,981235000000.0,Saadi St. 2044,Tehran,Iran,197,PlayStation Games,1,60.0,398.7916666666667,2023-06-11
+348,Leyla,Golzar,F,leyla.g@email.com,981235000000.0,Valiasr St. 2045,Shiraz,Iran,198,Sony Soundbar,2,200.0,398.7916666666667,2023-06-16
+350,Maryam,Hosseini,F,maryam.h@email.com,981235000000.0,Mellat St. 2047,Tabriz,Iran,200,Microsoft Surface,1,1500.0,398.7916666666667,2023-06-25

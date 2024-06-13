@@ -1,0 +1,28 @@
+------------------------exam>50--------------------------------------------------------------------------
+db.score.find({scores:{$elemMatch:{type:'exam',score:{$gt:50}}}})
+
+
+----------------------------------coursecode = 16----------------------------------------------------
+db.score.find({course_Code:{$eq:16}})
+
+
+
+-----------------------------homework score < 20-------------------------------------------------------
+db.score.find({$and:[{course_Code:{$eq:28}},{scores:{$elemMatch:{type:'homework',score:{$lt:20}}}}]})
+
+
+
+
+
+
+---------------------set exam score : 0 TO exam score: 10----------------------------------------------
+db.score.updateMany({scores:{$elemMatch:{type:'exam' , score:0}}},{$set:{'scores.$.score': 10}})
+
+
+
+
+----------------------------------add grade A for score > 90--------------------------------------------------
+db.score.updateMany({scores:{$elemMatch:{type:'exam' , score:{$gt:90}}}},{$set:{grade:'A'}})
+
+
+

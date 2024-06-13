@@ -1,0 +1,251 @@
+transaction_id,customer_id,product_name,quantity,unit_price,total_amount,date
+1,101,Samsung Mobile,2,550,,1/5/2023
+2,102,Asus Laptop,1,1200,1/8/2023,
+3,103,Nikon Camera,3,450,1350,
+4,104,Bluetooth Headphones,2,80,1/15/2023,
+5,105,LG TV,1,1800,1800,1/20/2023
+6,106,Beats Speaker,4,120,,1/25/2023
+7,107,Gaming Keyboard,1,60,1/28/2023,
+8,108,Gaming Mouse,2,40,80,
+9,109,Anker Power Bank,1,30,2/6/2023,
+10,110,External Hard Drive,1,,90,2/10/2023
+11,111,HP Printer,3,150,450,2/15/2023
+12,112,Razer Headset,2,70,2/18/2023,
+13,113,Dell Monitor,1,350,350,2/22/2023
+14,114,Laptop Bag,2,25,2/27/2023,
+15,115,Gaming Mouse Pad,1,,15,3/3/2023
+16,116,Security Camera,4,100,400,
+17,117,Apple iPhone,1,1400,,3/12/2023
+18,118,Sony Headphones,2,60,120,3/17/2023
+19,119,Dell Laptop,1,1100,1100,
+20,120,PlayStation 5,1,900,,3/26/2023
+21,121,TP-Link Modem,3,50,150,
+22,122,Bluetooth Keyboard,1,35,4/4/2023,
+23,123,Gillette Shaver,2,40,80,4/9/2023
+24,124,Xbox Gaming Console,1,800,800,
+25,125,Internal Hard Disk,1,120,4/18/2023,
+26,126,Bluetooth Headset,2,25,50,
+27,127,Sony TV,1,1600,4/27/2023,
+28,128,Xiaomi Phone,3,300,,5/2/2023
+29,129,Smart Speaker,1,75,5/6/2023,
+30,130,Wireless Mouse,2,20,40,5/11/2023
+31,131,Nintendo Gaming Console,1,350,5/15/2023,
+32,132,Gaming Headphones,1,90,90,
+33,133,Acer Laptop,2,1000,,5/24/2023
+34,134,Western Digital External Hard Drive,1,80,80,
+35,135,Samsung Camera,1,400,6/2/2023,
+36,136,Huawei Phone,4,250,1000,
+37,137,PlayStation Games,1,60,,6/11/2023
+38,138,Sony Soundbar,2,200,,6/16/2023
+39,139,Smart Watch,1,120,120,6/20/2023
+40,140,Microsoft Surface,1,1500,,6/25/2023
+41,141,Logitech Webcam,3,80,240,6/29/2023
+42,142,External SSD,1,,70,7/4/2023
+43,143,Google Pixel,2,500,7/8/2023,
+44,144,Wireless Earbuds,1,50,,7/13/2023
+45,145,Canon DSLR Camera,1,600,7/17/2023,
+46,146,Amazon Echo,3,120,360,
+47,147,Lenovo Tablet,1,300,7/26/2023,
+48,148,Samsung Smartwatch,2,180,360,
+49,149,Asus Gaming Laptop,1,1400,,8/4/2023
+50,150,JBL Portable Speaker,2,90,180,8/9/2023
+51,151,Samsung Tablet,1,500,,8/13/2023
+52,152,Corsair Gaming Mouse,2,40,80,8/18/2023
+53,153,LG Sound System,1,350,350,
+54,154,Anker Wireless Charger,2,25,8/27/2023,
+55,155,PlayStation VR,1,700,,8/31/2023
+56,156,Sennheiser Headphones,1,120,120,
+57,157,Fitbit Fitness Tracker,3,60,180,9/9/2023
+58,158,Canon Inkjet Printer,1,80,,9/14/2023
+59,159,DJI Drone,2,400,800,
+60,160,Google Home,1,100,,9/23/2023
+61,161,Samsung Mobile,2,550,,1/5/2023
+62,162,Asus Laptop,1,1200,1/8/2023,
+63,163,Nikon Camera,3,450,1350,
+64,164,Bluetooth Headphones,2,80,1/15/2023,
+65,165,LG TV,1,1800,1800,1/20/2023
+66,166,Beats Speaker,4,120,,1/25/2023
+67,167,Gaming Keyboard,1,60,1/28/2023,
+68,168,Gaming Mouse,2,40,80,
+69,169,Anker Power Bank,1,30,2/6/2023,
+70,170,External Hard Drive,1,,90,2/10/2023
+71,171,HP Printer,3,150,450,2/15/2023
+72,172,Razer Headset,2,70,2/18/2023,
+73,173,Dell Monitor,1,350,350,2/22/2023
+74,174,Laptop Bag,2,25,2/27/2023,
+75,175,Gaming Mouse Pad,1,,15,3/3/2023
+76,176,Security Camera,4,100,400,
+77,177,Apple iPhone,1,1400,,3/12/2023
+78,178,Sony Headphones,2,60,120,3/17/2023
+79,179,Dell Laptop,1,1100,1100,
+80,180,PlayStation 5,1,900,,3/26/2023
+81,181,TP-Link Modem,3,50,150,
+82,182,Bluetooth Keyboard,1,35,4/4/2023,
+83,183,Gillette Shaver,2,40,80,4/9/2023
+84,184,Xbox Gaming Console,1,800,800,
+85,185,Internal Hard Disk,1,120,4/18/2023,
+86,186,Bluetooth Headset,2,25,50,
+87,187,Sony TV,1,1600,4/27/2023,
+88,188,Xiaomi Phone,3,300,,5/2/2023
+89,189,Smart Speaker,1,75,5/6/2023,
+90,190,Wireless Mouse,2,20,40,5/11/2023
+91,191,Nintendo Gaming Console,1,350,5/15/2023,
+92,192,Gaming Headphones,1,90,90,
+93,193,Acer Laptop,2,1000,,5/24/2023
+94,194,Western Digital External Hard Drive,1,80,80,
+95,195,Samsung Camera,1,400,6/2/2023,
+96,196,Huawei Phone,4,250,1000,
+97,197,PlayStation Games,1,60,,6/11/2023
+98,198,Sony Soundbar,2,200,,6/16/2023
+99,199,Smart Watch,1,120,120,6/20/2023
+100,200,Microsoft Surface,1,1500,,6/25/2023
+101,201,Google Pixel,2,500,,7/8/2023
+102,202,Wireless Earbuds,1,50,,7/13/2023
+103,203,Canon DSLR Camera,1,600,7/17/2023,
+104,204,Amazon Echo,3,120,360,
+105,205,Lenovo Tablet,1,300,7/26/2023,
+106,206,Samsung Smartwatch,2,180,360,
+107,207,Asus Gaming Laptop,1,1400,,8/4/2023
+108,208,JBL Portable Speaker,2,90,180,8/9/2023
+109,209,Samsung Tablet,1,500,,8/13/2023
+110,210,Corsair Gaming Mouse,2,40,80,8/18/2023
+111,211,LG Sound System,1,350,350,
+112,212,Anker Wireless Charger,2,25,8/27/2023,
+113,213,PlayStation VR,1,700,,8/31/2023
+114,214,Sennheiser Headphones,1,120,120,
+115,215,Fitbit Fitness Tracker,3,60,180,9/9/2023
+116,216,Canon Inkjet Printer,1,80,,9/14/2023
+117,217,DJI Drone,2,400,800,
+118,218,Google Home,1,100,,9/23/2023
+119,219,Samsung Mobile,2,550,,1/5/2023
+120,220,Asus Laptop,1,1200,1/8/2023,
+121,221,Nikon Camera,3,450,1350,
+122,222,Bluetooth Headphones,2,80,1/15/2023,
+123,223,LG TV,1,1800,1800,1/20/2023
+124,224,Beats Speaker,4,120,,1/25/2023
+125,225,Gaming Keyboard,1,60,1/28/2023,
+126,226,Gaming Mouse,2,40,80,
+127,227,Anker Power Bank,1,30,2/6/2023,
+128,228,External Hard Drive,1,,90,2/10/2023
+129,229,HP Printer,3,150,450,2/15/2023
+130,230,Razer Headset,2,70,2/18/2023,
+131,231,Dell Monitor,1,350,350,2/22/2023
+132,232,Laptop Bag,2,25,2/27/2023,
+133,233,Gaming Mouse Pad,1,,15,3/3/2023
+134,234,Security Camera,4,100,400,
+135,235,Apple iPhone,1,1400,,3/12/2023
+136,236,Sony Headphones,2,60,120,3/17/2023
+137,237,Dell Laptop,1,1100,1100,
+138,238,PlayStation 5,1,900,,3/26/2023
+139,239,TP-Link Modem,3,50,150,
+140,240,Bluetooth Keyboard,1,35,4/4/2023,
+141,241,Gillette Shaver,2,40,80,4/9/2023
+142,242,Xbox Gaming Console,1,800,800,
+143,243,Internal Hard Disk,1,120,4/18/2023,
+144,244,Bluetooth Headset,2,25,50,
+145,245,Sony TV,1,1600,4/27/2023,
+146,246,Xiaomi Phone,3,300,,5/2/2023
+147,247,Smart Speaker,1,75,5/6/2023,
+148,248,Wireless Mouse,2,20,40,5/11/2023
+149,249,Nintendo Gaming Console,1,350,5/15/2023,
+150,250,Gaming Headphones,1,90,90,
+151,301,Samsung Tablet,1,500,,8/13/2023
+152,302,Corsair Gaming Mouse,2,40,80,8/18/2023
+153,303,LG Sound System,1,350,350,
+154,304,Anker Wireless Charger,2,25,8/27/2023,
+155,305,PlayStation VR,1,700,,8/31/2023
+156,306,Sennheiser Headphones,1,120,120,
+157,307,Fitbit Fitness Tracker,3,60,180,9/9/2023
+158,308,Canon Inkjet Printer,1,80,,9/14/2023
+159,309,DJI Drone,2,400,800,
+160,310,Google Home,1,100,,9/23/2023
+161,311,Samsung Mobile,2,550,,1/5/2023
+162,312,Asus Laptop,1,1200,1/8/2023,
+163,313,Nikon Camera,3,450,1350,
+164,314,Bluetooth Headphones,2,80,1/15/2023,
+165,315,LG TV,1,1800,1800,1/20/2023
+166,316,Beats Speaker,4,120,,1/25/2023
+167,317,Gaming Keyboard,1,60,1/28/2023,
+168,318,Gaming Mouse,2,40,80,
+169,319,Anker Power Bank,1,30,2/6/2023,
+170,320,External Hard Drive,1,,90,2/10/2023
+171,321,HP Printer,3,150,450,2/15/2023
+172,322,Razer Headset,2,70,2/18/2023,
+173,323,Dell Monitor,1,350,350,2/22/2023
+174,324,Laptop Bag,2,25,2/27/2023,
+175,325,Gaming Mouse Pad,1,,15,3/3/2023
+176,326,Security Camera,4,100,400,
+177,327,Apple iPhone,1,1400,,3/12/2023
+178,328,Sony Headphones,2,60,120,3/17/2023
+179,329,Dell Laptop,1,1100,1100,
+180,330,PlayStation 5,1,900,,3/26/2023
+181,331,TP-Link Modem,3,50,150,
+182,332,Bluetooth Keyboard,1,35,4/4/2023,
+183,333,Gillette Shaver,2,40,80,4/9/2023
+184,334,Xbox Gaming Console,1,800,800,
+185,335,Internal Hard Disk,1,120,4/18/2023,
+186,336,Bluetooth Headset,2,25,50,
+187,337,Sony TV,1,1600,4/27/2023,
+188,338,Xiaomi Phone,3,300,,5/2/2023
+189,339,Smart Speaker,1,75,5/6/2023,
+190,340,Wireless Mouse,2,20,40,5/11/2023
+191,341,Nintendo Gaming Console,1,350,5/15/2023,
+192,342,Gaming Headphones,1,90,90,
+193,343,Acer Laptop,2,1000,,5/24/2023
+194,344,Western Digital External Hard Drive,1,80,80,
+195,345,Samsung Camera,1,400,6/2/2023,
+196,346,Huawei Phone,4,250,1000,
+197,347,PlayStation Games,1,60,,6/11/2023
+198,348,Sony Soundbar,2,200,,6/16/2023
+199,349,Smart Watch,1,120,120,6/20/2023
+200,350,Microsoft Surface,1,1500,,6/25/2023
+201,251,Samsung Tablet,1,500,,8/13/2023
+202,252,Corsair Gaming Mouse,2,40,80,8/18/2023
+203,253,LG Sound System,1,350,350,
+204,254,Anker Wireless Charger,2,25,8/27/2023,
+205,255,PlayStation VR,1,700,,8/31/2023
+206,256,Sennheiser Headphones,1,120,120,
+207,257,Fitbit Fitness Tracker,3,60,180,9/9/2023
+208,258,Canon Inkjet Printer,1,80,,9/14/2023
+209,259,DJI Drone,2,400,800,
+210,260,Google Home,1,100,,9/23/2023
+211,261,Samsung Mobile,2,550,,1/5/2023
+212,262,Asus Laptop,1,1200,1/8/2023,
+213,263,Nikon Camera,3,450,1350,
+214,264,Bluetooth Headphones,2,80,1/15/2023,
+215,265,LG TV,1,1800,1800,1/20/2023
+216,266,Beats Speaker,4,120,,1/25/2023
+217,267,Gaming Keyboard,1,60,1/28/2023,
+218,268,Gaming Mouse,2,40,80,
+219,269,Anker Power Bank,1,30,2/6/2023,
+220,270,External Hard Drive,1,,90,2/10/2023
+221,271,HP Printer,3,150,450,2/15/2023
+222,272,Razer Headset,2,70,2/18/2023,
+223,273,Dell Monitor,1,350,350,2/22/2023
+224,274,Laptop Bag,2,25,2/27/2023,
+225,275,Gaming Mouse Pad,1,,15,3/3/2023
+226,276,Security Camera,4,100,400,
+227,277,Apple iPhone,1,1400,,3/12/2023
+228,278,Sony Headphones,2,60,120,3/17/2023
+229,279,Dell Laptop,1,1100,1100,
+230,280,PlayStation 5,1,900,,3/26/2023
+231,281,TP-Link Modem,3,50,150,
+232,282,Bluetooth Keyboard,1,35,4/4/2023,
+233,283,Gillette Shaver,2,40,80,4/9/2023
+234,284,Xbox Gaming Console,1,800,800,
+235,285,Internal Hard Disk,1,120,4/18/2023,
+236,286,Bluetooth Headset,2,25,50,
+237,287,Sony TV,1,1600,4/27/2023,
+238,288,Xiaomi Phone,3,300,,5/2/2023
+239,289,Smart Speaker,1,75,5/6/2023,
+240,290,Wireless Mouse,2,20,40,5/11/2023
+241,291,Nintendo Gaming Console,1,350,5/15/2023,
+242,292,Gaming Headphones,1,90,90,
+243,293,Acer Laptop,2,1000,,5/24/2023
+244,294,Western Digital External Hard Drive,1,80,80,
+245,295,Samsung Camera,1,400,6/2/2023,
+246,296,Huawei Phone,4,250,1000,
+247,297,PlayStation Games,1,60,,6/11/2023
+248,298,Sony Soundbar,2,200,,6/16/2023
+249,299,Smart Watch,1,120,120,6/20/2023
+250,300,Microsoft Surface,1,1500,,6/25/2023
