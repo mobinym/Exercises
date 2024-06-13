@@ -1,0 +1,108 @@
+[
+    {
+        "foodCode": 1,
+        "foodName": "Pizza",
+        "foodPrice": 180000,
+        "content": [
+            "Pepperoni",
+            "Cheese",
+            "Tomato sauce"
+        ]
+    },
+    {
+        "foodCode": 2,
+        "foodName": "Burger",
+        "foodPrice": 150000,
+        "content": [
+            "Beef patty",
+            "Lettuce",
+            "Tomato",
+            "Cheese"
+        ]
+    },
+    {
+        "foodCode": 3,
+        "foodName": "Pasta",
+        "foodPrice": 120000,
+        "content": [
+            "Spaghetti",
+            "Tomato sauce",
+            "Meatballs"
+        ]
+    },
+    {
+        "foodCode": 4,
+        "foodName": "Sushi",
+        "foodPrice": 200000,
+        "content": [
+            "Rice",
+            "Salmon",
+            "Avocado"
+        ]
+    },
+    {
+        "foodCode": 5,
+        "foodName": "Taco",
+        "foodPrice": 100000,
+        "content": [
+            "Tortilla",
+            "Beef",
+            "Cheese",
+            "Salsa"
+        ]
+    },
+    {
+        "foodCode": 6,
+        "foodName": "Salad",
+        "foodPrice": 90000,
+        "content": [
+            "Lettuce",
+            "Tomato",
+            "Cucumber",
+            "Carrots"
+        ]
+    },
+    {
+        "foodCode": 7,
+        "foodName": "Fried Rice",
+        "foodPrice": 80000,
+        "content": [
+            "Rice",
+            "Egg",
+            "Peas",
+            "Carrots"
+        ]
+    },
+    {
+        "foodCode": 8,
+        "foodName": "Sandwich",
+        "foodPrice": 70000,
+        "content": [
+            "Bread",
+            "Ham",
+            "Cheese",
+            "Lettuce"
+        ]
+    },
+    {
+        "foodCode": 9,
+        "foodName": "Stir Fry",
+        "foodPrice": 60000,
+        "content": [
+            "Noodles",
+            "Chicken",
+            "Broccoli",
+            "Carrots"
+        ]
+    },
+    {
+        "foodCode": 10,
+        "foodName": "Soup",
+        "foodPrice": 50000,
+        "content": [
+            "Chicken broth",
+            "Noodles",
+            "Carrots"
+        ]
+    }
+]

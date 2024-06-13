@@ -1,0 +1,2 @@
+FileName: files_in_python_edit.txt
+FileSize: 1KB
